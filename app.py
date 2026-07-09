@@ -160,7 +160,7 @@ if pagina == "Resumen":
   de las unidades no vende nada (solo autoconsumo). Aun así, quienes sí venden
   concentran el **{ctx['pct_ton_vendida']*100:.0f}%** del volumen: los que no venden
   son productores muy pequeños.
-- **El problema es comercial, no productivo:** los municipios con más población
+- **Probablemente el problema es comercial, no productivo:** ya que los municipios con más población
   indígena producen con mejor rendimiento y menor pérdida, pero reciben menor
   precio y menos crédito.
         """)
