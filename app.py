@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
 """
 Dashboard — Modelo competitivo de comercialización de café · Oaxaca
-.
+Proyecto General de Protocolo y Bases.
 
 Fuentes:
-  · SIAP (SIAP), Cierre de la producción agrícola, 2010-2024.
+  · SIAP (SIAP-SADER), Cierre de la producción agrícola, 2010-2024.
   · INEGI, Censo Agropecuario 2022.
   · INEGI, Índice Nacional de Precios al Consumidor (base 2Q jul-2018).
   · INEGI, Marco Geoestadístico (geometrías municipales).
@@ -122,7 +122,7 @@ st.sidebar.divider()
 st.sidebar.markdown("""
 <span style="font-size:12px; color:#8a7a6a;">
 <b>Fuentes:</b><br>
-SIAP. Cierre de la producción agrícola, 2010-2024.<br>
+SIAP-SADER. Cierre de la producción agrícola, 2010-2024.<br>
 INEGI. Censo Agropecuario 2022.<br>
 INEGI. INPC (base 2ª quincena julio 2018).<br>
 INEGI. Marco Geoestadístico.
@@ -132,7 +132,7 @@ INEGI. Marco Geoestadístico.
 # --------------------------------------------------------------------------- #
 st.title("Diagnóstico de producción y comercialización de café en Oaxaca")
 st.caption(f"Serie 2010-2024 · Precios reales en pesos de {anio_base} · "
-           )
+           "Proyecto General de Protocolo y Bases")
 
 # =========================================================================== #
 # RESUMEN
@@ -193,7 +193,7 @@ if pagina == "Precio justo":
     fig.update_layout(height=440, plot_bgcolor="white", yaxis_title="$/ton",
                       legend=dict(orientation="h", y=1.12), margin=dict(t=30, b=10))
     st.plotly_chart(fig, use_container_width=True)
-    fuente("SIAP (precio medio rural) deflactado con INPC de INEGI.")
+    fuente("SIAP-SADER (precio medio rural) deflactado con INPC de INEGI.")
     explica("la línea punteada beige es el precio en pesos corrientes (nominal); sube, pero "
             "engaña porque incluye inflación. La línea naranja es el precio real (descontada la "
             "inflación): si está plana, el productor no mejoró su poder de compra. La línea azul "
@@ -208,7 +208,7 @@ if pagina == "Precio justo":
     st.plotly_chart(figb, use_container_width=True)
     explica("cada barra es un año. Todas caen por debajo de cero: el productor oaxaqueño recibió "
             "menos que el promedio nacional en los 15 años. Entre más roja y baja la barra, mayor "
-            "la desventaja (el peor año fue 2012).")
+            "la desventaja (el peor año fue 2012, durante la crisis de la roya).")
 
 # =========================================================================== #
 # ESPECIALIZACIÓN
@@ -236,14 +236,12 @@ if pagina == "Especialización":
                            yaxis2=dict(title="HHI", overlaying="y", side="right"),
                            legend=dict(orientation="h", y=1.18), margin=dict(t=40, b=10))
         st.plotly_chart(figc, use_container_width=True)
-    fuente("Cálculo propio con datos de SIAP. LQ (cociente de localización), "
+    fuente("Cálculo propio con datos de SIAP-SADER. LQ (cociente de localización), "
            "índice de Gini e índice de Herfindahl-Hirschman (HHI).")
     explica("el LQ (izquierda) mide si Oaxaca se especializa en café más que el país: arriba de 1 "
-            "sí aunque cae con los años, señal de que el café pesa cada vez menos en su economía agrícola. "
-            "El índice Gini y HHI (derecha) miden si la producción se concentra en pocos municipios: se "
-            "mantienen altos, lo que justifica enfocar el proyecto en municipios específicos." 
-            "particularmente el índice Gini un valor de 0 significa la igualdad perfecta, y la unidad"
-            "representa la desigualdad máxima")
+            "sí. Cae con los años, señal de que el café pesa cada vez menos en su economía agrícola. "
+            "El Gini y HHI (derecha) miden si la producción se concentra en pocos municipios: se "
+            "mantienen altos, lo que justifica enfocar el proyecto en municipios específicos.")
 
 # =========================================================================== #
 # VULNERABILIDAD
@@ -260,11 +258,11 @@ if pagina == "Vulnerabilidad":
                       yaxis2=dict(title="Rendimiento (ton/ha)", overlaying="y", side="right"),
                       legend=dict(orientation="h", y=1.12), margin=dict(t=30, b=10))
     st.plotly_chart(fig, use_container_width=True)
-    fuente("SIAP. La vulnerabilidad se aproxima por la brecha entre superficie "
+    fuente("SIAP-SADER. La vulnerabilidad se aproxima por la brecha entre superficie "
            "sembrada y cosechada (el SIAP no registra 'siniestrada' en cultivos perennes).")
     explica("las barras marrones son el % de superficie sembrada que NO se llegó a cosechar (pérdida). "
             "La línea verde es el rendimiento. Cuando las barras suben y la línea baja (2015-2019), es "
-            "el posible efecto de algo que golpeó a la cafeticultura oaxaqueña.")
+            "la huella de la epidemia de roya que golpeó a la cafeticultura oaxaqueña.")
 
 # =========================================================================== #
 # COMERCIALIZACIÓN
@@ -348,11 +346,11 @@ if pagina == "Estructura × Desempeño":
                        showlegend=bool(munis_obj))
     st.plotly_chart(figs, use_container_width=True)
     fuente("Cálculo propio. Perfil: INEGI, Censo Agropecuario 2022 (soc03/soc04/cred01). "
-           "Desempeño: SIAP 2018-2024 deflactado.")
+           "Desempeño: SIAP-SADER 2018-2024 deflactado.")
     if len(d) > 10:
         r = np.corrcoef(d[eje_x], d[eje_y])[0, 1]
         explica(f"cada punto es un municipio; el tamaño es su volumen de café. La línea roja marca la "
-                f"tendencia. Correlación de Pearson: r = {r:+.3f} (n={len(d)}). Indica "
+                f"tendencia. Correlación de Pearson: r = {r:+.3f} (n={len(d)}). Recuerda: indica "
                 "asociación estadística, NO causa. Magnitudes débiles a moderadas.")
 
 # =========================================================================== #
@@ -383,9 +381,10 @@ if pagina == "🗺️ Mapa":
         figmap.update_layout(height=560, margin=dict(t=10, b=10, l=10, r=10))
         st.plotly_chart(figmap, use_container_width=True)
         fuente("Cálculo propio sobre geometrías de INEGI, Marco Geoestadístico. "
-               "Datos de café: SIAP y Censo Agropecuario 2022.")
+               "Datos de café: SIAP-SADER y Censo Agropecuario 2022.")
         explica("cada municipio se colorea según el indicador elegido (más oscuro = valor más alto). "
-                "Los municipios en blanco no tienen registro de café. Se puede ubicar geográficamente dónde se concentra la producción "
+                "Los municipios en blanco no tienen registro de café. Pasa el cursor para ver el "
+                "nombre y valor. Sirve para ubicar geográficamente dónde se concentra la producción "
                 "o dónde el precio es más bajo.")
 
         st.divider()
@@ -399,7 +398,7 @@ if pagina == "🗺️ Mapa":
         fign.update_layout(height=420, plot_bgcolor="white", showlegend=False,
                            margin=dict(t=10, b=10))
         st.plotly_chart(fign, use_container_width=True)
-        fuente("SIAP, cierre 2024.")
+        fuente("SIAP-SADER, cierre 2024.")
         explica("compara la producción de café de Oaxaca (naranja) con los demás estados productores. "
                 "Ubica a Oaxaca en el ranking nacional de volumen.")
 
@@ -419,7 +418,7 @@ if pagina == "Datos":
     st.divider()
     st.markdown("""
     **Referencias de fuentes (formato académico):**
-    - SIAP. (2024). *Cierre de la producción agrícola* (2010-2024). Servicio de
+    - SIAP-SADER. (2024). *Cierre de la producción agrícola* (2010-2024). Servicio de
       Información Agroalimentaria y Pesquera.
     - INEGI. (2023). *Censo Agropecuario 2022*. Instituto Nacional de Estadística y Geografía.
     - INEGI. (2024). *Índice Nacional de Precios al Consumidor* (base 2ª quincena julio 2018).
