@@ -1,0 +1,2498 @@
+NOMBRE,NOM_MUN,ENTIDAD,UP_TOTAL,UP_SOLIC_CRED,UP_OBTEN_CRED,UP_SOLIC_SEG,UP_OBTEN_SEG
+00 NAL,,Estados Unidos Mexicanos,4629134.0,300373.0,284114.0,97598.0,89860.0
+01 AGS,, Aguascalientes,19648.0,815.0,728.0,155.0,138.0
+01 AGS,Aguascalientes,  Aguascalientes,3098.0,137.0,127.0,15.0,12.0
+01 AGS,Asientos,  Asientos,3302.0,122.0,109.0,23.0,21.0
+01 AGS,Calvillo,  Calvillo,2659.0,94.0,79.0,35.0,25.0
+01 AGS,Cosío,  Cosío,1049.0,99.0,96.0,20.0,20.0
+01 AGS,Jesús María,  Jesús María,1451.0,49.0,37.0,5.0,5.0
+01 AGS,Pabellón de Arteaga,  Pabellón De Arteaga,989.0,54.0,49.0,7.0,7.0
+01 AGS,Rincón de Romos,  Rincón De Romos,1709.0,110.0,101.0,26.0,24.0
+01 AGS,San José de Gracia,  San José De Gracia,1060.0,19.0,18.0,6.0,6.0
+01 AGS,Tepezalá,  Tepezalá,1586.0,70.0,63.0,10.0,10.0
+01 AGS,El Llano,  El Llano,2199.0,34.0,28.0,3.0,3.0
+01 AGS,San Francisco de los Romo,  San Francisco De Los Romo,546.0,27.0,21.0,5.0,5.0
+02 BCN,, Baja California,7777.0,1837.0,1741.0,1549.0,1470.0
+02 BCN,Ensenada,  Ensenada,1483.0,119.0,101.0,69.0,65.0
+02 BCN,Mexicali,  Mexicali,4964.0,1624.0,1572.0,1450.0,1377.0
+02 BCN,Tecate,  Tecate,270.0,18.0,15.0,3.0,3.0
+02 BCN,Tijuana,  Tijuana,159.0,7.0,2.0,2.0,2.0
+02 BCN,Playas de Rosarito,  Playas De Rosarito,100.0,2.0,2.0,0.0,0.0
+02 BCN,San Quintín,  San Quintín,778.0,67.0,49.0,24.0,22.0
+02 BCN,San Felipe,  San Felipe,23.0,0.0,0.0,1.0,1.0
+03 BCS,, Baja California Sur,4606.0,328.0,283.0,148.0,138.0
+03 BCS,Comondú,  Comondú,1253.0,190.0,174.0,104.0,99.0
+03 BCS,Mulegé,  Mulegé,723.0,16.0,11.0,5.0,5.0
+03 BCS,La Paz,  La Paz,1599.0,96.0,78.0,38.0,33.0
+03 BCS,Los Cabos,  Los Cabos,934.0,22.0,18.0,1.0,1.0
+03 BCS,Loreto,  Loreto,97.0,4.0,2.0,0.0,0.0
+04 CAM,, Campeche,53018.0,4519.0,4183.0,1980.0,1871.0
+04 CAM,Calkiní,  Calkiní,1605.0,41.0,30.0,14.0,10.0
+04 CAM,Campeche,  Campeche,5709.0,716.0,677.0,300.0,275.0
+04 CAM,Carmen,  Carmen,4847.0,158.0,119.0,57.0,50.0
+04 CAM,Champotón,  Champotón,7368.0,314.0,260.0,185.0,172.0
+04 CAM,Hecelchakán,  Hecelchakán,2883.0,546.0,526.0,164.0,158.0
+04 CAM,Hopelchén,  Hopelchén,8432.0,1975.0,1915.0,984.0,958.0
+04 CAM,Palizada,  Palizada,1045.0,31.0,24.0,15.0,14.0
+04 CAM,Tenabo,  Tenabo,1764.0,248.0,229.0,95.0,94.0
+04 CAM,Escárcega,  Escárcega,4993.0,123.0,97.0,34.0,28.0
+04 CAM,Calakmul,  Calakmul,6178.0,77.0,64.0,24.0,20.0
+04 CAM,Candelaria,  Candelaria,6644.0,110.0,81.0,72.0,66.0
+04 CAM,Seybaplaya,  Seybaplaya,971.0,122.0,111.0,30.0,22.0
+04 CAM,Dzitbalché,  Dzitbalché,579.0,58.0,50.0,6.0,4.0
+05 COA,, Coahuila De Zaragoza,26189.0,2952.0,2839.0,1690.0,1621.0
+05 COA,Abasolo,  Abasolo,68.0,5.0,5.0,9.0,9.0
+05 COA,Acuña,  Acuña,149.0,2.0,1.0,1.0,1.0
+05 COA,Allende,  Allende,76.0,1.0,1.0,2.0,2.0
+05 COA,Arteaga,  Arteaga,1575.0,73.0,62.0,23.0,23.0
+05 COA,Candela,  Candela,215.0,6.0,5.0,4.0,4.0
+05 COA,Castaños,  Castaños,705.0,7.0,6.0,3.0,3.0
+05 COA,Cuatro Ciénegas,  Cuatro Ciénegas,672.0,32.0,28.0,23.0,23.0
+05 COA,Escobedo,  Escobedo,245.0,11.0,10.0,5.0,3.0
+05 COA,Francisco I. Madero,  Francisco I. Madero,1463.0,421.0,414.0,108.0,105.0
+05 COA,Frontera,  Frontera,268.0,9.0,7.0,6.0,6.0
+05 COA,General Cepeda,  General Cepeda,1608.0,16.0,14.0,6.0,4.0
+05 COA,Guerrero,  Guerrero,162.0,3.0,3.0,1.0,1.0
+05 COA,Hidalgo,  Hidalgo,71.0,7.0,7.0,1.0,1.0
+05 COA,Jiménez,  Jiménez,729.0,23.0,23.0,7.0,7.0
+05 COA,Juárez,  Juárez,163.0,1.0,1.0,0.0,0.0
+05 COA,Lamadrid,  Lamadrid,107.0,6.0,6.0,2.0,2.0
+05 COA,Matamoros,  Matamoros,1882.0,437.0,422.0,194.0,180.0
+05 COA,Monclova,  Monclova,168.0,6.0,5.0,3.0,3.0
+05 COA,Morelos,  Morelos,115.0,3.0,2.0,0.0,0.0
+05 COA,Múzquiz,  Múzquiz,591.0,7.0,6.0,3.0,2.0
+05 COA,Nadadores,  Nadadores,304.0,17.0,15.0,12.0,11.0
+05 COA,Nava,  Nava,147.0,6.0,6.0,3.0,3.0
+05 COA,Ocampo,  Ocampo,488.0,11.0,10.0,4.0,4.0
+05 COA,Parras,  Parras,2128.0,62.0,55.0,18.0,18.0
+05 COA,Piedras Negras,  Piedras Negras,126.0,0.0,0.0,0.0,0.0
+05 COA,Progreso,  Progreso,212.0,9.0,9.0,3.0,3.0
+05 COA,Ramos Arizpe,  Ramos Arizpe,1145.0,59.0,49.0,34.0,31.0
+05 COA,Sabinas,  Sabinas,246.0,3.0,3.0,3.0,1.0
+05 COA,Sacramento,  Sacramento,125.0,11.0,9.0,6.0,5.0
+05 COA,Saltillo,  Saltillo,3263.0,83.0,73.0,33.0,25.0
+05 COA,San Buenaventura,  San Buenaventura,424.0,20.0,19.0,15.0,12.0
+05 COA,San Juan de Sabinas,  San Juan De Sabinas,245.0,5.0,5.0,2.0,2.0
+05 COA,San Pedro,  San Pedro,3882.0,1315.0,1294.0,1051.0,1037.0
+05 COA,Sierra Mojada,  Sierra Mojada,266.0,19.0,19.0,7.0,7.0
+05 COA,Torreón,  Torreón,561.0,58.0,57.0,23.0,20.0
+05 COA,Viesca,  Viesca,1003.0,175.0,166.0,60.0,49.0
+05 COA,Villa Unión,  Villa Unión,291.0,8.0,7.0,2.0,2.0
+05 COA,Zaragoza,  Zaragoza,301.0,15.0,15.0,13.0,12.0
+06 COL,, Colima,14476.0,1632.0,1497.0,816.0,763.0
+06 COL,Armería,  Armería,1966.0,188.0,159.0,28.0,24.0
+06 COL,Colima,  Colima,1594.0,176.0,159.0,111.0,101.0
+06 COL,Comala,  Comala,1145.0,73.0,68.0,51.0,50.0
+06 COL,Coquimatlán,  Coquimatlán,1510.0,139.0,133.0,44.0,42.0
+06 COL,Cuauhtémoc,  Cuauhtémoc,1807.0,384.0,370.0,356.0,336.0
+06 COL,Ixtlahuacán,  Ixtlahuacán,659.0,57.0,48.0,21.0,20.0
+06 COL,Manzanillo,  Manzanillo,2288.0,262.0,242.0,99.0,94.0
+06 COL,Minatitlán,  Minatitlán,809.0,48.0,44.0,6.0,6.0
+06 COL,Tecomán,  Tecomán,2141.0,243.0,219.0,78.0,70.0
+06 COL,Villa de Álvarez,  Villa De Álvarez,557.0,62.0,55.0,22.0,20.0
+07 CHS,, Chiapas,492046.0,20779.0,19807.0,2496.0,2308.0
+07 CHS,Acacoyagua,  Acacoyagua,2134.0,41.0,32.0,5.0,4.0
+07 CHS,Acala,  Acala,2062.0,134.0,125.0,20.0,19.0
+07 CHS,Acapetahua,  Acapetahua,3348.0,94.0,87.0,16.0,14.0
+07 CHS,Altamirano,  Altamirano,4078.0,18.0,15.0,2.0,1.0
+07 CHS,Amatán,  Amatán,3740.0,31.0,28.0,2.0,2.0
+07 CHS,Amatenango de la Frontera,  Amatenango De La Frontera,2930.0,51.0,46.0,5.0,5.0
+07 CHS,Amatenango del Valle,  Amatenango Del Valle,1457.0,10.0,10.0,0.0,0.0
+07 CHS,Ángel Albino Corzo,  Ángel Albino Corzo,3968.0,400.0,393.0,3.0,3.0
+07 CHS,Arriaga,  Arriaga,1573.0,46.0,41.0,24.0,19.0
+07 CHS,Bejucal de Ocampo,  Bejucal De Ocampo,615.0,4.0,4.0,1.0,1.0
+07 CHS,Bella Vista,  Bella Vista,2143.0,10.0,10.0,0.0,0.0
+07 CHS,Berriozábal,  Berriozábal,2249.0,53.0,51.0,7.0,7.0
+07 CHS,Bochil,  Bochil,5304.0,72.0,66.0,5.0,3.0
+07 CHS,El Bosque,  El Bosque,4730.0,82.0,77.0,0.0,0.0
+07 CHS,Cacahoatán,  Cacahoatán,5718.0,271.0,263.0,9.0,8.0
+07 CHS,Catazajá,  Catazajá,2328.0,52.0,40.0,10.0,6.0
+07 CHS,Cintalapa de Figueroa,  Cintalapa De Figueroa,7537.0,663.0,635.0,105.0,90.0
+07 CHS,Coapilla,  Coapilla,1147.0,10.0,10.0,1.0,1.0
+07 CHS,Comitán de Domínguez,  Comitán De Domínguez,7723.0,99.0,92.0,6.0,6.0
+07 CHS,La Concordia,  La Concordia,9561.0,2068.0,2033.0,113.0,107.0
+07 CHS,Copainalá,  Copainalá,3313.0,47.0,45.0,8.0,8.0
+07 CHS,Chalchihuitán,  Chalchihuitán,2481.0,1.0,0.0,0.0,0.0
+07 CHS,Chamula,  Chamula,12886.0,395.0,379.0,1.0,0.0
+07 CHS,Chanal,  Chanal,1606.0,10.0,6.0,0.0,0.0
+07 CHS,Chapultenango,  Chapultenango,1478.0,6.0,5.0,3.0,3.0
+07 CHS,Chenalhó,  Chenalhó,5362.0,223.0,222.0,0.0,0.0
+07 CHS,Chiapa de Corzo,  Chiapa De Corzo,7235.0,514.0,483.0,47.0,40.0
+07 CHS,Chiapilla,  Chiapilla,731.0,15.0,15.0,0.0,0.0
+07 CHS,Chicoasén,  Chicoasén,679.0,1.0,1.0,0.0,0.0
+07 CHS,Chicomuselo,  Chicomuselo,4937.0,161.0,153.0,7.0,5.0
+07 CHS,Chilón,  Chilón,19499.0,173.0,165.0,3.0,1.0
+07 CHS,Escuintla,  Escuintla,3736.0,88.0,71.0,6.0,4.0
+07 CHS,Francisco León,  Francisco León,1296.0,7.0,7.0,1.0,1.0
+07 CHS,Frontera Comalapa,  Frontera Comalapa,5771.0,307.0,263.0,23.0,16.0
+07 CHS,Frontera Hidalgo,  Frontera Hidalgo,1104.0,75.0,72.0,5.0,5.0
+07 CHS,La Grandeza,  La Grandeza,781.0,5.0,5.0,0.0,0.0
+07 CHS,Huehuetán,  Huehuetán,4143.0,87.0,77.0,14.0,13.0
+07 CHS,Huixtán,  Huixtán,3040.0,18.0,16.0,1.0,1.0
+07 CHS,Huitiupán,  Huitiupán,4583.0,21.0,19.0,3.0,3.0
+07 CHS,Huixtla,  Huixtla,3453.0,231.0,221.0,73.0,71.0
+07 CHS,La Independencia,  La Independencia,9086.0,89.0,82.0,0.0,0.0
+07 CHS,Ixhuatán,  Ixhuatán,2636.0,22.0,21.0,1.0,1.0
+07 CHS,Ixtacomitán,  Ixtacomitán,950.0,8.0,8.0,2.0,1.0
+07 CHS,Ixtapa,  Ixtapa,5794.0,107.0,93.0,4.0,4.0
+07 CHS,Ixtapangajoya,  Ixtapangajoya,638.0,5.0,3.0,0.0,0.0
+07 CHS,Jiquipilas,  Jiquipilas,7164.0,1327.0,1274.0,229.0,220.0
+07 CHS,Jitotol,  Jitotol,4145.0,47.0,41.0,2.0,1.0
+07 CHS,Juárez,  Juárez,2342.0,12.0,11.0,6.0,5.0
+07 CHS,Larráinzar,  Larráinzar,3884.0,10.0,9.0,0.0,0.0
+07 CHS,La Libertad,  La Libertad,753.0,17.0,16.0,3.0,3.0
+07 CHS,Mapastepec,  Mapastepec,4998.0,153.0,131.0,17.0,15.0
+07 CHS,Las Margaritas,  Las Margaritas,16122.0,63.0,60.0,4.0,4.0
+07 CHS,Mazapa de Madero,  Mazapa De Madero,851.0,7.0,7.0,1.0,1.0
+07 CHS,Mazatán,  Mazatán,3482.0,157.0,109.0,26.0,22.0
+07 CHS,Metapa,  Metapa,294.0,18.0,16.0,1.0,1.0
+07 CHS,Mitontic,  Mitontic,1663.0,13.0,12.0,0.0,0.0
+07 CHS,Motozintla,  Motozintla,5600.0,54.0,54.0,5.0,5.0
+07 CHS,Nicolás Ruíz,  Nicolás Ruíz,484.0,82.0,82.0,1.0,0.0
+07 CHS,Ocosingo,  Ocosingo,22504.0,116.0,92.0,11.0,6.0
+07 CHS,Ocotepec,  Ocotepec,1167.0,58.0,58.0,0.0,0.0
+07 CHS,Ocozocoautla de Espinosa,  Ocozocoautla De Espinosa,8094.0,769.0,741.0,104.0,100.0
+07 CHS,Ostuacán,  Ostuacán,2024.0,32.0,29.0,9.0,9.0
+07 CHS,Osumacinta,  Osumacinta,387.0,11.0,9.0,0.0,0.0
+07 CHS,Oxchuc,  Oxchuc,5551.0,10.0,9.0,1.0,1.0
+07 CHS,Palenque,  Palenque,11191.0,145.0,122.0,19.0,17.0
+07 CHS,Pantelhó,  Pantelhó,2230.0,9.0,9.0,1.0,1.0
+07 CHS,Pantepec,  Pantepec,2329.0,31.0,29.0,0.0,0.0
+07 CHS,Pichucalco,  Pichucalco,2463.0,45.0,34.0,19.0,16.0
+07 CHS,Pijijiapan,  Pijijiapan,5077.0,164.0,151.0,24.0,22.0
+07 CHS,El Porvenir,  El Porvenir,1812.0,18.0,18.0,2.0,2.0
+07 CHS,Villa Comaltitlán,  Villa Comaltitlán,4080.0,169.0,160.0,9.0,8.0
+07 CHS,Pueblo Nuevo Solistahuacán,  Pueblo Nuevo Solistahuacán,4366.0,50.0,44.0,0.0,0.0
+07 CHS,Rayón,  Rayón,1180.0,9.0,8.0,0.0,0.0
+07 CHS,Reforma,  Reforma,1576.0,10.0,8.0,3.0,2.0
+07 CHS,Las Rosas,  Las Rosas,2549.0,175.0,166.0,22.0,18.0
+07 CHS,Sabanilla,  Sabanilla,5915.0,17.0,16.0,1.0,1.0
+07 CHS,Salto de Agua,  Salto De Agua,9342.0,59.0,50.0,7.0,7.0
+07 CHS,San Cristóbal de las Casas,  San Cristóbal De Las Casas,3547.0,126.0,109.0,2.0,1.0
+07 CHS,San Fernando,  San Fernando,2309.0,54.0,49.0,3.0,2.0
+07 CHS,Siltepec,  Siltepec,2859.0,25.0,24.0,5.0,4.0
+07 CHS,Simojovel,  Simojovel,5378.0,20.0,19.0,4.0,4.0
+07 CHS,Sitalá,  Sitalá,2260.0,3.0,3.0,0.0,0.0
+07 CHS,Socoltenango,  Socoltenango,5699.0,1004.0,981.0,357.0,329.0
+07 CHS,Solosuchiapa,  Solosuchiapa,1330.0,19.0,17.0,0.0,0.0
+07 CHS,Soyaló,  Soyaló,1352.0,37.0,37.0,0.0,0.0
+07 CHS,Suchiapa,  Suchiapa,1622.0,49.0,48.0,2.0,2.0
+07 CHS,Suchiate,  Suchiate,2088.0,243.0,225.0,17.0,17.0
+07 CHS,Sunuapa,  Sunuapa,357.0,4.0,2.0,2.0,2.0
+07 CHS,Tapachula,  Tapachula,11606.0,732.0,709.0,49.0,44.0
+07 CHS,Tapalapa,  Tapalapa,519.0,0.0,0.0,0.0,0.0
+07 CHS,Tapilula,  Tapilula,1105.0,13.0,10.0,1.0,1.0
+07 CHS,Tecpatán,  Tecpatán,2570.0,25.0,24.0,3.0,2.0
+07 CHS,Tenejapa,  Tenejapa,8303.0,148.0,147.0,1.0,1.0
+07 CHS,Teopisca,  Teopisca,2395.0,130.0,128.0,1.0,1.0
+07 CHS,Tila,  Tila,10818.0,34.0,31.0,1.0,1.0
+07 CHS,Tonalá,  Tonalá,4954.0,194.0,156.0,30.0,25.0
+07 CHS,Totolapa,  Totolapa,1751.0,172.0,168.0,31.0,27.0
+07 CHS,La Trinitaria,  La Trinitaria,12540.0,237.0,227.0,24.0,20.0
+07 CHS,Tumbalá,  Tumbalá,7697.0,35.0,32.0,1.0,0.0
+07 CHS,Tuxtla Gutiérrez,  Tuxtla Gutiérrez,675.0,17.0,16.0,1.0,1.0
+07 CHS,Tuxtla Chico,  Tuxtla Chico,3472.0,115.0,105.0,3.0,1.0
+07 CHS,Tuzantán,  Tuzantán,3039.0,106.0,103.0,0.0,0.0
+07 CHS,Tzimol,  Tzimol,2797.0,285.0,276.0,174.0,170.0
+07 CHS,Unión Juárez,  Unión Juárez,1971.0,68.0,67.0,2.0,2.0
+07 CHS,Venustiano Carranza,  Venustiano Carranza,7841.0,1116.0,1088.0,388.0,381.0
+07 CHS,Villa Corzo,  Villa Corzo,8952.0,1175.0,1140.0,33.0,31.0
+07 CHS,Villaflores,  Villaflores,11176.0,1885.0,1849.0,65.0,60.0
+07 CHS,Yajalón,  Yajalón,2957.0,23.0,22.0,1.0,1.0
+07 CHS,San Lucas,  San Lucas,1379.0,52.0,50.0,6.0,6.0
+07 CHS,Zinacantán,  Zinacantán,4134.0,435.0,422.0,2.0,0.0
+07 CHS,San Juan Cancuc,  San Juan Cancuc,2086.0,340.0,336.0,0.0,0.0
+07 CHS,Aldama,  Aldama,1169.0,12.0,1.0,0.0,0.0
+07 CHS,Benemérito de las Américas,  Benemérito De Las Américas,2412.0,37.0,32.0,5.0,4.0
+07 CHS,Maravilla Tenejapa,  Maravilla Tenejapa,2261.0,18.0,18.0,2.0,2.0
+07 CHS,Marqués de Comillas,  Marqués De Comillas,2429.0,54.0,47.0,9.0,8.0
+07 CHS,Montecristo de Guerrero,  Montecristo De Guerrero,1266.0,71.0,71.0,3.0,3.0
+07 CHS,San Andrés Duraznal,  San Andrés Duraznal,646.0,2.0,2.0,0.0,0.0
+07 CHS,Santiago el Pinar,  Santiago El Pinar,628.0,42.0,42.0,0.0,0.0
+07 CHS,Capitán Luis Ángel Vidal,  Capitán Luis Ángel Vidal,692.0,78.0,78.0,0.0,0.0
+07 CHS,Rincón Chamula San Pedro,  Rincón Chamula San Pedro,2476.0,22.0,20.0,0.0,0.0
+07 CHS,El Parral,  El Parral,2307.0,683.0,664.0,191.0,183.0
+07 CHS,Emiliano Zapata,  Emiliano Zapata,1883.0,91.0,84.0,6.0,5.0
+07 CHS,Mezcalapa,  Mezcalapa,2413.0,40.0,37.0,8.0,7.0
+07 CHS,Honduras de la Sierra,  Honduras De La Sierra,744.0,26.0,26.0,0.0,0.0
+08 CHI,, Chihuahua,85628.0,5081.0,4803.0,2313.0,2233.0
+08 CHI,Ahumada,  Ahumada,784.0,134.0,127.0,127.0,120.0
+08 CHI,Aldama,  Aldama,1218.0,86.0,82.0,36.0,36.0
+08 CHI,Allende,  Allende,1293.0,129.0,121.0,16.0,16.0
+08 CHI,Aquiles Serdán,  Aquiles Serdán,39.0,2.0,1.0,1.0,1.0
+08 CHI,Ascensión,  Ascensión,940.0,95.0,89.0,68.0,65.0
+08 CHI,Bachíniva,  Bachíniva,716.0,54.0,51.0,18.0,16.0
+08 CHI,Balleza,  Balleza,2272.0,18.0,14.0,6.0,6.0
+08 CHI,Batopilas de Manuel Gómez Morín,  Batopilas De Manuel Gómez Morín,1932.0,0.0,0.0,1.0,1.0
+08 CHI,Bocoyna,  Bocoyna,2482.0,3.0,3.0,0.0,0.0
+08 CHI,Buenaventura,  Buenaventura,1819.0,351.0,340.0,262.0,260.0
+08 CHI,Camargo,  Camargo,1446.0,77.0,66.0,29.0,28.0
+08 CHI,Carichí,  Carichí,1588.0,28.0,26.0,13.0,12.0
+08 CHI,Casas Grandes,  Casas Grandes,1083.0,58.0,51.0,34.0,34.0
+08 CHI,Coronado,  Coronado,585.0,74.0,68.0,6.0,4.0
+08 CHI,Coyame del Sotol,  Coyame Del Sotol,556.0,15.0,12.0,3.0,3.0
+08 CHI,La Cruz,  La Cruz,514.0,24.0,19.0,5.0,5.0
+08 CHI,Cuauhtémoc,  Cuauhtémoc,4743.0,646.0,631.0,369.0,357.0
+08 CHI,Cusihuiriachi,  Cusihuiriachi,1773.0,229.0,221.0,82.0,80.0
+08 CHI,Chihuahua,  Chihuahua,2405.0,112.0,99.0,53.0,48.0
+08 CHI,Chínipas,  Chínipas,878.0,0.0,0.0,0.0,0.0
+08 CHI,Delicias,  Delicias,674.0,74.0,68.0,21.0,21.0
+08 CHI,Dr. Belisario Domínguez,  Dr. Belisario Domínguez,893.0,12.0,11.0,4.0,4.0
+08 CHI,Galeana,  Galeana,516.0,46.0,40.0,24.0,22.0
+08 CHI,Santa Isabel,  Santa Isabel,609.0,22.0,20.0,6.0,5.0
+08 CHI,Gómez Farías,  Gómez Farías,1413.0,75.0,69.0,32.0,29.0
+08 CHI,Gran Morelos,  Gran Morelos,601.0,17.0,15.0,4.0,4.0
+08 CHI,Guachochi,  Guachochi,5974.0,17.0,15.0,1.0,0.0
+08 CHI,Guadalupe,  Guadalupe,424.0,27.0,24.0,22.0,22.0
+08 CHI,Guadalupe y Calvo,  Guadalupe Y Calvo,5988.0,6.0,6.0,2.0,1.0
+08 CHI,Guazapares,  Guazapares,929.0,0.0,0.0,0.0,0.0
+08 CHI,Guerrero,  Guerrero,3832.0,226.0,214.0,71.0,70.0
+08 CHI,Hidalgo del Parral,  Hidalgo Del Parral,627.0,38.0,32.0,6.0,6.0
+08 CHI,Huejotitán,  Huejotitán,356.0,2.0,1.0,0.0,0.0
+08 CHI,Ignacio Zaragoza,  Ignacio Zaragoza,1981.0,39.0,35.0,10.0,9.0
+08 CHI,Janos,  Janos,1466.0,252.0,247.0,191.0,188.0
+08 CHI,Jiménez,  Jiménez,1011.0,48.0,43.0,16.0,10.0
+08 CHI,Juárez,  Juárez,447.0,24.0,21.0,17.0,16.0
+08 CHI,Julimes,  Julimes,609.0,96.0,92.0,24.0,22.0
+08 CHI,López,  López,771.0,106.0,102.0,18.0,18.0
+08 CHI,Madera,  Madera,1974.0,94.0,91.0,43.0,42.0
+08 CHI,Maguarichi,  Maguarichi,131.0,0.0,0.0,0.0,0.0
+08 CHI,Manuel Benavides,  Manuel Benavides,347.0,9.0,8.0,4.0,4.0
+08 CHI,Matachí,  Matachí,434.0,25.0,25.0,4.0,4.0
+08 CHI,Matamoros,  Matamoros,748.0,35.0,35.0,11.0,11.0
+08 CHI,Meoqui,  Meoqui,1857.0,226.0,214.0,52.0,51.0
+08 CHI,Morelos,  Morelos,1016.0,0.0,0.0,0.0,0.0
+08 CHI,Moris,  Moris,675.0,0.0,0.0,0.0,0.0
+08 CHI,Namiquipa,  Namiquipa,3121.0,464.0,452.0,222.0,217.0
+08 CHI,Nonoava,  Nonoava,319.0,3.0,3.0,4.0,4.0
+08 CHI,Nuevo Casas Grandes,  Nuevo Casas Grandes,538.0,79.0,74.0,61.0,60.0
+08 CHI,Ocampo,  Ocampo,758.0,1.0,1.0,0.0,0.0
+08 CHI,Ojinaga,  Ojinaga,818.0,106.0,104.0,66.0,65.0
+08 CHI,Praxedis G. Guerrero,  Praxedis G. Guerrero,256.0,30.0,25.0,26.0,24.0
+08 CHI,Riva Palacio,  Riva Palacio,2015.0,196.0,193.0,95.0,94.0
+08 CHI,Rosales,  Rosales,1407.0,203.0,188.0,41.0,39.0
+08 CHI,Rosario,  Rosario,592.0,7.0,5.0,1.0,1.0
+08 CHI,San Francisco de Borja,  San Francisco De Borja,522.0,8.0,7.0,4.0,4.0
+08 CHI,San Francisco de Conchos,  San Francisco De Conchos,476.0,41.0,28.0,11.0,8.0
+08 CHI,San Francisco del Oro,  San Francisco Del Oro,377.0,13.0,11.0,5.0,4.0
+08 CHI,Santa Bárbara,  Santa Bárbara,385.0,13.0,12.0,1.0,1.0
+08 CHI,Satevó,  Satevó,1074.0,18.0,15.0,5.0,5.0
+08 CHI,Saucillo,  Saucillo,1543.0,201.0,193.0,47.0,44.0
+08 CHI,Temósachic,  Temósachic,847.0,19.0,17.0,0.0,0.0
+08 CHI,El Tule,  El Tule,404.0,4.0,4.0,0.0,0.0
+08 CHI,Urique,  Urique,2736.0,0.0,0.0,0.0,0.0
+08 CHI,Uruachi,  Uruachi,1178.0,0.0,0.0,0.0,0.0
+08 CHI,Valle de Zaragoza,  Valle De Zaragoza,893.0,24.0,22.0,12.0,12.0
+09 CDM,, Ciudad De México,11410.0,208.0,129.0,24.0,10.0
+09 CDM,Cuajimalpa de Morelos,  Cuajimalpa De Morelos,98.0,1.0,0.0,1.0,1.0
+09 CDM,Iztapalapa,  Iztapalapa,43.0,1.0,0.0,0.0,0.0
+09 CDM,La Magdalena Contreras,  La Magdalena Contreras,282.0,4.0,1.0,0.0,0.0
+09 CDM,Milpa Alta,  Milpa Alta,5062.0,55.0,40.0,6.0,2.0
+09 CDM,Álvaro Obregón,  Álvaro Obregón,155.0,3.0,0.0,1.0,1.0
+09 CDM,Tláhuac,  Tláhuac,2051.0,26.0,14.0,5.0,1.0
+09 CDM,Tlalpan,  Tlalpan,1198.0,52.0,25.0,5.0,2.0
+09 CDM,Xochimilco,  Xochimilco,2521.0,66.0,49.0,6.0,3.0
+10 DGO,, Durango,91425.0,8198.0,7772.0,1032.0,929.0
+10 DGO,Canatlán,  Canatlán,4905.0,676.0,646.0,73.0,64.0
+10 DGO,Canelas,  Canelas,338.0,3.0,3.0,1.0,1.0
+10 DGO,Coneto de Comonfort,  Coneto De Comonfort,1019.0,49.0,46.0,4.0,3.0
+10 DGO,Cuencamé,  Cuencamé,5500.0,462.0,432.0,50.0,47.0
+10 DGO,Durango,  Durango,9002.0,653.0,606.0,130.0,119.0
+10 DGO,General Simón Bolívar,  General Simón Bolívar,1860.0,149.0,141.0,10.0,10.0
+10 DGO,Gómez Palacio,  Gómez Palacio,3004.0,674.0,651.0,122.0,117.0
+10 DGO,Guadalupe Victoria,  Guadalupe Victoria,4062.0,530.0,505.0,70.0,64.0
+10 DGO,Guanaceví,  Guanaceví,1276.0,26.0,23.0,9.0,8.0
+10 DGO,Hidalgo,  Hidalgo,1112.0,94.0,81.0,25.0,23.0
+10 DGO,Indé,  Indé,1112.0,107.0,98.0,6.0,5.0
+10 DGO,Lerdo,  Lerdo,2140.0,245.0,214.0,36.0,34.0
+10 DGO,Mapimí,  Mapimí,1543.0,312.0,308.0,63.0,56.0
+10 DGO,Mezquital,  Mezquital,3704.0,65.0,62.0,1.0,1.0
+10 DGO,Nazas,  Nazas,1718.0,240.0,236.0,20.0,18.0
+10 DGO,Nombre de Dios,  Nombre De Dios,3177.0,339.0,323.0,32.0,29.0
+10 DGO,Ocampo,  Ocampo,2076.0,123.0,113.0,18.0,14.0
+10 DGO,El Oro,  El Oro,2099.0,75.0,68.0,10.0,9.0
+10 DGO,Otáez,  Otáez,786.0,3.0,3.0,1.0,1.0
+10 DGO,Pánuco de Coronado,  Pánuco De Coronado,2399.0,281.0,268.0,14.0,13.0
+10 DGO,Peñón Blanco,  Peñón Blanco,1711.0,123.0,117.0,21.0,18.0
+10 DGO,Poanas,  Poanas,4034.0,512.0,489.0,78.0,65.0
+10 DGO,Pueblo Nuevo,  Pueblo Nuevo,3330.0,32.0,27.0,0.0,0.0
+10 DGO,Rodeo,  Rodeo,1780.0,253.0,242.0,15.0,11.0
+10 DGO,San Bernardo,  San Bernardo,1257.0,49.0,47.0,12.0,11.0
+10 DGO,San Dimas,  San Dimas,2254.0,14.0,13.0,1.0,0.0
+10 DGO,San Juan de Guadalupe,  San Juan De Guadalupe,1517.0,55.0,51.0,9.0,7.0
+10 DGO,San Juan del Río,  San Juan Del Río,1983.0,79.0,72.0,7.0,6.0
+10 DGO,San Luis del Cordero,  San Luis Del Cordero,319.0,19.0,18.0,3.0,3.0
+10 DGO,San Pedro del Gallo,  San Pedro Del Gallo,361.0,38.0,37.0,5.0,4.0
+10 DGO,Santa Clara,  Santa Clara,2099.0,166.0,160.0,24.0,20.0
+10 DGO,Santiago Papasquiaro,  Santiago Papasquiaro,3597.0,280.0,260.0,24.0,24.0
+10 DGO,Súchil,  Súchil,1372.0,114.0,109.0,3.0,3.0
+10 DGO,Tamazula,  Tamazula,3049.0,12.0,9.0,0.0,0.0
+10 DGO,Tepehuanes,  Tepehuanes,1040.0,19.0,15.0,6.0,3.0
+10 DGO,Tlahualilo,  Tlahualilo,1742.0,399.0,389.0,73.0,72.0
+10 DGO,Topia,  Topia,586.0,0.0,0.0,0.0,0.0
+10 DGO,Vicente Guerrero,  Vicente Guerrero,1686.0,238.0,225.0,8.0,7.0
+10 DGO,Nuevo Ideal,  Nuevo Ideal,4876.0,690.0,665.0,48.0,39.0
+11 GTO,, Guanajuato,159838.0,19145.0,18321.0,4300.0,4003.0
+11 GTO,Abasolo,  Abasolo,5127.0,1097.0,1069.0,272.0,262.0
+11 GTO,Acámbaro,  Acámbaro,6399.0,784.0,745.0,122.0,114.0
+11 GTO,San Miguel de Allende,  San Miguel De Allende,6016.0,135.0,105.0,32.0,31.0
+11 GTO,Apaseo el Alto,  Apaseo El Alto,2334.0,200.0,188.0,26.0,22.0
+11 GTO,Apaseo el Grande,  Apaseo El Grande,2901.0,211.0,203.0,41.0,38.0
+11 GTO,Atarjea,  Atarjea,1030.0,5.0,4.0,1.0,0.0
+11 GTO,Celaya,  Celaya,4794.0,618.0,576.0,56.0,50.0
+11 GTO,Manuel Doblado,  Manuel Doblado,2824.0,560.0,553.0,87.0,83.0
+11 GTO,Comonfort,  Comonfort,3593.0,168.0,161.0,34.0,32.0
+11 GTO,Coroneo,  Coroneo,1002.0,36.0,35.0,0.0,0.0
+11 GTO,Cortazar,  Cortazar,1932.0,190.0,182.0,40.0,38.0
+11 GTO,Cuerámaro,  Cuerámaro,1992.0,354.0,345.0,31.0,27.0
+11 GTO,Doctor Mora,  Doctor Mora,1646.0,59.0,59.0,8.0,8.0
+11 GTO,Dolores Hidalgo Cuna de la Independencia Nacional,  Dolores Hidalgo Cuna De La Independencia Nacional,6152.0,283.0,265.0,60.0,53.0
+11 GTO,Guanajuato,  Guanajuato,2106.0,75.0,64.0,8.0,3.0
+11 GTO,Huanímaro,  Huanímaro,1947.0,660.0,651.0,233.0,230.0
+11 GTO,Irapuato,  Irapuato,8592.0,1166.0,1133.0,315.0,308.0
+11 GTO,Jaral del Progreso,  Jaral Del Progreso,1835.0,358.0,351.0,121.0,117.0
+11 GTO,Jerécuaro,  Jerécuaro,6082.0,421.0,402.0,37.0,32.0
+11 GTO,León,  León,4415.0,428.0,355.0,38.0,35.0
+11 GTO,Moroleón,  Moroleón,444.0,15.0,11.0,1.0,1.0
+11 GTO,Ocampo,  Ocampo,2288.0,274.0,255.0,30.0,29.0
+11 GTO,Pénjamo,  Pénjamo,12533.0,2949.0,2888.0,878.0,846.0
+11 GTO,Pueblo Nuevo,  Pueblo Nuevo,797.0,95.0,94.0,21.0,20.0
+11 GTO,Purísima del Rincón,  Purísima Del Rincón,960.0,113.0,110.0,36.0,35.0
+11 GTO,Romita,  Romita,4261.0,466.0,445.0,28.0,23.0
+11 GTO,Salamanca,  Salamanca,6615.0,1176.0,1130.0,375.0,340.0
+11 GTO,Salvatierra,  Salvatierra,6098.0,761.0,700.0,125.0,113.0
+11 GTO,San Diego de la Unión,  San Diego De La Unión,2233.0,79.0,76.0,19.0,17.0
+11 GTO,San Felipe,  San Felipe,9198.0,672.0,632.0,69.0,64.0
+11 GTO,San Francisco del Rincón,  San Francisco Del Rincón,2913.0,240.0,190.0,121.0,78.0
+11 GTO,San José Iturbide,  San José Iturbide,1895.0,66.0,51.0,7.0,7.0
+11 GTO,San Luis de la Paz,  San Luis De La Paz,3511.0,128.0,119.0,32.0,31.0
+11 GTO,Santa Catarina,  Santa Catarina,462.0,6.0,6.0,0.0,0.0
+11 GTO,Santa Cruz de Juventino Rosas,  Santa Cruz De Juventino Rosas,3302.0,460.0,440.0,40.0,34.0
+11 GTO,Santiago Maravatío,  Santiago Maravatío,611.0,25.0,25.0,8.0,7.0
+11 GTO,Silao de la Victoria,  Silao De La Victoria,4474.0,392.0,378.0,41.0,34.0
+11 GTO,Tarandacuao,  Tarandacuao,1170.0,171.0,165.0,23.0,20.0
+11 GTO,Tarimoro,  Tarimoro,2078.0,330.0,322.0,25.0,25.0
+11 GTO,Tierra Blanca,  Tierra Blanca,1184.0,8.0,8.0,2.0,2.0
+11 GTO,Uriangato,  Uriangato,726.0,31.0,29.0,2.0,2.0
+11 GTO,Valle de Santiago,  Valle De Santiago,10585.0,1861.0,1817.0,700.0,654.0
+11 GTO,Victoria,  Victoria,1620.0,23.0,22.0,7.0,7.0
+11 GTO,Villagrán,  Villagrán,1068.0,202.0,190.0,76.0,72.0
+11 GTO,Xichú,  Xichú,1765.0,10.0,9.0,1.0,1.0
+11 GTO,Yuriria,  Yuriria,4328.0,784.0,763.0,71.0,58.0
+12 GRO,, Guerrero,299587.0,15152.0,14489.0,416.0,315.0
+12 GRO,Acapulco de Juárez,  Acapulco De Juárez,11632.0,373.0,348.0,10.0,8.0
+12 GRO,Ahuacuotzingo,  Ahuacuotzingo,4995.0,86.0,81.0,6.0,3.0
+12 GRO,Ajuchitlán del Progreso,  Ajuchitlán Del Progreso,4667.0,560.0,557.0,1.0,1.0
+12 GRO,Alcozauca de Guerrero,  Alcozauca De Guerrero,2978.0,143.0,143.0,1.0,1.0
+12 GRO,Alpoyeca,  Alpoyeca,803.0,43.0,43.0,10.0,9.0
+12 GRO,Apaxtla,  Apaxtla,1513.0,66.0,65.0,1.0,0.0
+12 GRO,Arcelia,  Arcelia,2455.0,201.0,187.0,1.0,1.0
+12 GRO,Atenango del Río,  Atenango Del Río,1102.0,84.0,84.0,0.0,0.0
+12 GRO,Atlamajalcingo del Monte,  Atlamajalcingo Del Monte,2091.0,45.0,44.0,0.0,0.0
+12 GRO,Atlixtac,  Atlixtac,6008.0,8.0,8.0,2.0,2.0
+12 GRO,Atoyac de Álvarez,  Atoyac De Álvarez,6878.0,186.0,163.0,5.0,5.0
+12 GRO,Ayutla de los Libres,  Ayutla De Los Libres,7249.0,194.0,191.0,4.0,3.0
+12 GRO,Azoyú,  Azoyú,3460.0,362.0,346.0,13.0,10.0
+12 GRO,Benito Juárez,  Benito Juárez,2611.0,96.0,75.0,9.0,4.0
+12 GRO,Buenavista de Cuéllar,  Buenavista De Cuéllar,1018.0,97.0,93.0,1.0,1.0
+12 GRO,Coahuayutla de José María Izazaga,  Coahuayutla De José María Izazaga,2799.0,31.0,30.0,1.0,1.0
+12 GRO,Cocula,  Cocula,1635.0,183.0,179.0,10.0,10.0
+12 GRO,Copala,  Copala,2156.0,78.0,72.0,7.0,6.0
+12 GRO,Copalillo,  Copalillo,1849.0,179.0,177.0,4.0,2.0
+12 GRO,Copanatoyac,  Copanatoyac,4035.0,399.0,395.0,1.0,0.0
+12 GRO,Coyuca de Benítez,  Coyuca De Benítez,8876.0,381.0,345.0,11.0,7.0
+12 GRO,Coyuca de Catalán,  Coyuca De Catalán,4659.0,388.0,379.0,7.0,5.0
+12 GRO,Cuajinicuilapa,  Cuajinicuilapa,2400.0,231.0,218.0,43.0,34.0
+12 GRO,Cualác,  Cualác,1270.0,102.0,101.0,0.0,0.0
+12 GRO,Cuautepec,  Cuautepec,2809.0,46.0,44.0,0.0,0.0
+12 GRO,Cuetzala del Progreso,  Cuetzala Del Progreso,1578.0,18.0,17.0,0.0,0.0
+12 GRO,Cutzamala de Pinzón,  Cutzamala De Pinzón,2913.0,735.0,723.0,9.0,8.0
+12 GRO,Chilapa de Álvarez,  Chilapa De Álvarez,16837.0,505.0,497.0,6.0,4.0
+12 GRO,Chilpancingo de los Bravo,  Chilpancingo De Los Bravo,4927.0,151.0,136.0,3.0,0.0
+12 GRO,Florencio Villarreal,  Florencio Villarreal,2584.0,91.0,82.0,3.0,3.0
+12 GRO,General Canuto A. Neri,  General Canuto A. Neri,1156.0,24.0,23.0,1.0,0.0
+12 GRO,General Heliodoro Castillo,  General Heliodoro Castillo,5386.0,201.0,193.0,0.0,0.0
+12 GRO,Huamuxtitlán,  Huamuxtitlán,1846.0,131.0,129.0,3.0,2.0
+12 GRO,Huitzuco de los Figueroa,  Huitzuco De Los Figueroa,3844.0,542.0,528.0,3.0,2.0
+12 GRO,Iguala de la Independencia,  Iguala De La Independencia,2883.0,457.0,449.0,18.0,17.0
+12 GRO,Igualapa,  Igualapa,1702.0,107.0,107.0,3.0,3.0
+12 GRO,Ixcateopan de Cuauhtémoc,  Ixcateopan De Cuauhtémoc,810.0,34.0,34.0,0.0,0.0
+12 GRO,Zihuatanejo de Azueta,  Zihuatanejo De Azueta,2714.0,91.0,77.0,5.0,4.0
+12 GRO,Juan R. Escudero,  Juan R. Escudero,2609.0,102.0,97.0,1.0,1.0
+12 GRO,Leonardo Bravo,  Leonardo Bravo,3310.0,95.0,91.0,3.0,2.0
+12 GRO,Malinaltepec,  Malinaltepec,4812.0,100.0,99.0,1.0,1.0
+12 GRO,Mártir de Cuilapan,  Mártir De Cuilapan,3061.0,79.0,79.0,1.0,0.0
+12 GRO,Metlatónoc,  Metlatónoc,3343.0,560.0,551.0,1.0,0.0
+12 GRO,Mochitlán,  Mochitlán,1681.0,61.0,58.0,0.0,0.0
+12 GRO,Olinalá,  Olinalá,3898.0,80.0,76.0,3.0,2.0
+12 GRO,Ometepec,  Ometepec,6924.0,755.0,736.0,30.0,22.0
+12 GRO,Pedro Ascencio Alquisiras,  Pedro Ascencio Alquisiras,1520.0,19.0,19.0,0.0,0.0
+12 GRO,Petatlán,  Petatlán,3562.0,100.0,86.0,12.0,12.0
+12 GRO,Pilcaya,  Pilcaya,1503.0,75.0,73.0,4.0,4.0
+12 GRO,Pungarabato,  Pungarabato,932.0,121.0,120.0,2.0,2.0
+12 GRO,Quechultenango,  Quechultenango,6350.0,128.0,124.0,1.0,1.0
+12 GRO,San Luis Acatlán,  San Luis Acatlán,7070.0,345.0,333.0,8.0,6.0
+12 GRO,San Marcos,  San Marcos,7320.0,293.0,278.0,17.0,15.0
+12 GRO,San Miguel Totolapan,  San Miguel Totolapan,3640.0,41.0,41.0,3.0,0.0
+12 GRO,Taxco de Alarcón,  Taxco De Alarcón,4348.0,83.0,79.0,2.0,2.0
+12 GRO,Tecoanapa,  Tecoanapa,8537.0,300.0,291.0,4.0,4.0
+12 GRO,Técpan de Galeana,  Técpan De Galeana,8266.0,382.0,330.0,19.0,12.0
+12 GRO,Teloloapan,  Teloloapan,4882.0,127.0,118.0,6.0,6.0
+12 GRO,Tepecoacuilco de Trujano,  Tepecoacuilco De Trujano,3698.0,458.0,445.0,7.0,4.0
+12 GRO,Tetipac,  Tetipac,1937.0,51.0,49.0,0.0,0.0
+12 GRO,Tixtla de Guerrero,  Tixtla De Guerrero,3657.0,130.0,121.0,3.0,2.0
+12 GRO,Tlacoachistlahuaca,  Tlacoachistlahuaca,2790.0,442.0,421.0,3.0,2.0
+12 GRO,Tlacoapa,  Tlacoapa,2061.0,37.0,37.0,0.0,0.0
+12 GRO,Tlalchapa,  Tlalchapa,1752.0,132.0,130.0,10.0,10.0
+12 GRO,Tlalixtaquilla de Maldonado,  Tlalixtaquilla De Maldonado,790.0,33.0,33.0,0.0,0.0
+12 GRO,Tlapa de Comonfort,  Tlapa De Comonfort,5462.0,231.0,222.0,1.0,0.0
+12 GRO,Tlapehuala,  Tlapehuala,1676.0,137.0,126.0,2.0,1.0
+12 GRO,La Unión de Isidoro Montes de Oca,  La Unión De Isidoro Montes De Oca,3189.0,100.0,92.0,13.0,10.0
+12 GRO,Xalpatláhuac,  Xalpatláhuac,2185.0,81.0,77.0,2.0,0.0
+12 GRO,Xochihuehuetlán,  Xochihuehuetlán,1089.0,26.0,25.0,0.0,0.0
+12 GRO,Xochistlahuaca,  Xochistlahuaca,4226.0,256.0,252.0,2.0,0.0
+12 GRO,Zapotitlán Tablas,  Zapotitlán Tablas,2801.0,147.0,143.0,14.0,10.0
+12 GRO,Zirándaro,  Zirándaro,2206.0,119.0,119.0,3.0,3.0
+12 GRO,Zitlala,  Zitlala,3452.0,58.0,58.0,2.0,1.0
+12 GRO,Eduardo Neri,  Eduardo Neri,2906.0,201.0,196.0,7.0,4.0
+12 GRO,Acatepec,  Acatepec,9787.0,237.0,147.0,3.0,1.0
+12 GRO,Marquelia,  Marquelia,1402.0,138.0,132.0,1.0,1.0
+12 GRO,Cochoapa el Grande,  Cochoapa El Grande,1671.0,208.0,204.0,0.0,0.0
+12 GRO,José Joaquín de Herrera,  José Joaquín De Herrera,2613.0,44.0,42.0,0.0,0.0
+12 GRO,Juchitán,  Juchitán,1371.0,113.0,109.0,5.0,3.0
+12 GRO,Iliatenco,  Iliatenco,2765.0,47.0,47.0,5.0,5.0
+12 GRO,Las Vigas,  Las Vigas,2059.0,116.0,109.0,6.0,6.0
+12 GRO,Ñuu Savi,  Ñuu Savi,2023.0,30.0,30.0,1.0,1.0
+12 GRO,Santa Cruz del Rincón,  Santa Cruz Del Rincón,421.0,17.0,17.0,0.0,0.0
+12 GRO,San Nicolás,  San Nicolás,902.0,68.0,64.0,6.0,3.0
+13 HGO,, Hidalgo,214374.0,3983.0,3493.0,1049.0,597.0
+13 HGO,Acatlán,  Acatlán,3379.0,63.0,54.0,12.0,3.0
+13 HGO,Acaxochitlán,  Acaxochitlán,4122.0,58.0,46.0,14.0,11.0
+13 HGO,Actopan,  Actopan,3187.0,47.0,43.0,12.0,7.0
+13 HGO,Agua Blanca de Iturbide,  Agua Blanca De Iturbide,1295.0,27.0,23.0,3.0,2.0
+13 HGO,Ajacuba,  Ajacuba,2322.0,49.0,42.0,13.0,7.0
+13 HGO,Alfajayucan,  Alfajayucan,3965.0,98.0,81.0,11.0,6.0
+13 HGO,Almoloya,  Almoloya,2209.0,110.0,106.0,59.0,46.0
+13 HGO,Apan,  Apan,3646.0,224.0,206.0,91.0,66.0
+13 HGO,El Arenal,  El Arenal,1657.0,32.0,26.0,9.0,4.0
+13 HGO,Atitalaquia,  Atitalaquia,1434.0,31.0,27.0,6.0,5.0
+13 HGO,Atlapexco,  Atlapexco,3171.0,22.0,21.0,7.0,4.0
+13 HGO,Atotonilco el Grande,  Atotonilco El Grande,4388.0,58.0,52.0,12.0,7.0
+13 HGO,Atotonilco de Tula,  Atotonilco De Tula,1967.0,19.0,18.0,11.0,4.0
+13 HGO,Calnali,  Calnali,2626.0,44.0,41.0,2.0,2.0
+13 HGO,Cardonal,  Cardonal,4442.0,50.0,43.0,7.0,1.0
+13 HGO,Cuautepec de Hinojosa,  Cuautepec De Hinojosa,5327.0,114.0,101.0,50.0,30.0
+13 HGO,Chapantongo,  Chapantongo,1807.0,24.0,19.0,8.0,2.0
+13 HGO,Chapulhuacán,  Chapulhuacán,1908.0,13.0,11.0,5.0,5.0
+13 HGO,Chilcuautla,  Chilcuautla,4007.0,70.0,58.0,10.0,4.0
+13 HGO,Eloxochitlán,  Eloxochitlán,503.0,6.0,4.0,0.0,0.0
+13 HGO,Emiliano Zapata,  Emiliano Zapata,913.0,94.0,89.0,49.0,43.0
+13 HGO,Epazoyucan,  Epazoyucan,1102.0,26.0,23.0,14.0,7.0
+13 HGO,Francisco I. Madero,  Francisco I. Madero,2839.0,64.0,50.0,7.0,3.0
+13 HGO,Huasca de Ocampo,  Huasca De Ocampo,2683.0,30.0,24.0,6.0,2.0
+13 HGO,Huautla,  Huautla,4826.0,84.0,80.0,6.0,5.0
+13 HGO,Huazalingo,  Huazalingo,1959.0,5.0,4.0,0.0,0.0
+13 HGO,Huehuetla,  Huehuetla,2931.0,8.0,5.0,8.0,3.0
+13 HGO,Huejutla de Reyes,  Huejutla De Reyes,12053.0,185.0,175.0,4.0,2.0
+13 HGO,Huichapan,  Huichapan,4798.0,139.0,129.0,12.0,3.0
+13 HGO,Ixmiquilpan,  Ixmiquilpan,9945.0,300.0,257.0,26.0,13.0
+13 HGO,Jacala de Ledezma,  Jacala De Ledezma,1086.0,7.0,5.0,2.0,0.0
+13 HGO,Jaltocán,  Jaltocán,1268.0,23.0,22.0,0.0,0.0
+13 HGO,Juárez Hidalgo,  Juárez Hidalgo,429.0,1.0,0.0,2.0,2.0
+13 HGO,Lolotla,  Lolotla,1495.0,32.0,15.0,3.0,2.0
+13 HGO,Metepec,  Metepec,1678.0,61.0,51.0,14.0,13.0
+13 HGO,San Agustín Metzquititlán,  San Agustín Metzquititlán,848.0,8.0,6.0,0.0,0.0
+13 HGO,Metztitlán,  Metztitlán,3365.0,42.0,40.0,5.0,3.0
+13 HGO,Mineral del Chico,  Mineral Del Chico,934.0,10.0,6.0,2.0,1.0
+13 HGO,Mineral del Monte,  Mineral Del Monte,276.0,2.0,2.0,0.0,0.0
+13 HGO,La Misión,  La Misión,897.0,0.0,0.0,1.0,0.0
+13 HGO,Mixquiahuala de Juárez,  Mixquiahuala De Juárez,3108.0,84.0,71.0,16.0,6.0
+13 HGO,Molango de Escamilla,  Molango De Escamilla,1053.0,6.0,6.0,2.0,1.0
+13 HGO,Nicolás Flores,  Nicolás Flores,770.0,1.0,1.0,1.0,1.0
+13 HGO,Nopala de Villagrán,  Nopala De Villagrán,2811.0,89.0,77.0,18.0,9.0
+13 HGO,Omitlán de Juárez,  Omitlán De Juárez,1227.0,10.0,6.0,2.0,1.0
+13 HGO,San Felipe Orizatlán,  San Felipe Orizatlán,6285.0,95.0,94.0,4.0,2.0
+13 HGO,Pacula,  Pacula,333.0,2.0,2.0,1.0,1.0
+13 HGO,Pachuca de Soto,  Pachuca De Soto,394.0,10.0,10.0,2.0,1.0
+13 HGO,Pisaflores,  Pisaflores,1351.0,3.0,3.0,1.0,0.0
+13 HGO,Progreso de Obregón,  Progreso De Obregón,783.0,16.0,14.0,8.0,1.0
+13 HGO,Mineral de la Reforma,  Mineral De La Reforma,587.0,26.0,21.0,12.0,7.0
+13 HGO,San Agustín Tlaxiaca,  San Agustín Tlaxiaca,3197.0,37.0,25.0,12.0,6.0
+13 HGO,San Bartolo Tutotepec,  San Bartolo Tutotepec,1872.0,8.0,8.0,3.0,0.0
+13 HGO,San Salvador,  San Salvador,4940.0,95.0,80.0,7.0,4.0
+13 HGO,Santiago de Anaya,  Santiago De Anaya,3732.0,62.0,55.0,9.0,3.0
+13 HGO,Santiago Tulantepec de Lugo Guerrero,  Santiago Tulantepec De Lugo Guerrero,590.0,14.0,12.0,8.0,1.0
+13 HGO,Singuilucan,  Singuilucan,2669.0,94.0,77.0,85.0,58.0
+13 HGO,Tasquillo,  Tasquillo,3352.0,37.0,31.0,2.0,2.0
+13 HGO,Tecozautla,  Tecozautla,4966.0,145.0,139.0,17.0,10.0
+13 HGO,Tenango de Doria,  Tenango De Doria,1073.0,0.0,0.0,1.0,1.0
+13 HGO,Tepeapulco,  Tepeapulco,1795.0,134.0,132.0,52.0,46.0
+13 HGO,Tepehuacán de Guerrero,  Tepehuacán De Guerrero,4189.0,66.0,62.0,0.0,0.0
+13 HGO,Tepeji del Río de Ocampo,  Tepeji Del Río De Ocampo,3655.0,34.0,28.0,12.0,3.0
+13 HGO,Tepetitlán,  Tepetitlán,1456.0,32.0,28.0,8.0,5.0
+13 HGO,Tetepango,  Tetepango,1190.0,26.0,18.0,8.0,4.0
+13 HGO,Villa de Tezontepec,  Villa De Tezontepec,800.0,22.0,21.0,13.0,5.0
+13 HGO,Tezontepec de Aldama,  Tezontepec De Aldama,5591.0,94.0,76.0,13.0,5.0
+13 HGO,Tianguistengo,  Tianguistengo,2515.0,9.0,5.0,8.0,6.0
+13 HGO,Tizayuca,  Tizayuca,470.0,13.0,10.0,1.0,0.0
+13 HGO,Tlahuelilpan,  Tlahuelilpan,708.0,18.0,15.0,0.0,0.0
+13 HGO,Tlahuiltepa,  Tlahuiltepa,1231.0,3.0,3.0,1.0,1.0
+13 HGO,Tlanalapa,  Tlanalapa,641.0,19.0,17.0,7.0,5.0
+13 HGO,Tlanchinol,  Tlanchinol,6111.0,58.0,57.0,18.0,11.0
+13 HGO,Tlaxcoapan,  Tlaxcoapan,1138.0,22.0,18.0,3.0,2.0
+13 HGO,Tolcayuca,  Tolcayuca,852.0,18.0,17.0,27.0,9.0
+13 HGO,Tula de Allende,  Tula De Allende,4084.0,82.0,69.0,11.0,5.0
+13 HGO,Tulancingo de Bravo,  Tulancingo De Bravo,3082.0,91.0,72.0,18.0,10.0
+13 HGO,Xochiatipan,  Xochiatipan,3877.0,8.0,7.0,1.0,0.0
+13 HGO,Xochicoatlán,  Xochicoatlán,1177.0,10.0,10.0,37.0,8.0
+13 HGO,Yahualica,  Yahualica,4264.0,4.0,4.0,0.0,0.0
+13 HGO,Zacualtipán de Ángeles,  Zacualtipán De Ángeles,877.0,2.0,2.0,3.0,2.0
+13 HGO,Zapotlán de Juárez,  Zapotlán De Juárez,919.0,17.0,15.0,21.0,7.0
+13 HGO,Zempoala,  Zempoala,2321.0,77.0,61.0,60.0,25.0
+13 HGO,Zimapán,  Zimapán,2651.0,10.0,9.0,13.0,5.0
+14 JAL,, Jalisco,179732.0,24547.0,23598.0,6776.0,6223.0
+14 JAL,Acatic,  Acatic,1092.0,145.0,141.0,60.0,55.0
+14 JAL,Acatlán de Juárez,  Acatlán De Juárez,1361.0,153.0,141.0,54.0,52.0
+14 JAL,Ahualulco de Mercado,  Ahualulco De Mercado,2383.0,596.0,591.0,104.0,99.0
+14 JAL,Amacueca,  Amacueca,571.0,39.0,39.0,14.0,12.0
+14 JAL,Amatitán,  Amatitán,888.0,71.0,65.0,14.0,10.0
+14 JAL,Ameca,  Ameca,6784.0,1513.0,1479.0,623.0,603.0
+14 JAL,San Juanito de Escobedo,  San Juanito De Escobedo,2101.0,421.0,413.0,103.0,93.0
+14 JAL,Arandas,  Arandas,2429.0,34.0,28.0,13.0,11.0
+14 JAL,El Arenal,  El Arenal,874.0,75.0,71.0,23.0,19.0
+14 JAL,Atemajac de Brizuela,  Atemajac De Brizuela,480.0,23.0,22.0,6.0,6.0
+14 JAL,Atengo,  Atengo,781.0,113.0,109.0,43.0,43.0
+14 JAL,Atenguillo,  Atenguillo,480.0,41.0,41.0,2.0,2.0
+14 JAL,Atotonilco el Alto,  Atotonilco El Alto,3140.0,382.0,368.0,84.0,79.0
+14 JAL,Atoyac,  Atoyac,929.0,106.0,100.0,34.0,33.0
+14 JAL,Autlán de Navarro,  Autlán De Navarro,2403.0,378.0,369.0,207.0,196.0
+14 JAL,Ayotlán,  Ayotlán,2959.0,579.0,555.0,79.0,76.0
+14 JAL,Ayutla,  Ayutla,1122.0,198.0,190.0,40.0,39.0
+14 JAL,La Barca,  La Barca,4839.0,1444.0,1417.0,333.0,321.0
+14 JAL,Bolaños,  Bolaños,245.0,1.0,1.0,1.0,1.0
+14 JAL,Cabo Corrientes,  Cabo Corrientes,677.0,28.0,26.0,16.0,16.0
+14 JAL,Casimiro Castillo,  Casimiro Castillo,2047.0,422.0,406.0,111.0,99.0
+14 JAL,Cihuatlán,  Cihuatlán,1064.0,101.0,96.0,54.0,51.0
+14 JAL,Zapotlán el Grande,  Zapotlán El Grande,587.0,75.0,71.0,33.0,32.0
+14 JAL,Cocula,  Cocula,3662.0,758.0,733.0,251.0,209.0
+14 JAL,Colotlán,  Colotlán,976.0,80.0,77.0,17.0,12.0
+14 JAL,Concepción de Buenos Aires,  Concepción De Buenos Aires,710.0,57.0,54.0,11.0,11.0
+14 JAL,Cuautitlán de García Barragán,  Cuautitlán De García Barragán,2240.0,171.0,160.0,35.0,34.0
+14 JAL,Cuautla,  Cuautla,255.0,25.0,25.0,8.0,8.0
+14 JAL,Cuquío,  Cuquío,2844.0,372.0,364.0,107.0,101.0
+14 JAL,Chapala,  Chapala,615.0,62.0,61.0,16.0,14.0
+14 JAL,Chimaltitán,  Chimaltitán,547.0,56.0,56.0,1.0,1.0
+14 JAL,Chiquilistlán,  Chiquilistlán,379.0,84.0,81.0,5.0,5.0
+14 JAL,Degollado,  Degollado,2007.0,244.0,231.0,72.0,70.0
+14 JAL,Ejutla,  Ejutla,216.0,19.0,17.0,5.0,4.0
+14 JAL,Encarnación de Díaz,  Encarnación De Díaz,2022.0,103.0,94.0,23.0,23.0
+14 JAL,Etzatlán,  Etzatlán,1191.0,255.0,236.0,57.0,53.0
+14 JAL,El Grullo,  El Grullo,847.0,196.0,191.0,115.0,104.0
+14 JAL,Guachinango,  Guachinango,890.0,157.0,154.0,22.0,22.0
+14 JAL,Guadalajara,  Guadalajara,,,,,
+14 JAL,Hostotipaquillo,  Hostotipaquillo,1313.0,167.0,160.0,20.0,20.0
+14 JAL,Huejúcar,  Huejúcar,513.0,13.0,13.0,1.0,1.0
+14 JAL,Huejuquilla el Alto,  Huejuquilla El Alto,1314.0,121.0,119.0,15.0,15.0
+14 JAL,La Huerta,  La Huerta,2337.0,331.0,317.0,48.0,44.0
+14 JAL,Ixtlahuacán de los Membrillos,  Ixtlahuacán De Los Membrillos,1199.0,243.0,238.0,79.0,76.0
+14 JAL,Ixtlahuacán del Río,  Ixtlahuacán Del Río,2451.0,307.0,290.0,89.0,77.0
+14 JAL,Jalostotitlán,  Jalostotitlán,1063.0,64.0,60.0,13.0,12.0
+14 JAL,Jamay,  Jamay,1375.0,283.0,277.0,105.0,96.0
+14 JAL,Jesús María,  Jesús María,2015.0,54.0,53.0,17.0,15.0
+14 JAL,Jilotlán de los Dolores,  Jilotlán De Los Dolores,1803.0,91.0,86.0,23.0,23.0
+14 JAL,Jocotepec,  Jocotepec,2106.0,277.0,261.0,35.0,33.0
+14 JAL,Juanacatlán,  Juanacatlán,940.0,141.0,135.0,54.0,42.0
+14 JAL,Juchitlán,  Juchitlán,302.0,51.0,48.0,8.0,6.0
+14 JAL,Lagos de Moreno,  Lagos De Moreno,5279.0,266.0,251.0,44.0,39.0
+14 JAL,El Limón,  El Limón,309.0,34.0,32.0,19.0,17.0
+14 JAL,Magdalena,  Magdalena,1555.0,228.0,209.0,48.0,45.0
+14 JAL,Santa María del Oro,  Santa María Del Oro,532.0,16.0,15.0,5.0,5.0
+14 JAL,La Manzanilla de la Paz,  La Manzanilla De La Paz,556.0,52.0,50.0,4.0,1.0
+14 JAL,Mascota,  Mascota,1216.0,234.0,227.0,43.0,39.0
+14 JAL,Mazamitla,  Mazamitla,606.0,38.0,35.0,7.0,5.0
+14 JAL,Mexticacán,  Mexticacán,466.0,20.0,15.0,7.0,7.0
+14 JAL,Mezquitic,  Mezquitic,1566.0,55.0,50.0,15.0,14.0
+14 JAL,Mixtlán,  Mixtlán,451.0,132.0,129.0,34.0,34.0
+14 JAL,Ocotlán,  Ocotlán,1935.0,403.0,398.0,151.0,148.0
+14 JAL,Ojuelos de Jalisco,  Ojuelos De Jalisco,2947.0,200.0,180.0,44.0,42.0
+14 JAL,Pihuamo,  Pihuamo,1074.0,128.0,124.0,78.0,75.0
+14 JAL,Poncitlán,  Poncitlán,2288.0,386.0,376.0,87.0,76.0
+14 JAL,Puerto Vallarta,  Puerto Vallarta,1053.0,196.0,190.0,76.0,70.0
+14 JAL,Villa Purificación,  Villa Purificación,2092.0,221.0,209.0,48.0,38.0
+14 JAL,Quitupan,  Quitupan,1446.0,63.0,63.0,10.0,10.0
+14 JAL,El Salto,  El Salto,,,,,
+14 JAL,San Cristóbal de la Barranca,  San Cristóbal De La Barranca,501.0,45.0,44.0,14.0,14.0
+14 JAL,San Diego de Alejandría,  San Diego De Alejandría,504.0,38.0,36.0,5.0,4.0
+14 JAL,San Juan de los Lagos,  San Juan De Los Lagos,2120.0,67.0,56.0,13.0,11.0
+14 JAL,San Julián,  San Julián,629.0,15.0,11.0,5.0,5.0
+14 JAL,San Marcos,  San Marcos,491.0,108.0,107.0,34.0,32.0
+14 JAL,San Martín de Bolaños,  San Martín De Bolaños,225.0,13.0,13.0,0.0,0.0
+14 JAL,San Martín Hidalgo,  San Martín Hidalgo,3597.0,920.0,880.0,322.0,260.0
+14 JAL,San Miguel el Alto,  San Miguel El Alto,1229.0,32.0,30.0,7.0,7.0
+14 JAL,Gómez Farías,  Gómez Farías,960.0,113.0,109.0,27.0,26.0
+14 JAL,San Sebastián del Oeste,  San Sebastián Del Oeste,896.0,259.0,258.0,19.0,19.0
+14 JAL,Santa María de los Ángeles,  Santa María De Los Ángeles,524.0,9.0,9.0,3.0,2.0
+14 JAL,Sayula,  Sayula,745.0,132.0,122.0,65.0,61.0
+14 JAL,Tala,  Tala,3651.0,575.0,550.0,143.0,124.0
+14 JAL,Talpa de Allende,  Talpa De Allende,1049.0,243.0,240.0,20.0,18.0
+14 JAL,Tamazula de Gordiano,  Tamazula De Gordiano,3203.0,276.0,261.0,49.0,44.0
+14 JAL,Tapalpa,  Tapalpa,676.0,61.0,59.0,26.0,23.0
+14 JAL,Tecalitlán,  Tecalitlán,1058.0,85.0,76.0,27.0,21.0
+14 JAL,Tecolotlán,  Tecolotlán,1303.0,193.0,186.0,53.0,48.0
+14 JAL,Techaluta de Montenegro,  Techaluta De Montenegro,206.0,17.0,15.0,3.0,2.0
+14 JAL,Tenamaxtlán,  Tenamaxtlán,942.0,222.0,216.0,64.0,61.0
+14 JAL,Teocaltiche,  Teocaltiche,2249.0,140.0,128.0,26.0,23.0
+14 JAL,Teocuitatlán de Corona,  Teocuitatlán De Corona,2068.0,354.0,341.0,110.0,101.0
+14 JAL,Tepatitlán de Morelos,  Tepatitlán De Morelos,3003.0,358.0,349.0,148.0,137.0
+14 JAL,Tequila,  Tequila,1402.0,80.0,74.0,17.0,17.0
+14 JAL,Teuchitlán,  Teuchitlán,2662.0,583.0,562.0,169.0,148.0
+14 JAL,Tizapán el Alto,  Tizapán El Alto,1793.0,214.0,207.0,18.0,16.0
+14 JAL,Tlajomulco de Zúñiga,  Tlajomulco De Zúñiga,3173.0,485.0,469.0,206.0,202.0
+14 JAL,San Pedro Tlaquepaque,  San Pedro Tlaquepaque,318.0,21.0,21.0,8.0,7.0
+14 JAL,Tolimán,  Tolimán,1039.0,157.0,156.0,14.0,14.0
+14 JAL,Tomatlán,  Tomatlán,3502.0,422.0,382.0,107.0,86.0
+14 JAL,Tonalá,  Tonalá,209.0,7.0,6.0,0.0,0.0
+14 JAL,Tonaya,  Tonaya,399.0,32.0,32.0,8.0,8.0
+14 JAL,Tonila,  Tonila,466.0,106.0,85.0,72.0,64.0
+14 JAL,Totatiche,  Totatiche,751.0,42.0,39.0,11.0,9.0
+14 JAL,Tototlán,  Tototlán,1659.0,312.0,306.0,88.0,83.0
+14 JAL,Tuxcacuesco,  Tuxcacuesco,630.0,67.0,62.0,17.0,17.0
+14 JAL,Tuxcueca,  Tuxcueca,621.0,46.0,43.0,10.0,9.0
+14 JAL,Tuxpan,  Tuxpan,1839.0,312.0,294.0,100.0,88.0
+14 JAL,Unión de San Antonio,  Unión De San Antonio,1757.0,112.0,107.0,14.0,11.0
+14 JAL,Unión de Tula,  Unión De Tula,1661.0,267.0,254.0,70.0,67.0
+14 JAL,Valle de Guadalupe,  Valle De Guadalupe,543.0,26.0,24.0,11.0,11.0
+14 JAL,Valle de Juárez,  Valle De Juárez,549.0,24.0,24.0,8.0,8.0
+14 JAL,San Gabriel,  San Gabriel,1803.0,325.0,316.0,57.0,56.0
+14 JAL,Villa Corona,  Villa Corona,2282.0,272.0,260.0,91.0,74.0
+14 JAL,Villa Guerrero,  Villa Guerrero,561.0,38.0,37.0,2.0,1.0
+14 JAL,Villa Hidalgo,  Villa Hidalgo,797.0,33.0,32.0,11.0,11.0
+14 JAL,Cañadas de Obregón,  Cañadas De Obregón,414.0,28.0,28.0,8.0,8.0
+14 JAL,Yahualica de González Gallo,  Yahualica De González Gallo,1174.0,91.0,87.0,34.0,33.0
+14 JAL,Zacoalco de Torres,  Zacoalco De Torres,1968.0,255.0,237.0,26.0,22.0
+14 JAL,Zapopan,  Zapopan,2028.0,135.0,125.0,45.0,41.0
+14 JAL,Zapotiltic,  Zapotiltic,1488.0,202.0,199.0,50.0,42.0
+14 JAL,Zapotitlán de Vadillo,  Zapotitlán De Vadillo,552.0,84.0,81.0,8.0,8.0
+14 JAL,Zapotlán del Rey,  Zapotlán Del Rey,2553.0,742.0,726.0,220.0,210.0
+14 JAL,Zapotlanejo,  Zapotlanejo,2595.0,290.0,277.0,58.0,54.0
+14 JAL,San Ignacio Cerro Gordo,  San Ignacio Cerro Gordo,906.0,58.0,56.0,7.0,7.0
+15 MEX,, México,399260.0,5457.0,4305.0,619.0,304.0
+15 MEX,Acambay de Ruíz Castañeda,  Acambay De Ruíz Castañeda,16677.0,99.0,67.0,10.0,2.0
+15 MEX,Acolman,  Acolman,1628.0,27.0,17.0,7.0,0.0
+15 MEX,Aculco,  Aculco,8615.0,167.0,141.0,13.0,4.0
+15 MEX,Almoloya de Alquisiras,  Almoloya De Alquisiras,2412.0,17.0,12.0,0.0,0.0
+15 MEX,Almoloya de Juárez,  Almoloya De Juárez,13132.0,117.0,78.0,11.0,3.0
+15 MEX,Almoloya del Río,  Almoloya Del Río,256.0,4.0,3.0,0.0,0.0
+15 MEX,Amanalco,  Amanalco,2592.0,13.0,10.0,3.0,0.0
+15 MEX,Amatepec,  Amatepec,3605.0,54.0,44.0,6.0,4.0
+15 MEX,Amecameca,  Amecameca,1269.0,37.0,31.0,3.0,1.0
+15 MEX,Apaxco,  Apaxco,764.0,20.0,18.0,0.0,0.0
+15 MEX,Atenco,  Atenco,1396.0,23.0,15.0,3.0,2.0
+15 MEX,Atizapán,  Atizapán,392.0,3.0,2.0,0.0,0.0
+15 MEX,Atizapán de Zaragoza,  Atizapán De Zaragoza,21.0,0.0,0.0,0.0,0.0
+15 MEX,Atlacomulco,  Atlacomulco,11065.0,183.0,166.0,4.0,2.0
+15 MEX,Atlautla,  Atlautla,1774.0,28.0,27.0,2.0,1.0
+15 MEX,Axapusco,  Axapusco,4540.0,78.0,62.0,32.0,27.0
+15 MEX,Ayapango,  Ayapango,1426.0,21.0,16.0,5.0,1.0
+15 MEX,Calimaya,  Calimaya,2214.0,47.0,40.0,5.0,3.0
+15 MEX,Capulhuac,  Capulhuac,464.0,8.0,7.0,1.0,0.0
+15 MEX,Coacalco de Berriozábal,  Coacalco De Berriozábal,7.0,0.0,0.0,0.0,0.0
+15 MEX,Coatepec Harinas,  Coatepec Harinas,4449.0,171.0,154.0,8.0,5.0
+15 MEX,Cocotitlán,  Cocotitlán,511.0,14.0,7.0,0.0,0.0
+15 MEX,Coyotepec,  Coyotepec,977.0,15.0,8.0,2.0,2.0
+15 MEX,Cuautitlán,  Cuautitlán,457.0,11.0,7.0,2.0,1.0
+15 MEX,Chalco,  Chalco,2817.0,68.0,56.0,8.0,2.0
+15 MEX,Chapa de Mota,  Chapa De Mota,4337.0,39.0,27.0,12.0,1.0
+15 MEX,Chapultepec,  Chapultepec,990.0,6.0,5.0,2.0,1.0
+15 MEX,Chiautla,  Chiautla,580.0,7.0,5.0,4.0,4.0
+15 MEX,Chicoloapan,  Chicoloapan,785.0,12.0,9.0,2.0,2.0
+15 MEX,Chiconcuac,  Chiconcuac,24.0,0.0,0.0,0.0,0.0
+15 MEX,Chimalhuacán,  Chimalhuacán,88.0,2.0,2.0,1.0,1.0
+15 MEX,Donato Guerra,  Donato Guerra,3020.0,20.0,17.0,2.0,1.0
+15 MEX,Ecatepec de Morelos,  Ecatepec De Morelos,26.0,0.0,0.0,0.0,0.0
+15 MEX,Ecatzingo,  Ecatzingo,1136.0,9.0,8.0,0.0,0.0
+15 MEX,Huehuetoca,  Huehuetoca,1445.0,27.0,26.0,0.0,0.0
+15 MEX,Hueypoxtla,  Hueypoxtla,4671.0,75.0,65.0,17.0,10.0
+15 MEX,Huixquilucan,  Huixquilucan,1424.0,3.0,0.0,1.0,0.0
+15 MEX,Isidro Fabela,  Isidro Fabela,897.0,13.0,13.0,0.0,0.0
+15 MEX,Ixtapaluca,  Ixtapaluca,2107.0,39.0,28.0,3.0,2.0
+15 MEX,Ixtapan de la Sal,  Ixtapan De La Sal,1174.0,48.0,44.0,3.0,2.0
+15 MEX,Ixtapan del Oro,  Ixtapan Del Oro,868.0,7.0,4.0,1.0,1.0
+15 MEX,Ixtlahuaca,  Ixtlahuaca,19502.0,175.0,142.0,17.0,9.0
+15 MEX,Xalatlaco,  Xalatlaco,1403.0,26.0,19.0,0.0,0.0
+15 MEX,Jaltenco,  Jaltenco,78.0,0.0,0.0,0.0,0.0
+15 MEX,Jilotepec,  Jilotepec,8242.0,138.0,65.0,21.0,5.0
+15 MEX,Jilotzingo,  Jilotzingo,442.0,0.0,0.0,0.0,0.0
+15 MEX,Jiquipilco,  Jiquipilco,9635.0,161.0,77.0,34.0,4.0
+15 MEX,Jocotitlán,  Jocotitlán,12172.0,96.0,65.0,23.0,7.0
+15 MEX,Joquicingo,  Joquicingo,1478.0,39.0,37.0,1.0,1.0
+15 MEX,Juchitepec,  Juchitepec,2556.0,64.0,47.0,8.0,5.0
+15 MEX,Lerma,  Lerma,6273.0,50.0,34.0,8.0,2.0
+15 MEX,Malinalco,  Malinalco,2668.0,46.0,45.0,1.0,1.0
+15 MEX,Melchor Ocampo,  Melchor Ocampo,242.0,3.0,1.0,0.0,0.0
+15 MEX,Metepec,  Metepec,1158.0,2.0,2.0,0.0,0.0
+15 MEX,Mexicaltzingo,  Mexicaltzingo,372.0,8.0,3.0,0.0,0.0
+15 MEX,Morelos,  Morelos,6897.0,28.0,15.0,7.0,2.0
+15 MEX,Naucalpan de Juárez,  Naucalpan De Juárez,392.0,2.0,1.0,0.0,0.0
+15 MEX,Nezahualcóyotl,  Nezahualcóyotl,11.0,0.0,0.0,0.0,0.0
+15 MEX,Nextlalpan,  Nextlalpan,974.0,5.0,3.0,2.0,2.0
+15 MEX,Nicolás Romero,  Nicolás Romero,3474.0,30.0,19.0,5.0,2.0
+15 MEX,Nopaltepec,  Nopaltepec,1508.0,37.0,25.0,17.0,15.0
+15 MEX,Ocoyoacac,  Ocoyoacac,1744.0,14.0,9.0,2.0,1.0
+15 MEX,Ocuilan,  Ocuilan,4456.0,82.0,78.0,4.0,2.0
+15 MEX,El Oro,  El Oro,6673.0,45.0,37.0,4.0,3.0
+15 MEX,Otumba,  Otumba,2123.0,44.0,38.0,10.0,8.0
+15 MEX,Otzoloapan,  Otzoloapan,489.0,0.0,0.0,0.0,0.0
+15 MEX,Otzolotepec,  Otzolotepec,2670.0,21.0,16.0,2.0,1.0
+15 MEX,Ozumba,  Ozumba,1802.0,44.0,39.0,4.0,4.0
+15 MEX,Papalotla,  Papalotla,38.0,1.0,1.0,0.0,0.0
+15 MEX,La Paz,  La Paz,124.0,1.0,1.0,0.0,0.0
+15 MEX,Polotitlán,  Polotitlán,1035.0,22.0,18.0,2.0,1.0
+15 MEX,Rayón,  Rayón,1387.0,19.0,16.0,8.0,4.0
+15 MEX,San Antonio la Isla,  San Antonio La Isla,1528.0,15.0,13.0,5.0,1.0
+15 MEX,San Felipe del Progreso,  San Felipe Del Progreso,20808.0,190.0,154.0,15.0,7.0
+15 MEX,San Martín de las Pirámides,  San Martín De Las Pirámides,1746.0,27.0,23.0,2.0,1.0
+15 MEX,San Mateo Atenco,  San Mateo Atenco,168.0,2.0,0.0,0.0,0.0
+15 MEX,San Simón de Guerrero,  San Simón De Guerrero,1164.0,12.0,11.0,0.0,0.0
+15 MEX,Santo Tomás,  Santo Tomás,545.0,2.0,1.0,0.0,0.0
+15 MEX,Soyaniquilpan de Juárez,  Soyaniquilpan De Juárez,2496.0,33.0,25.0,5.0,2.0
+15 MEX,Sultepec,  Sultepec,3615.0,10.0,8.0,1.0,0.0
+15 MEX,Tecámac,  Tecámac,1796.0,17.0,8.0,4.0,2.0
+15 MEX,Tejupilco,  Tejupilco,6004.0,17.0,15.0,7.0,5.0
+15 MEX,Temamatla,  Temamatla,330.0,6.0,5.0,2.0,2.0
+15 MEX,Temascalapa,  Temascalapa,3440.0,53.0,43.0,15.0,10.0
+15 MEX,Temascalcingo,  Temascalcingo,10572.0,86.0,66.0,11.0,5.0
+15 MEX,Temascaltepec,  Temascaltepec,5130.0,75.0,65.0,1.0,1.0
+15 MEX,Temoaya,  Temoaya,6153.0,47.0,38.0,5.0,5.0
+15 MEX,Tenancingo,  Tenancingo,3911.0,97.0,87.0,1.0,1.0
+15 MEX,Tenango del Aire,  Tenango Del Aire,790.0,13.0,12.0,1.0,1.0
+15 MEX,Tenango del Valle,  Tenango Del Valle,3319.0,110.0,92.0,6.0,5.0
+15 MEX,Teoloyucan,  Teoloyucan,245.0,5.0,3.0,1.0,1.0
+15 MEX,Teotihuacán,  Teotihuacán,1969.0,28.0,21.0,2.0,1.0
+15 MEX,Tepetlaoxtoc,  Tepetlaoxtoc,1573.0,24.0,15.0,3.0,1.0
+15 MEX,Tepetlixpa,  Tepetlixpa,1635.0,45.0,43.0,4.0,3.0
+15 MEX,Tepotzotlán,  Tepotzotlán,1858.0,29.0,18.0,6.0,2.0
+15 MEX,Tequixquiac,  Tequixquiac,2364.0,26.0,18.0,5.0,3.0
+15 MEX,Texcaltitlán,  Texcaltitlán,2482.0,16.0,13.0,0.0,0.0
+15 MEX,Texcalyacac,  Texcalyacac,334.0,2.0,0.0,0.0,0.0
+15 MEX,Texcoco,  Texcoco,4522.0,92.0,60.0,19.0,17.0
+15 MEX,Tezoyuca,  Tezoyuca,118.0,0.0,0.0,0.0,0.0
+15 MEX,Tianguistenco,  Tianguistenco,3333.0,24.0,18.0,2.0,0.0
+15 MEX,Timilpan,  Timilpan,2163.0,23.0,11.0,8.0,3.0
+15 MEX,Tlalmanalco,  Tlalmanalco,757.0,8.0,6.0,2.0,1.0
+15 MEX,Tlalnepantla de Baz,  Tlalnepantla De Baz,32.0,0.0,0.0,1.0,0.0
+15 MEX,Tlatlaya,  Tlatlaya,4182.0,30.0,15.0,9.0,6.0
+15 MEX,Toluca,  Toluca,9579.0,57.0,41.0,9.0,4.0
+15 MEX,Tonatico,  Tonatico,783.0,138.0,136.0,6.0,5.0
+15 MEX,Tultepec,  Tultepec,285.0,16.0,5.0,1.0,1.0
+15 MEX,Tultitlán,  Tultitlán,59.0,1.0,1.0,0.0,0.0
+15 MEX,Valle de Bravo,  Valle De Bravo,1739.0,11.0,9.0,2.0,1.0
+15 MEX,Villa de Allende,  Villa De Allende,9928.0,107.0,89.0,5.0,3.0
+15 MEX,Villa del Carbón,  Villa Del Carbón,8323.0,69.0,41.0,12.0,8.0
+15 MEX,Villa Guerrero,  Villa Guerrero,5236.0,596.0,566.0,5.0,4.0
+15 MEX,Villa Victoria,  Villa Victoria,13324.0,125.0,89.0,16.0,8.0
+15 MEX,Xonacatlán,  Xonacatlán,901.0,15.0,11.0,3.0,2.0
+15 MEX,Zacazonapan,  Zacazonapan,381.0,30.0,30.0,0.0,0.0
+15 MEX,Zacualpan,  Zacualpan,2345.0,8.0,6.0,1.0,0.0
+15 MEX,Zinacantepec,  Zinacantepec,6287.0,45.0,29.0,3.0,2.0
+15 MEX,Zumpahuacán,  Zumpahuacán,1796.0,38.0,35.0,3.0,0.0
+15 MEX,Zumpango,  Zumpango,4471.0,109.0,53.0,39.0,8.0
+15 MEX,Cuautitlán Izcalli,  Cuautitlán Izcalli,267.0,4.0,3.0,1.0,0.0
+15 MEX,Valle de Chalco Solidaridad,  Valle De Chalco Solidaridad,735.0,6.0,6.0,7.0,1.0
+15 MEX,Luvianos,  Luvianos,3515.0,35.0,33.0,2.0,2.0
+15 MEX,San José del Rincón,  San José Del Rincón,18897.0,144.0,117.0,8.0,5.0
+15 MEX,Tonanitla,  Tonanitla,277.0,4.0,4.0,0.0,0.0
+16 MIC,, Michoacán De Ocampo,228603.0,23225.0,22120.0,3907.0,3504.0
+16 MIC,Acuitzio,  Acuitzio,875.0,57.0,56.0,10.0,8.0
+16 MIC,Aguililla,  Aguililla,1241.0,75.0,66.0,8.0,3.0
+16 MIC,Álvaro Obregón,  Álvaro Obregón,2186.0,329.0,319.0,31.0,31.0
+16 MIC,Angamacutiro,  Angamacutiro,2900.0,887.0,876.0,195.0,190.0
+16 MIC,Angangueo,  Angangueo,871.0,17.0,9.0,7.0,5.0
+16 MIC,Apatzingán,  Apatzingán,3241.0,463.0,372.0,103.0,79.0
+16 MIC,Aporo,  Aporo,232.0,7.0,6.0,1.0,0.0
+16 MIC,Aquila,  Aquila,2643.0,43.0,40.0,4.0,3.0
+16 MIC,Ario,  Ario,4243.0,413.0,372.0,108.0,98.0
+16 MIC,Arteaga,  Arteaga,1901.0,66.0,58.0,16.0,15.0
+16 MIC,Briseñas,  Briseñas,899.0,217.0,214.0,63.0,58.0
+16 MIC,Buenavista,  Buenavista,3272.0,553.0,493.0,80.0,71.0
+16 MIC,Carácuaro,  Carácuaro,996.0,49.0,44.0,4.0,4.0
+16 MIC,Coahuayana,  Coahuayana,815.0,71.0,68.0,12.0,9.0
+16 MIC,Coalcomán de Vázquez Pallares,  Coalcomán De Vázquez Pallares,1019.0,16.0,14.0,2.0,1.0
+16 MIC,Coeneo,  Coeneo,4480.0,192.0,180.0,18.0,13.0
+16 MIC,Contepec,  Contepec,5251.0,341.0,324.0,31.0,25.0
+16 MIC,Copándaro,  Copándaro,748.0,29.0,28.0,4.0,3.0
+16 MIC,Cotija,  Cotija,1623.0,190.0,181.0,20.0,18.0
+16 MIC,Cuitzeo,  Cuitzeo,1142.0,82.0,76.0,2.0,2.0
+16 MIC,Charapan,  Charapan,743.0,13.0,9.0,1.0,1.0
+16 MIC,Charo,  Charo,1492.0,65.0,61.0,10.0,9.0
+16 MIC,Chavinda,  Chavinda,1132.0,272.0,267.0,38.0,36.0
+16 MIC,Cherán,  Cherán,942.0,12.0,10.0,1.0,1.0
+16 MIC,Chilchota,  Chilchota,1666.0,65.0,58.0,7.0,6.0
+16 MIC,Chinicuila,  Chinicuila,800.0,20.0,18.0,2.0,1.0
+16 MIC,Chucándiro,  Chucándiro,1048.0,24.0,21.0,1.0,0.0
+16 MIC,Churintzio,  Churintzio,1262.0,199.0,190.0,26.0,21.0
+16 MIC,Churumuco,  Churumuco,1419.0,50.0,46.0,4.0,3.0
+16 MIC,Ecuandureo,  Ecuandureo,2378.0,232.0,221.0,21.0,20.0
+16 MIC,Epitacio Huerta,  Epitacio Huerta,2998.0,412.0,403.0,26.0,23.0
+16 MIC,Erongarícuaro,  Erongarícuaro,1594.0,64.0,58.0,12.0,8.0
+16 MIC,Gabriel Zamora,  Gabriel Zamora,1447.0,241.0,229.0,82.0,80.0
+16 MIC,Hidalgo,  Hidalgo,2600.0,79.0,67.0,7.0,5.0
+16 MIC,La Huacana,  La Huacana,3259.0,305.0,278.0,61.0,54.0
+16 MIC,Huandacareo,  Huandacareo,515.0,18.0,18.0,0.0,0.0
+16 MIC,Huaniqueo,  Huaniqueo,1364.0,44.0,44.0,2.0,1.0
+16 MIC,Huetamo,  Huetamo,2933.0,331.0,328.0,18.0,18.0
+16 MIC,Huiramba,  Huiramba,738.0,49.0,48.0,3.0,2.0
+16 MIC,Indaparapeo,  Indaparapeo,1438.0,187.0,179.0,35.0,32.0
+16 MIC,Irimbo,  Irimbo,952.0,67.0,62.0,0.0,0.0
+16 MIC,Ixtlán,  Ixtlán,1802.0,237.0,223.0,21.0,20.0
+16 MIC,Jacona,  Jacona,359.0,72.0,70.0,6.0,6.0
+16 MIC,Jiménez,  Jiménez,2360.0,225.0,219.0,11.0,8.0
+16 MIC,Jiquilpan,  Jiquilpan,1081.0,85.0,79.0,11.0,9.0
+16 MIC,Juárez,  Juárez,1671.0,134.0,129.0,68.0,39.0
+16 MIC,Jungapeo,  Jungapeo,1954.0,221.0,214.0,84.0,74.0
+16 MIC,Lagunillas,  Lagunillas,496.0,39.0,38.0,0.0,0.0
+16 MIC,Madero,  Madero,1756.0,136.0,129.0,15.0,12.0
+16 MIC,Maravatío,  Maravatío,7024.0,552.0,535.0,29.0,24.0
+16 MIC,Marcos Castellanos,  Marcos Castellanos,610.0,40.0,31.0,5.0,2.0
+16 MIC,Lázaro Cárdenas,  Lázaro Cárdenas,1767.0,113.0,97.0,27.0,20.0
+16 MIC,Morelia,  Morelia,4373.0,160.0,152.0,17.0,14.0
+16 MIC,Morelos,  Morelos,1184.0,53.0,53.0,1.0,1.0
+16 MIC,Múgica,  Múgica,1843.0,283.0,257.0,64.0,49.0
+16 MIC,Nahuatzen,  Nahuatzen,2326.0,54.0,40.0,5.0,3.0
+16 MIC,Nocupétaro,  Nocupétaro,1031.0,35.0,33.0,5.0,5.0
+16 MIC,Nuevo Parangaricutiro,  Nuevo Parangaricutiro,1000.0,92.0,87.0,34.0,32.0
+16 MIC,Nuevo Urecho,  Nuevo Urecho,1386.0,160.0,150.0,50.0,43.0
+16 MIC,Numarán,  Numarán,825.0,265.0,262.0,108.0,105.0
+16 MIC,Ocampo,  Ocampo,2173.0,35.0,29.0,4.0,4.0
+16 MIC,Pajacuarán,  Pajacuarán,2124.0,343.0,331.0,75.0,71.0
+16 MIC,Panindícuaro,  Panindícuaro,1662.0,191.0,185.0,12.0,10.0
+16 MIC,Parácuaro,  Parácuaro,2029.0,361.0,338.0,70.0,58.0
+16 MIC,Paracho,  Paracho,1377.0,23.0,21.0,3.0,3.0
+16 MIC,Pátzcuaro,  Pátzcuaro,2909.0,124.0,119.0,10.0,8.0
+16 MIC,Penjamillo,  Penjamillo,3036.0,595.0,585.0,105.0,101.0
+16 MIC,Peribán,  Peribán,1122.0,149.0,138.0,29.0,25.0
+16 MIC,La Piedad,  La Piedad,2150.0,248.0,240.0,53.0,50.0
+16 MIC,Purépero,  Purépero,774.0,44.0,40.0,1.0,1.0
+16 MIC,Puruándiro,  Puruándiro,6795.0,947.0,925.0,108.0,103.0
+16 MIC,Queréndaro,  Queréndaro,1267.0,87.0,84.0,10.0,9.0
+16 MIC,Quiroga,  Quiroga,891.0,43.0,42.0,1.0,1.0
+16 MIC,Cojumatlán de Régules,  Cojumatlán De Régules,997.0,140.0,139.0,5.0,4.0
+16 MIC,Los Reyes,  Los Reyes,2007.0,263.0,247.0,41.0,36.0
+16 MIC,Sahuayo,  Sahuayo,412.0,48.0,47.0,5.0,4.0
+16 MIC,San Lucas,  San Lucas,1690.0,177.0,174.0,6.0,6.0
+16 MIC,Santa Ana Maya,  Santa Ana Maya,1030.0,62.0,59.0,8.0,7.0
+16 MIC,Salvador Escalante,  Salvador Escalante,4142.0,205.0,196.0,50.0,46.0
+16 MIC,Senguio,  Senguio,2628.0,70.0,64.0,10.0,6.0
+16 MIC,Susupuato,  Susupuato,1774.0,158.0,154.0,28.0,24.0
+16 MIC,Tacámbaro,  Tacámbaro,5472.0,545.0,522.0,81.0,72.0
+16 MIC,Tancítaro,  Tancítaro,2452.0,80.0,72.0,26.0,23.0
+16 MIC,Tangamandapio,  Tangamandapio,1663.0,138.0,134.0,7.0,7.0
+16 MIC,Tangancícuaro,  Tangancícuaro,1827.0,215.0,209.0,24.0,22.0
+16 MIC,Tanhuato,  Tanhuato,2347.0,466.0,446.0,38.0,31.0
+16 MIC,Taretan,  Taretan,1846.0,397.0,386.0,36.0,33.0
+16 MIC,Tarímbaro,  Tarímbaro,2897.0,171.0,160.0,21.0,21.0
+16 MIC,Tepalcatepec,  Tepalcatepec,1967.0,273.0,250.0,38.0,32.0
+16 MIC,Tingambato,  Tingambato,920.0,58.0,55.0,10.0,10.0
+16 MIC,Tingüindín,  Tingüindín,1175.0,79.0,74.0,19.0,15.0
+16 MIC,Tiquicheo de Nicolás Romero,  Tiquicheo De Nicolás Romero,1487.0,28.0,27.0,4.0,4.0
+16 MIC,Tlalpujahua,  Tlalpujahua,2620.0,25.0,24.0,2.0,2.0
+16 MIC,Tlazazalca,  Tlazazalca,872.0,46.0,42.0,4.0,4.0
+16 MIC,Tocumbo,  Tocumbo,1008.0,176.0,169.0,16.0,15.0
+16 MIC,Tumbiscatío,  Tumbiscatío,710.0,17.0,16.0,1.0,1.0
+16 MIC,Turicato,  Turicato,5455.0,365.0,358.0,109.0,101.0
+16 MIC,Tuxpan,  Tuxpan,2000.0,152.0,138.0,16.0,14.0
+16 MIC,Tuzantla,  Tuzantla,1866.0,106.0,103.0,3.0,3.0
+16 MIC,Tzintzuntzan,  Tzintzuntzan,1627.0,58.0,54.0,3.0,2.0
+16 MIC,Tzitzio,  Tzitzio,830.0,11.0,10.0,4.0,3.0
+16 MIC,Uruapan,  Uruapan,3328.0,267.0,232.0,75.0,73.0
+16 MIC,Venustiano Carranza,  Venustiano Carranza,3080.0,560.0,540.0,125.0,117.0
+16 MIC,Villamar,  Villamar,3046.0,326.0,318.0,48.0,45.0
+16 MIC,Vista Hermosa,  Vista Hermosa,2133.0,692.0,673.0,132.0,113.0
+16 MIC,Yurécuaro,  Yurécuaro,1944.0,270.0,260.0,15.0,15.0
+16 MIC,Zacapu,  Zacapu,3267.0,214.0,197.0,22.0,18.0
+16 MIC,Zamora,  Zamora,2539.0,366.0,344.0,65.0,56.0
+16 MIC,Zináparo,  Zináparo,904.0,151.0,147.0,17.0,17.0
+16 MIC,Zinapécuaro,  Zinapécuaro,3366.0,328.0,312.0,81.0,78.0
+16 MIC,Ziracuaretiro,  Ziracuaretiro,1257.0,210.0,201.0,54.0,54.0
+16 MIC,Zitácuaro,  Zitácuaro,6766.0,504.0,484.0,180.0,157.0
+16 MIC,José Sixto Verduzco,  José Sixto Verduzco,4797.0,1816.0,1797.0,360.0,346.0
+17 MOR,, Morelos,63768.0,7605.0,7251.0,2045.0,1888.0
+17 MOR,Amacuzac,  Amacuzac,1238.0,204.0,194.0,52.0,46.0
+17 MOR,Atlatlahucan,  Atlatlahucan,1272.0,157.0,149.0,13.0,8.0
+17 MOR,Axochiapan,  Axochiapan,3832.0,830.0,806.0,81.0,77.0
+17 MOR,Ayala,  Ayala,5585.0,706.0,684.0,224.0,210.0
+17 MOR,Coatlán del Río,  Coatlán Del Río,1034.0,146.0,141.0,16.0,16.0
+17 MOR,Cuautla,  Cuautla,2463.0,290.0,282.0,125.0,112.0
+17 MOR,Cuernavaca,  Cuernavaca,852.0,56.0,51.0,1.0,1.0
+17 MOR,Emiliano Zapata,  Emiliano Zapata,497.0,87.0,82.0,54.0,51.0
+17 MOR,Huitzilac,  Huitzilac,459.0,6.0,5.0,2.0,1.0
+17 MOR,Jantetelco,  Jantetelco,2510.0,382.0,370.0,70.0,66.0
+17 MOR,Jiutepec,  Jiutepec,279.0,23.0,19.0,1.0,1.0
+17 MOR,Jojutla,  Jojutla,1755.0,226.0,213.0,117.0,109.0
+17 MOR,Jonacatepec de Leandro Valle,  Jonacatepec De Leandro Valle,1587.0,395.0,384.0,97.0,95.0
+17 MOR,Mazatepec,  Mazatepec,1098.0,118.0,115.0,46.0,39.0
+17 MOR,Miacatlán,  Miacatlán,1101.0,94.0,89.0,28.0,21.0
+17 MOR,Ocuituco,  Ocuituco,3557.0,146.0,128.0,14.0,12.0
+17 MOR,Puente de Ixtla,  Puente De Ixtla,2032.0,199.0,181.0,51.0,40.0
+17 MOR,Temixco,  Temixco,936.0,79.0,76.0,20.0,17.0
+17 MOR,Tepalcingo,  Tepalcingo,3477.0,595.0,572.0,169.0,163.0
+17 MOR,Tepoztlán,  Tepoztlán,1094.0,64.0,58.0,9.0,8.0
+17 MOR,Tetecala,  Tetecala,597.0,96.0,90.0,37.0,31.0
+17 MOR,Tetela del Volcán,  Tetela Del Volcán,2928.0,111.0,99.0,9.0,6.0
+17 MOR,Tlalnepantla,  Tlalnepantla,1289.0,57.0,54.0,1.0,1.0
+17 MOR,Tlaltizapán de Zapata,  Tlaltizapán De Zapata,2639.0,393.0,378.0,172.0,159.0
+17 MOR,Tlaquiltenango,  Tlaquiltenango,2740.0,355.0,344.0,170.0,165.0
+17 MOR,Tlayacapan,  Tlayacapan,1371.0,125.0,116.0,16.0,16.0
+17 MOR,Totolapan,  Totolapan,1782.0,205.0,190.0,10.0,10.0
+17 MOR,Xochitepec,  Xochitepec,1412.0,207.0,198.0,106.0,100.0
+17 MOR,Yautepec,  Yautepec,2221.0,264.0,257.0,119.0,115.0
+17 MOR,Yecapixtla,  Yecapixtla,3179.0,304.0,272.0,67.0,56.0
+17 MOR,Zacatepec,  Zacatepec,543.0,62.0,62.0,32.0,29.0
+17 MOR,Zacualpan de Amilpas,  Zacualpan De Amilpas,1537.0,212.0,198.0,25.0,22.0
+17 MOR,Temoac,  Temoac,1400.0,172.0,167.0,36.0,36.0
+17 MOR,Coatetelco,  Coatetelco,1158.0,100.0,97.0,8.0,7.0
+17 MOR,Xoxocotla,  Xoxocotla,843.0,123.0,115.0,46.0,42.0
+17 MOR,Hueyapan,  Hueyapan,1471.0,16.0,15.0,1.0,0.0
+18 NAY,, Nayarit,74702.0,12309.0,11936.0,2945.0,2636.0
+18 NAY,Acaponeta,  Acaponeta,3712.0,727.0,707.0,152.0,144.0
+18 NAY,Ahuacatlán,  Ahuacatlán,1726.0,236.0,230.0,35.0,33.0
+18 NAY,Amatlán de Cañas,  Amatlán De Cañas,1248.0,413.0,408.0,28.0,28.0
+18 NAY,Compostela,  Compostela,6316.0,773.0,739.0,189.0,181.0
+18 NAY,Huajicori,  Huajicori,1863.0,32.0,31.0,1.0,1.0
+18 NAY,Ixtlán del Río,  Ixtlán Del Río,748.0,122.0,119.0,16.0,14.0
+18 NAY,Jala,  Jala,3446.0,601.0,578.0,33.0,31.0
+18 NAY,Xalisco,  Xalisco,3277.0,642.0,626.0,100.0,92.0
+18 NAY,Del Nayar,  Del Nayar,6187.0,48.0,42.0,2.0,1.0
+18 NAY,Rosamorada,  Rosamorada,5731.0,1142.0,1104.0,284.0,262.0
+18 NAY,Ruíz,  Ruíz,1582.0,144.0,141.0,35.0,32.0
+18 NAY,San Blas,  San Blas,5335.0,776.0,755.0,168.0,158.0
+18 NAY,San Pedro Lagunillas,  San Pedro Lagunillas,1707.0,368.0,356.0,57.0,54.0
+18 NAY,Santa María del Oro,  Santa María Del Oro,3788.0,797.0,783.0,132.0,127.0
+18 NAY,Santiago Ixcuintla,  Santiago Ixcuintla,10153.0,2103.0,2050.0,1080.0,921.0
+18 NAY,Tecuala,  Tecuala,5704.0,1500.0,1466.0,324.0,274.0
+18 NAY,Tepic,  Tepic,6787.0,893.0,837.0,167.0,155.0
+18 NAY,Tuxpan,  Tuxpan,2374.0,601.0,585.0,64.0,54.0
+18 NAY,La Yesca,  La Yesca,1287.0,188.0,186.0,4.0,4.0
+18 NAY,Bahía de Banderas,  Bahía De Banderas,1731.0,203.0,193.0,74.0,70.0
+19 NLN,, Nuevo León,28097.0,727.0,639.0,251.0,215.0
+19 NLN,Abasolo,  Abasolo,10.0,0.0,0.0,0.0,0.0
+19 NLN,Agualeguas,  Agualeguas,324.0,2.0,2.0,10.0,10.0
+19 NLN,Los Aldamas,  Los Aldamas,143.0,1.0,1.0,0.0,0.0
+19 NLN,Allende,  Allende,177.0,6.0,5.0,1.0,1.0
+19 NLN,Anáhuac,  Anáhuac,825.0,21.0,17.0,13.0,11.0
+19 NLN,Apodaca,  Apodaca,86.0,3.0,3.0,2.0,2.0
+19 NLN,Aramberri,  Aramberri,2493.0,100.0,89.0,5.0,2.0
+19 NLN,Bustamante,  Bustamante,90.0,1.0,1.0,1.0,1.0
+19 NLN,Cadereyta Jiménez,  Cadereyta Jiménez,1670.0,51.0,47.0,16.0,13.0
+19 NLN,El Carmen,  El Carmen,76.0,0.0,0.0,0.0,0.0
+19 NLN,Cerralvo,  Cerralvo,181.0,11.0,10.0,1.0,1.0
+19 NLN,Ciénega de Flores,  Ciénega De Flores,49.0,2.0,1.0,2.0,2.0
+19 NLN,China,  China,944.0,37.0,33.0,16.0,14.0
+19 NLN,Doctor Arroyo,  Doctor Arroyo,5711.0,118.0,115.0,15.0,13.0
+19 NLN,Doctor Coss,  Doctor Coss,200.0,7.0,6.0,5.0,5.0
+19 NLN,Doctor González,  Doctor González,122.0,2.0,1.0,4.0,3.0
+19 NLN,Galeana,  Galeana,4111.0,146.0,133.0,27.0,27.0
+19 NLN,García,  García,120.0,1.0,0.0,1.0,0.0
+19 NLN,General Bravo,  General Bravo,364.0,15.0,13.0,10.0,10.0
+19 NLN,General Escobedo,  General Escobedo,39.0,2.0,2.0,0.0,0.0
+19 NLN,General Terán,  General Terán,884.0,10.0,8.0,21.0,20.0
+19 NLN,General Treviño,  General Treviño,79.0,1.0,1.0,0.0,0.0
+19 NLN,General Zaragoza,  General Zaragoza,827.0,4.0,4.0,1.0,1.0
+19 NLN,General Zuazua,  General Zuazua,130.0,3.0,2.0,2.0,0.0
+19 NLN,Guadalupe,  Guadalupe,,,,,
+19 NLN,Los Herreras,  Los Herreras,134.0,1.0,1.0,0.0,0.0
+19 NLN,Higueras,  Higueras,70.0,1.0,1.0,0.0,0.0
+19 NLN,Hualahuises,  Hualahuises,241.0,1.0,1.0,4.0,3.0
+19 NLN,Iturbide,  Iturbide,349.0,8.0,6.0,2.0,2.0
+19 NLN,Juárez,  Juárez,57.0,0.0,0.0,0.0,0.0
+19 NLN,Lampazos de Naranjo,  Lampazos De Naranjo,147.0,0.0,0.0,2.0,2.0
+19 NLN,Linares,  Linares,1944.0,54.0,33.0,31.0,24.0
+19 NLN,Marín,  Marín,47.0,3.0,3.0,1.0,1.0
+19 NLN,Melchor Ocampo,  Melchor Ocampo,45.0,0.0,0.0,0.0,0.0
+19 NLN,Mier y Noriega,  Mier Y Noriega,1236.0,13.0,13.0,0.0,0.0
+19 NLN,Mina,  Mina,289.0,4.0,3.0,1.0,1.0
+19 NLN,Montemorelos,  Montemorelos,1136.0,23.0,19.0,33.0,24.0
+19 NLN,Monterrey,  Monterrey,,,,,
+19 NLN,Parás,  Parás,136.0,1.0,1.0,1.0,1.0
+19 NLN,Pesquería,  Pesquería,500.0,25.0,24.0,6.0,6.0
+19 NLN,Los Ramones,  Los Ramones,544.0,22.0,20.0,6.0,6.0
+19 NLN,Rayones,  Rayones,373.0,2.0,2.0,1.0,1.0
+19 NLN,Sabinas Hidalgo,  Sabinas Hidalgo,229.0,4.0,4.0,2.0,2.0
+19 NLN,Salinas Victoria,  Salinas Victoria,283.0,8.0,7.0,4.0,4.0
+19 NLN,Hidalgo,  Hidalgo,39.0,0.0,0.0,0.0,0.0
+19 NLN,Santa Catarina,  Santa Catarina,54.0,2.0,1.0,0.0,0.0
+19 NLN,Santiago,  Santiago,160.0,3.0,1.0,0.0,0.0
+19 NLN,Vallecillo,  Vallecillo,267.0,7.0,4.0,2.0,1.0
+19 NLN,Villaldama,  Villaldama,154.0,1.0,1.0,2.0,1.0
+20 OAX,, Oaxaca,380061.0,15080.0,14350.0,868.0,721.0
+20 OAX,Abejones,  Abejones,133.0,4.0,3.0,0.0,0.0
+20 OAX,Acatlán de Pérez Figueroa,  Acatlán De Pérez Figueroa,6317.0,1869.0,1840.0,275.0,251.0
+20 OAX,Asunción Cacalotepec,  Asunción Cacalotepec,390.0,2.0,2.0,0.0,0.0
+20 OAX,Asunción Cuyotepeji,  Asunción Cuyotepeji,149.0,3.0,3.0,1.0,1.0
+20 OAX,Asunción Ixtaltepec,  Asunción Ixtaltepec,2116.0,47.0,44.0,5.0,5.0
+20 OAX,Asunción Nochixtlán,  Asunción Nochixtlán,847.0,18.0,17.0,1.0,1.0
+20 OAX,Asunción Ocotlán,  Asunción Ocotlán,133.0,1.0,1.0,0.0,0.0
+20 OAX,Asunción Tlacolulita,  Asunción Tlacolulita,187.0,1.0,1.0,0.0,0.0
+20 OAX,Ayotzintepec,  Ayotzintepec,737.0,9.0,7.0,1.0,1.0
+20 OAX,El Barrio de la Soledad,  El Barrio De La Soledad,683.0,20.0,20.0,2.0,1.0
+20 OAX,Calihualá,  Calihualá,277.0,2.0,1.0,0.0,0.0
+20 OAX,Candelaria Loxicha,  Candelaria Loxicha,1051.0,32.0,31.0,0.0,0.0
+20 OAX,Ciénega de Zimatlán,  Ciénega De Zimatlán,456.0,11.0,10.0,1.0,0.0
+20 OAX,Ciudad Ixtepec,  Ciudad Ixtepec,128.0,3.0,3.0,0.0,0.0
+20 OAX,Coatecas Altas,  Coatecas Altas,1419.0,14.0,14.0,0.0,0.0
+20 OAX,Coicoyán de las Flores,  Coicoyán De Las Flores,791.0,123.0,123.0,0.0,0.0
+20 OAX,La Compañía,  La Compañía,755.0,25.0,25.0,0.0,0.0
+20 OAX,Concepción Buenavista,  Concepción Buenavista,158.0,3.0,2.0,0.0,0.0
+20 OAX,Concepción Pápalo,  Concepción Pápalo,683.0,78.0,78.0,0.0,0.0
+20 OAX,Constancia del Rosario,  Constancia Del Rosario,495.0,18.0,17.0,2.0,2.0
+20 OAX,Cosolapa,  Cosolapa,1161.0,261.0,246.0,70.0,59.0
+20 OAX,Cosoltepec,  Cosoltepec,161.0,0.0,0.0,0.0,0.0
+20 OAX,Cuilápam de Guerrero,  Cuilápam De Guerrero,724.0,5.0,4.0,1.0,1.0
+20 OAX,Cuyamecalco Villa de Zaragoza,  Cuyamecalco Villa De Zaragoza,678.0,5.0,5.0,0.0,0.0
+20 OAX,Chahuites,  Chahuites,493.0,72.0,66.0,8.0,6.0
+20 OAX,Chalcatongo de Hidalgo,  Chalcatongo De Hidalgo,1499.0,18.0,18.0,1.0,1.0
+20 OAX,Chiquihuitlán de Benito Juárez,  Chiquihuitlán De Benito Juárez,316.0,4.0,4.0,0.0,0.0
+20 OAX,Heroica Ciudad de Ejutla de Crespo,  Heroica Ciudad De Ejutla De Crespo,3251.0,91.0,89.0,0.0,0.0
+20 OAX,Eloxochitlán de Flores Magón,  Eloxochitlán De Flores Magón,848.0,2.0,2.0,0.0,0.0
+20 OAX,El Espinal,  El Espinal,386.0,9.0,7.0,0.0,0.0
+20 OAX,Tamazulápam del Espíritu Santo,  Tamazulápam Del Espíritu Santo,1115.0,60.0,60.0,0.0,0.0
+20 OAX,Fresnillo de Trujano,  Fresnillo De Trujano,137.0,9.0,9.0,0.0,0.0
+20 OAX,Guadalupe Etla,  Guadalupe Etla,179.0,1.0,1.0,0.0,0.0
+20 OAX,Guadalupe de Ramírez,  Guadalupe De Ramírez,51.0,6.0,6.0,0.0,0.0
+20 OAX,Guelatao de Juárez,  Guelatao De Juárez,38.0,1.0,1.0,0.0,0.0
+20 OAX,Guevea de Humboldt,  Guevea De Humboldt,799.0,9.0,9.0,2.0,1.0
+20 OAX,Mesones Hidalgo,  Mesones Hidalgo,726.0,38.0,35.0,1.0,1.0
+20 OAX,Villa Hidalgo,  Villa Hidalgo,285.0,1.0,1.0,0.0,0.0
+20 OAX,Heroica Ciudad de Huajuapan de León,  Heroica Ciudad De Huajuapan De León,767.0,42.0,41.0,1.0,1.0
+20 OAX,Huautepec,  Huautepec,1990.0,58.0,57.0,0.0,0.0
+20 OAX,Huautla de Jiménez,  Huautla De Jiménez,2821.0,21.0,18.0,0.0,0.0
+20 OAX,Ixtlán de Juárez,  Ixtlán De Juárez,1082.0,11.0,11.0,0.0,0.0
+20 OAX,Juchitán de Zaragoza,  Juchitán De Zaragoza,1924.0,90.0,81.0,10.0,8.0
+20 OAX,Loma Bonita,  Loma Bonita,1946.0,171.0,145.0,18.0,17.0
+20 OAX,Magdalena Apasco,  Magdalena Apasco,549.0,17.0,16.0,1.0,1.0
+20 OAX,Magdalena Jaltepec,  Magdalena Jaltepec,950.0,33.0,31.0,0.0,0.0
+20 OAX,Santa Magdalena Jicotlán,  Santa Magdalena Jicotlán,15.0,0.0,0.0,0.0,0.0
+20 OAX,Magdalena Mixtepec,  Magdalena Mixtepec,211.0,9.0,8.0,0.0,0.0
+20 OAX,Magdalena Ocotlán,  Magdalena Ocotlán,181.0,9.0,9.0,0.0,0.0
+20 OAX,Magdalena Peñasco,  Magdalena Peñasco,737.0,4.0,4.0,1.0,0.0
+20 OAX,Magdalena Teitipac,  Magdalena Teitipac,557.0,19.0,18.0,1.0,1.0
+20 OAX,Magdalena Tequisistlán,  Magdalena Tequisistlán,829.0,29.0,27.0,0.0,0.0
+20 OAX,Magdalena Tlacotepec,  Magdalena Tlacotepec,166.0,4.0,4.0,0.0,0.0
+20 OAX,Magdalena Zahuatlán,  Magdalena Zahuatlán,77.0,1.0,1.0,0.0,0.0
+20 OAX,Mariscala de Juárez,  Mariscala De Juárez,276.0,15.0,12.0,0.0,0.0
+20 OAX,Mártires de Tacubaya,  Mártires De Tacubaya,265.0,24.0,23.0,1.0,1.0
+20 OAX,Matías Romero Avendaño,  Matías Romero Avendaño,3490.0,79.0,75.0,7.0,6.0
+20 OAX,Mazatlán Villa de Flores,  Mazatlán Villa De Flores,3022.0,57.0,54.0,0.0,0.0
+20 OAX,Miahuatlán de Porfirio Díaz,  Miahuatlán De Porfirio Díaz,4014.0,130.0,126.0,1.0,1.0
+20 OAX,Mixistlán de la Reforma,  Mixistlán De La Reforma,557.0,51.0,45.0,0.0,0.0
+20 OAX,Monjas,  Monjas,336.0,12.0,12.0,0.0,0.0
+20 OAX,Natividad,  Natividad,19.0,1.0,1.0,0.0,0.0
+20 OAX,Nazareno Etla,  Nazareno Etla,156.0,2.0,2.0,0.0,0.0
+20 OAX,Nejapa de Madero,  Nejapa De Madero,1555.0,87.0,81.0,0.0,0.0
+20 OAX,Ixpantepec Nieves,  Ixpantepec Nieves,156.0,1.0,1.0,0.0,0.0
+20 OAX,Santiago Niltepec,  Santiago Niltepec,906.0,26.0,26.0,6.0,4.0
+20 OAX,Oaxaca de Juárez,  Oaxaca De Juárez,105.0,1.0,1.0,0.0,0.0
+20 OAX,Ocotlán de Morelos,  Ocotlán De Morelos,1601.0,57.0,53.0,4.0,2.0
+20 OAX,La Pe,  La Pe,626.0,10.0,10.0,2.0,1.0
+20 OAX,Pinotepa de Don Luis,  Pinotepa De Don Luis,637.0,12.0,8.0,0.0,0.0
+20 OAX,Pluma Hidalgo,  Pluma Hidalgo,382.0,10.0,9.0,0.0,0.0
+20 OAX,San José del Progreso,  San José Del Progreso,1342.0,40.0,36.0,1.0,1.0
+20 OAX,Putla Villa de Guerrero,  Putla Villa De Guerrero,3187.0,111.0,105.0,2.0,1.0
+20 OAX,Santa Catarina Quioquitani,  Santa Catarina Quioquitani,116.0,0.0,0.0,0.0,0.0
+20 OAX,Reforma de Pineda,  Reforma De Pineda,326.0,28.0,24.0,3.0,2.0
+20 OAX,La Reforma,  La Reforma,503.0,14.0,13.0,0.0,0.0
+20 OAX,Reyes Etla,  Reyes Etla,475.0,15.0,12.0,0.0,0.0
+20 OAX,Rojas de Cuauhtémoc,  Rojas De Cuauhtémoc,144.0,9.0,7.0,0.0,0.0
+20 OAX,Salina Cruz,  Salina Cruz,246.0,12.0,12.0,0.0,0.0
+20 OAX,San Agustín Amatengo,  San Agustín Amatengo,440.0,17.0,17.0,0.0,0.0
+20 OAX,San Agustín Atenango,  San Agustín Atenango,270.0,33.0,31.0,0.0,0.0
+20 OAX,San Agustín Chayuco,  San Agustín Chayuco,799.0,25.0,24.0,0.0,0.0
+20 OAX,San Agustín de las Juntas,  San Agustín De Las Juntas,43.0,2.0,2.0,0.0,0.0
+20 OAX,San Agustín Etla,  San Agustín Etla,115.0,6.0,6.0,0.0,0.0
+20 OAX,San Agustín Loxicha,  San Agustín Loxicha,3585.0,81.0,72.0,1.0,0.0
+20 OAX,San Agustín Tlacotepec,  San Agustín Tlacotepec,244.0,6.0,6.0,0.0,0.0
+20 OAX,San Agustín Yatareni,  San Agustín Yatareni,49.0,0.0,0.0,0.0,0.0
+20 OAX,San Andrés Cabecera Nueva,  San Andrés Cabecera Nueva,640.0,3.0,2.0,1.0,1.0
+20 OAX,San Andrés Dinicuiti,  San Andrés Dinicuiti,217.0,4.0,4.0,0.0,0.0
+20 OAX,San Andrés Huaxpaltepec,  San Andrés Huaxpaltepec,575.0,24.0,23.0,10.0,8.0
+20 OAX,San Andrés Huayápam,  San Andrés Huayápam,75.0,0.0,0.0,0.0,0.0
+20 OAX,San Andrés Ixtlahuaca,  San Andrés Ixtlahuaca,242.0,16.0,15.0,2.0,2.0
+20 OAX,San Andrés Lagunas,  San Andrés Lagunas,232.0,1.0,1.0,0.0,0.0
+20 OAX,San Andrés Nuxiño,  San Andrés Nuxiño,342.0,4.0,4.0,0.0,0.0
+20 OAX,San Andrés Paxtlán,  San Andrés Paxtlán,387.0,4.0,4.0,0.0,0.0
+20 OAX,San Andrés Sinaxtla,  San Andrés Sinaxtla,198.0,18.0,16.0,1.0,1.0
+20 OAX,San Andrés Solaga,  San Andrés Solaga,196.0,0.0,0.0,0.0,0.0
+20 OAX,San Andrés Teotilálpam,  San Andrés Teotilálpam,892.0,9.0,9.0,0.0,0.0
+20 OAX,San Andrés Tepetlapa,  San Andrés Tepetlapa,73.0,7.0,7.0,0.0,0.0
+20 OAX,San Andrés Yaá,  San Andrés Yaá,83.0,0.0,0.0,0.0,0.0
+20 OAX,San Andrés Zabache,  San Andrés Zabache,109.0,9.0,9.0,0.0,0.0
+20 OAX,San Andrés Zautla,  San Andrés Zautla,536.0,35.0,30.0,1.0,0.0
+20 OAX,San Antonino Castillo Velasco,  San Antonino Castillo Velasco,379.0,26.0,22.0,0.0,0.0
+20 OAX,San Antonino el Alto,  San Antonino El Alto,314.0,2.0,1.0,0.0,0.0
+20 OAX,San Antonino Monte Verde,  San Antonino Monte Verde,1715.0,134.0,132.0,1.0,0.0
+20 OAX,San Antonio Acutla,  San Antonio Acutla,185.0,5.0,5.0,0.0,0.0
+20 OAX,San Antonio de la Cal,  San Antonio De La Cal,191.0,2.0,1.0,0.0,0.0
+20 OAX,San Antonio Huitepec,  San Antonio Huitepec,563.0,2.0,2.0,0.0,0.0
+20 OAX,San Antonio Nanahuatípam,  San Antonio Nanahuatípam,302.0,107.0,103.0,2.0,1.0
+20 OAX,San Antonio Sinicahua,  San Antonio Sinicahua,244.0,5.0,5.0,0.0,0.0
+20 OAX,San Antonio Tepetlapa,  San Antonio Tepetlapa,621.0,36.0,35.0,4.0,4.0
+20 OAX,San Baltazar Chichicápam,  San Baltazar Chichicápam,748.0,11.0,11.0,1.0,1.0
+20 OAX,San Baltazar Loxicha,  San Baltazar Loxicha,359.0,39.0,39.0,0.0,0.0
+20 OAX,San Baltazar Yatzachi el Bajo,  San Baltazar Yatzachi El Bajo,118.0,5.0,4.0,0.0,0.0
+20 OAX,San Bartolo Coyotepec,  San Bartolo Coyotepec,294.0,4.0,4.0,0.0,0.0
+20 OAX,San Bartolomé Ayautla,  San Bartolomé Ayautla,976.0,7.0,7.0,0.0,0.0
+20 OAX,San Bartolomé Loxicha,  San Bartolomé Loxicha,329.0,11.0,11.0,0.0,0.0
+20 OAX,San Bartolomé Quialana,  San Bartolomé Quialana,344.0,15.0,15.0,0.0,0.0
+20 OAX,San Bartolomé Yucuañe,  San Bartolomé Yucuañe,106.0,2.0,2.0,0.0,0.0
+20 OAX,San Bartolomé Zoogocho,  San Bartolomé Zoogocho,24.0,0.0,0.0,0.0,0.0
+20 OAX,San Bartolo Soyaltepec,  San Bartolo Soyaltepec,232.0,3.0,3.0,0.0,0.0
+20 OAX,San Bartolo Yautepec,  San Bartolo Yautepec,155.0,0.0,0.0,0.0,0.0
+20 OAX,San Bernardo Mixtepec,  San Bernardo Mixtepec,410.0,1.0,1.0,0.0,0.0
+20 OAX,Heroica Villa de San Blas Atempa,  Heroica Villa De San Blas Atempa,1410.0,96.0,96.0,0.0,0.0
+20 OAX,San Carlos Yautepec,  San Carlos Yautepec,2796.0,20.0,19.0,1.0,1.0
+20 OAX,San Cristóbal Amatlán,  San Cristóbal Amatlán,701.0,5.0,4.0,0.0,0.0
+20 OAX,San Cristóbal Amoltepec,  San Cristóbal Amoltepec,353.0,3.0,3.0,0.0,0.0
+20 OAX,San Cristóbal Lachirioag,  San Cristóbal Lachirioag,214.0,2.0,2.0,0.0,0.0
+20 OAX,San Cristóbal Suchixtlahuaca,  San Cristóbal Suchixtlahuaca,80.0,2.0,2.0,0.0,0.0
+20 OAX,San Dionisio del Mar,  San Dionisio Del Mar,566.0,16.0,16.0,4.0,4.0
+20 OAX,San Dionisio Ocotepec,  San Dionisio Ocotepec,1126.0,41.0,37.0,0.0,0.0
+20 OAX,San Dionisio Ocotlán,  San Dionisio Ocotlán,227.0,7.0,7.0,0.0,0.0
+20 OAX,San Esteban Atatlahuca,  San Esteban Atatlahuca,827.0,14.0,13.0,0.0,0.0
+20 OAX,San Felipe Jalapa de Díaz,  San Felipe Jalapa De Díaz,3012.0,32.0,30.0,0.0,0.0
+20 OAX,San Felipe Tejalápam,  San Felipe Tejalápam,868.0,9.0,9.0,1.0,0.0
+20 OAX,San Felipe Usila,  San Felipe Usila,2562.0,13.0,13.0,0.0,0.0
+20 OAX,San Francisco Cahuacuá,  San Francisco Cahuacuá,536.0,6.0,6.0,0.0,0.0
+20 OAX,San Francisco Cajonos,  San Francisco Cajonos,81.0,0.0,0.0,0.0,0.0
+20 OAX,San Francisco Chapulapa,  San Francisco Chapulapa,455.0,37.0,37.0,0.0,0.0
+20 OAX,San Francisco Chindúa,  San Francisco Chindúa,311.0,11.0,11.0,0.0,0.0
+20 OAX,San Francisco del Mar,  San Francisco Del Mar,541.0,43.0,40.0,5.0,2.0
+20 OAX,San Francisco Huehuetlán,  San Francisco Huehuetlán,458.0,5.0,5.0,0.0,0.0
+20 OAX,San Francisco Ixhuatán,  San Francisco Ixhuatán,1173.0,74.0,65.0,9.0,9.0
+20 OAX,San Francisco Jaltepetongo,  San Francisco Jaltepetongo,271.0,0.0,0.0,1.0,1.0
+20 OAX,San Francisco Lachigoló,  San Francisco Lachigoló,156.0,3.0,3.0,0.0,0.0
+20 OAX,San Francisco Logueche,  San Francisco Logueche,355.0,0.0,0.0,0.0,0.0
+20 OAX,San Francisco Nuxaño,  San Francisco Nuxaño,127.0,3.0,3.0,0.0,0.0
+20 OAX,San Francisco Ozolotepec,  San Francisco Ozolotepec,443.0,7.0,7.0,0.0,0.0
+20 OAX,San Francisco Sola,  San Francisco Sola,147.0,2.0,2.0,0.0,0.0
+20 OAX,San Francisco Telixtlahuaca,  San Francisco Telixtlahuaca,717.0,23.0,21.0,0.0,0.0
+20 OAX,San Francisco Teopan,  San Francisco Teopan,101.0,0.0,0.0,0.0,0.0
+20 OAX,San Francisco Tlapancingo,  San Francisco Tlapancingo,431.0,2.0,2.0,0.0,0.0
+20 OAX,San Gabriel Mixtepec,  San Gabriel Mixtepec,579.0,6.0,6.0,0.0,0.0
+20 OAX,San Ildefonso Amatlán,  San Ildefonso Amatlán,327.0,6.0,6.0,0.0,0.0
+20 OAX,San Ildefonso Sola,  San Ildefonso Sola,123.0,1.0,1.0,0.0,0.0
+20 OAX,San Ildefonso Villa Alta,  San Ildefonso Villa Alta,604.0,3.0,2.0,0.0,0.0
+20 OAX,San Jacinto Amilpas,  San Jacinto Amilpas,9.0,0.0,0.0,0.0,0.0
+20 OAX,San Jacinto Tlacotepec,  San Jacinto Tlacotepec,322.0,35.0,35.0,0.0,0.0
+20 OAX,San Jerónimo Coatlán,  San Jerónimo Coatlán,874.0,30.0,30.0,1.0,1.0
+20 OAX,San Jerónimo Silacayoapilla,  San Jerónimo Silacayoapilla,130.0,4.0,4.0,0.0,0.0
+20 OAX,San Jerónimo Sosola,  San Jerónimo Sosola,485.0,2.0,2.0,0.0,0.0
+20 OAX,San Jerónimo Taviche,  San Jerónimo Taviche,203.0,8.0,8.0,0.0,0.0
+20 OAX,San Jerónimo Tecóatl,  San Jerónimo Tecóatl,503.0,1.0,1.0,0.0,0.0
+20 OAX,San Jorge Nuchita,  San Jorge Nuchita,333.0,46.0,45.0,0.0,0.0
+20 OAX,San José Ayuquila,  San José Ayuquila,140.0,22.0,20.0,0.0,0.0
+20 OAX,San José Chiltepec,  San José Chiltepec,1364.0,149.0,138.0,4.0,4.0
+20 OAX,San José del Peñasco,  San José Del Peñasco,239.0,18.0,18.0,0.0,0.0
+20 OAX,San José Estancia Grande,  San José Estancia Grande,163.0,18.0,17.0,0.0,0.0
+20 OAX,San José Independencia,  San José Independencia,243.0,0.0,0.0,0.0,0.0
+20 OAX,San José Lachiguiri,  San José Lachiguiri,409.0,4.0,4.0,0.0,0.0
+20 OAX,San José Tenango,  San José Tenango,2583.0,5.0,4.0,0.0,0.0
+20 OAX,San Juan Achiutla,  San Juan Achiutla,140.0,2.0,2.0,0.0,0.0
+20 OAX,San Juan Atepec,  San Juan Atepec,140.0,0.0,0.0,0.0,0.0
+20 OAX,Ánimas Trujano,  Ánimas Trujano,130.0,2.0,2.0,1.0,1.0
+20 OAX,San Juan Bautista Atatlahuca,  San Juan Bautista Atatlahuca,174.0,2.0,2.0,0.0,0.0
+20 OAX,San Juan Bautista Coixtlahuaca,  San Juan Bautista Coixtlahuaca,506.0,15.0,15.0,0.0,0.0
+20 OAX,San Juan Bautista Cuicatlán,  San Juan Bautista Cuicatlán,1291.0,61.0,60.0,1.0,1.0
+20 OAX,San Juan Bautista Guelache,  San Juan Bautista Guelache,171.0,5.0,4.0,0.0,0.0
+20 OAX,San Juan Bautista Jayacatlán,  San Juan Bautista Jayacatlán,193.0,3.0,3.0,0.0,0.0
+20 OAX,San Juan Bautista Lo de Soto,  San Juan Bautista Lo De Soto,406.0,17.0,16.0,2.0,1.0
+20 OAX,San Juan Bautista Suchitepec,  San Juan Bautista Suchitepec,106.0,2.0,2.0,0.0,0.0
+20 OAX,San Juan Bautista Tlacoatzintepec,  San Juan Bautista Tlacoatzintepec,467.0,45.0,45.0,0.0,0.0
+20 OAX,San Juan Bautista Tlachichilco,  San Juan Bautista Tlachichilco,208.0,20.0,20.0,0.0,0.0
+20 OAX,San Juan Bautista Tuxtepec,  San Juan Bautista Tuxtepec,7590.0,1024.0,942.0,54.0,41.0
+20 OAX,San Juan Cacahuatepec,  San Juan Cacahuatepec,1161.0,57.0,55.0,4.0,3.0
+20 OAX,San Juan Cieneguilla,  San Juan Cieneguilla,103.0,2.0,2.0,0.0,0.0
+20 OAX,San Juan Coatzóspam,  San Juan Coatzóspam,610.0,6.0,6.0,0.0,0.0
+20 OAX,San Juan Colorado,  San Juan Colorado,1345.0,57.0,53.0,0.0,0.0
+20 OAX,San Juan Comaltepec,  San Juan Comaltepec,500.0,3.0,2.0,0.0,0.0
+20 OAX,San Juan Cotzocón,  San Juan Cotzocón,2711.0,97.0,93.0,15.0,13.0
+20 OAX,San Juan Chicomezúchil,  San Juan Chicomezúchil,107.0,3.0,2.0,0.0,0.0
+20 OAX,San Juan Chilateca,  San Juan Chilateca,157.0,1.0,1.0,0.0,0.0
+20 OAX,San Juan del Estado,  San Juan Del Estado,238.0,5.0,4.0,0.0,0.0
+20 OAX,San Juan del Río,  San Juan Del Río,319.0,12.0,12.0,0.0,0.0
+20 OAX,San Juan Diuxi,  San Juan Diuxi,494.0,0.0,0.0,0.0,0.0
+20 OAX,San Juan Evangelista Analco,  San Juan Evangelista Analco,68.0,2.0,2.0,0.0,0.0
+20 OAX,San Juan Guelavía,  San Juan Guelavía,423.0,15.0,15.0,0.0,0.0
+20 OAX,San Juan Guichicovi,  San Juan Guichicovi,4428.0,161.0,146.0,7.0,6.0
+20 OAX,San Juan Ihualtepec,  San Juan Ihualtepec,72.0,2.0,2.0,1.0,1.0
+20 OAX,San Juan Juquila Mixes,  San Juan Juquila Mixes,631.0,27.0,27.0,0.0,0.0
+20 OAX,San Juan Juquila Vijanos,  San Juan Juquila Vijanos,382.0,2.0,2.0,0.0,0.0
+20 OAX,San Juan Lachao,  San Juan Lachao,825.0,14.0,14.0,0.0,0.0
+20 OAX,San Juan Lachigalla,  San Juan Lachigalla,727.0,4.0,4.0,0.0,0.0
+20 OAX,San Juan Lajarcia,  San Juan Lajarcia,169.0,4.0,4.0,0.0,0.0
+20 OAX,San Juan Lalana,  San Juan Lalana,2760.0,10.0,9.0,1.0,1.0
+20 OAX,San Juan de los Cués,  San Juan De Los Cués,500.0,15.0,14.0,0.0,0.0
+20 OAX,San Juan Mazatlán,  San Juan Mazatlán,3308.0,47.0,46.0,2.0,2.0
+20 OAX,San Juan Mixtepec,  San Juan Mixtepec,1713.0,80.0,80.0,0.0,0.0
+20 OAX,San Juan Mixtepec,  San Juan Mixtepec,113.0,0.0,0.0,0.0,0.0
+20 OAX,San Juan Ñumí,  San Juan Ñumí,1603.0,45.0,44.0,0.0,0.0
+20 OAX,San Juan Ozolotepec,  San Juan Ozolotepec,628.0,17.0,17.0,0.0,0.0
+20 OAX,San Juan Petlapa,  San Juan Petlapa,595.0,21.0,18.0,0.0,0.0
+20 OAX,San Juan Quiahije,  San Juan Quiahije,357.0,0.0,0.0,0.0,0.0
+20 OAX,San Juan Quiotepec,  San Juan Quiotepec,215.0,0.0,0.0,0.0,0.0
+20 OAX,San Juan Sayultepec,  San Juan Sayultepec,229.0,16.0,16.0,1.0,0.0
+20 OAX,San Juan Tabaá,  San Juan Tabaá,185.0,0.0,0.0,0.0,0.0
+20 OAX,San Juan Tamazola,  San Juan Tamazola,857.0,28.0,24.0,0.0,0.0
+20 OAX,San Juan Teita,  San Juan Teita,122.0,10.0,10.0,0.0,0.0
+20 OAX,San Juan Teitipac,  San Juan Teitipac,458.0,0.0,0.0,0.0,0.0
+20 OAX,San Juan Tepeuxila,  San Juan Tepeuxila,623.0,18.0,18.0,0.0,0.0
+20 OAX,San Juan Teposcolula,  San Juan Teposcolula,429.0,18.0,18.0,2.0,2.0
+20 OAX,San Juan Yaeé,  San Juan Yaeé,318.0,1.0,1.0,0.0,0.0
+20 OAX,San Juan Yatzona,  San Juan Yatzona,113.0,0.0,0.0,0.0,0.0
+20 OAX,San Juan Yucuita,  San Juan Yucuita,195.0,14.0,11.0,0.0,0.0
+20 OAX,San Lorenzo,  San Lorenzo,1043.0,27.0,27.0,1.0,1.0
+20 OAX,San Lorenzo Albarradas,  San Lorenzo Albarradas,725.0,23.0,23.0,0.0,0.0
+20 OAX,San Lorenzo Cacaotepec,  San Lorenzo Cacaotepec,739.0,21.0,15.0,0.0,0.0
+20 OAX,San Lorenzo Cuaunecuiltitla,  San Lorenzo Cuaunecuiltitla,173.0,2.0,2.0,0.0,0.0
+20 OAX,San Lorenzo Texmelúcan,  San Lorenzo Texmelúcan,1212.0,0.0,0.0,0.0,0.0
+20 OAX,San Lorenzo Victoria,  San Lorenzo Victoria,102.0,10.0,10.0,0.0,0.0
+20 OAX,San Lucas Camotlán,  San Lucas Camotlán,1040.0,8.0,8.0,0.0,0.0
+20 OAX,San Lucas Ojitlán,  San Lucas Ojitlán,3543.0,108.0,101.0,5.0,4.0
+20 OAX,San Lucas Quiaviní,  San Lucas Quiaviní,467.0,16.0,15.0,0.0,0.0
+20 OAX,San Lucas Zoquiápam,  San Lucas Zoquiápam,1797.0,4.0,4.0,0.0,0.0
+20 OAX,San Luis Amatlán,  San Luis Amatlán,882.0,15.0,15.0,0.0,0.0
+20 OAX,San Marcial Ozolotepec,  San Marcial Ozolotepec,202.0,2.0,0.0,0.0,0.0
+20 OAX,San Marcos Arteaga,  San Marcos Arteaga,187.0,44.0,34.0,2.0,0.0
+20 OAX,San Martín de los Cansecos,  San Martín De Los Cansecos,156.0,2.0,2.0,0.0,0.0
+20 OAX,San Martín Huamelúlpam,  San Martín Huamelúlpam,227.0,13.0,11.0,0.0,0.0
+20 OAX,San Martín Itunyoso,  San Martín Itunyoso,503.0,65.0,65.0,0.0,0.0
+20 OAX,San Martín Lachilá,  San Martín Lachilá,172.0,0.0,0.0,0.0,0.0
+20 OAX,San Martín Peras,  San Martín Peras,1293.0,50.0,50.0,0.0,0.0
+20 OAX,San Martín Tilcajete,  San Martín Tilcajete,104.0,1.0,1.0,0.0,0.0
+20 OAX,San Martín Toxpalan,  San Martín Toxpalan,629.0,8.0,8.0,0.0,0.0
+20 OAX,San Martín Zacatepec,  San Martín Zacatepec,167.0,8.0,8.0,0.0,0.0
+20 OAX,San Mateo Cajonos,  San Mateo Cajonos,178.0,1.0,1.0,0.0,0.0
+20 OAX,Capulálpam de Méndez,  Capulálpam De Méndez,61.0,0.0,0.0,0.0,0.0
+20 OAX,San Mateo del Mar,  San Mateo Del Mar,549.0,11.0,10.0,0.0,0.0
+20 OAX,San Mateo Yoloxochitlán,  San Mateo Yoloxochitlán,391.0,0.0,0.0,0.0,0.0
+20 OAX,San Mateo Etlatongo,  San Mateo Etlatongo,417.0,26.0,26.0,0.0,0.0
+20 OAX,San Mateo Nejápam,  San Mateo Nejápam,175.0,21.0,20.0,0.0,0.0
+20 OAX,San Mateo Peñasco,  San Mateo Peñasco,519.0,44.0,44.0,0.0,0.0
+20 OAX,San Mateo Piñas,  San Mateo Piñas,522.0,1.0,1.0,0.0,0.0
+20 OAX,San Mateo Río Hondo,  San Mateo Río Hondo,306.0,2.0,2.0,0.0,0.0
+20 OAX,San Mateo Sindihui,  San Mateo Sindihui,229.0,9.0,9.0,0.0,0.0
+20 OAX,San Mateo Tlapiltepec,  San Mateo Tlapiltepec,69.0,0.0,0.0,0.0,0.0
+20 OAX,San Melchor Betaza,  San Melchor Betaza,203.0,5.0,5.0,0.0,0.0
+20 OAX,San Miguel Achiutla,  San Miguel Achiutla,287.0,9.0,9.0,0.0,0.0
+20 OAX,San Miguel Ahuehuetitlán,  San Miguel Ahuehuetitlán,264.0,15.0,15.0,0.0,0.0
+20 OAX,San Miguel Aloápam,  San Miguel Aloápam,354.0,2.0,2.0,0.0,0.0
+20 OAX,San Miguel Amatitlán,  San Miguel Amatitlán,874.0,49.0,36.0,1.0,0.0
+20 OAX,San Miguel Amatlán,  San Miguel Amatlán,128.0,0.0,0.0,0.0,0.0
+20 OAX,San Miguel Coatlán,  San Miguel Coatlán,531.0,34.0,34.0,0.0,0.0
+20 OAX,San Miguel Chicahua,  San Miguel Chicahua,752.0,5.0,4.0,0.0,0.0
+20 OAX,San Miguel Chimalapa,  San Miguel Chimalapa,1085.0,13.0,11.0,2.0,0.0
+20 OAX,San Miguel del Puerto,  San Miguel Del Puerto,1093.0,25.0,24.0,0.0,0.0
+20 OAX,San Miguel del Río,  San Miguel Del Río,51.0,1.0,1.0,0.0,0.0
+20 OAX,San Miguel Ejutla,  San Miguel Ejutla,217.0,7.0,7.0,0.0,0.0
+20 OAX,San Miguel el Grande,  San Miguel El Grande,844.0,41.0,41.0,0.0,0.0
+20 OAX,San Miguel Huautla,  San Miguel Huautla,325.0,2.0,2.0,0.0,0.0
+20 OAX,San Miguel Mixtepec,  San Miguel Mixtepec,575.0,21.0,21.0,0.0,0.0
+20 OAX,San Miguel Panixtlahuaca,  San Miguel Panixtlahuaca,489.0,3.0,3.0,0.0,0.0
+20 OAX,San Miguel Peras,  San Miguel Peras,377.0,5.0,4.0,0.0,0.0
+20 OAX,San Miguel Piedras,  San Miguel Piedras,232.0,3.0,3.0,0.0,0.0
+20 OAX,San Miguel Quetzaltepec,  San Miguel Quetzaltepec,2217.0,6.0,6.0,1.0,1.0
+20 OAX,San Miguel Santa Flor,  San Miguel Santa Flor,85.0,0.0,0.0,0.0,0.0
+20 OAX,Villa Sola de Vega,  Villa Sola De Vega,1483.0,51.0,49.0,0.0,0.0
+20 OAX,San Miguel Soyaltepec,  San Miguel Soyaltepec,4391.0,297.0,277.0,25.0,23.0
+20 OAX,San Miguel Suchixtepec,  San Miguel Suchixtepec,125.0,1.0,0.0,0.0,0.0
+20 OAX,Villa Talea de Castro,  Villa Talea De Castro,501.0,27.0,27.0,0.0,0.0
+20 OAX,San Miguel Tecomatlán,  San Miguel Tecomatlán,59.0,0.0,0.0,0.0,0.0
+20 OAX,San Miguel Tenango,  San Miguel Tenango,242.0,2.0,2.0,0.0,0.0
+20 OAX,San Miguel Tequixtepec,  San Miguel Tequixtepec,204.0,8.0,7.0,0.0,0.0
+20 OAX,San Miguel Tilquiápam,  San Miguel Tilquiápam,264.0,0.0,0.0,0.0,0.0
+20 OAX,San Miguel Tlacamama,  San Miguel Tlacamama,608.0,34.0,34.0,3.0,1.0
+20 OAX,San Miguel Tlacotepec,  San Miguel Tlacotepec,284.0,9.0,9.0,0.0,0.0
+20 OAX,San Miguel Tulancingo,  San Miguel Tulancingo,148.0,5.0,4.0,0.0,0.0
+20 OAX,San Miguel Yotao,  San Miguel Yotao,161.0,3.0,3.0,0.0,0.0
+20 OAX,San Nicolás,  San Nicolás,249.0,1.0,1.0,0.0,0.0
+20 OAX,San Nicolás Hidalgo,  San Nicolás Hidalgo,151.0,15.0,14.0,1.0,1.0
+20 OAX,San Pablo Coatlán,  San Pablo Coatlán,687.0,15.0,15.0,0.0,0.0
+20 OAX,San Pablo Cuatro Venados,  San Pablo Cuatro Venados,352.0,5.0,5.0,0.0,0.0
+20 OAX,San Pablo Etla,  San Pablo Etla,301.0,3.0,3.0,0.0,0.0
+20 OAX,San Pablo Huitzo,  San Pablo Huitzo,429.0,26.0,26.0,0.0,0.0
+20 OAX,San Pablo Huixtepec,  San Pablo Huixtepec,512.0,44.0,41.0,1.0,0.0
+20 OAX,San Pablo Macuiltianguis,  San Pablo Macuiltianguis,143.0,1.0,1.0,0.0,0.0
+20 OAX,San Pablo Tijaltepec,  San Pablo Tijaltepec,920.0,23.0,23.0,0.0,0.0
+20 OAX,San Pablo Villa de Mitla,  San Pablo Villa De Mitla,831.0,28.0,28.0,0.0,0.0
+20 OAX,San Pablo Yaganiza,  San Pablo Yaganiza,108.0,0.0,0.0,0.0,0.0
+20 OAX,San Pedro Amuzgos,  San Pedro Amuzgos,1125.0,65.0,64.0,1.0,1.0
+20 OAX,San Pedro Apóstol,  San Pedro Apóstol,298.0,8.0,8.0,1.0,1.0
+20 OAX,San Pedro Atoyac,  San Pedro Atoyac,567.0,16.0,15.0,0.0,0.0
+20 OAX,San Pedro Cajonos,  San Pedro Cajonos,159.0,5.0,5.0,0.0,0.0
+20 OAX,San Pedro Coxcaltepec Cántaros,  San Pedro Coxcaltepec Cántaros,169.0,1.0,1.0,0.0,0.0
+20 OAX,San Pedro Comitancillo,  San Pedro Comitancillo,363.0,19.0,19.0,0.0,0.0
+20 OAX,San Pedro el Alto,  San Pedro El Alto,227.0,2.0,2.0,0.0,0.0
+20 OAX,San Pedro Huamelula,  San Pedro Huamelula,1067.0,25.0,24.0,0.0,0.0
+20 OAX,San Pedro Huilotepec,  San Pedro Huilotepec,205.0,21.0,19.0,0.0,0.0
+20 OAX,San Pedro Ixcatlán,  San Pedro Ixcatlán,1368.0,3.0,3.0,0.0,0.0
+20 OAX,San Pedro Ixtlahuaca,  San Pedro Ixtlahuaca,520.0,11.0,11.0,0.0,0.0
+20 OAX,San Pedro Jaltepetongo,  San Pedro Jaltepetongo,93.0,0.0,0.0,0.0,0.0
+20 OAX,San Pedro Jicayán,  San Pedro Jicayán,1625.0,60.0,59.0,2.0,2.0
+20 OAX,San Pedro Jocotipac,  San Pedro Jocotipac,219.0,2.0,2.0,0.0,0.0
+20 OAX,San Pedro Juchatengo,  San Pedro Juchatengo,137.0,1.0,1.0,0.0,0.0
+20 OAX,San Pedro Mártir,  San Pedro Mártir,397.0,5.0,5.0,0.0,0.0
+20 OAX,San Pedro Mártir Quiechapa,  San Pedro Mártir Quiechapa,146.0,2.0,2.0,0.0,0.0
+20 OAX,San Pedro Mártir Yucuxaco,  San Pedro Mártir Yucuxaco,316.0,3.0,1.0,1.0,1.0
+20 OAX,San Pedro Mixtepec,  San Pedro Mixtepec,1122.0,54.0,50.0,1.0,1.0
+20 OAX,San Pedro Mixtepec,  San Pedro Mixtepec,200.0,3.0,3.0,0.0,0.0
+20 OAX,San Pedro Molinos,  San Pedro Molinos,190.0,2.0,1.0,0.0,0.0
+20 OAX,San Pedro Nopala,  San Pedro Nopala,226.0,14.0,13.0,0.0,0.0
+20 OAX,San Pedro Ocopetatillo,  San Pedro Ocopetatillo,191.0,0.0,0.0,0.0,0.0
+20 OAX,San Pedro Ocotepec,  San Pedro Ocotepec,320.0,0.0,0.0,0.0,0.0
+20 OAX,San Pedro Pochutla,  San Pedro Pochutla,2359.0,78.0,70.0,2.0,2.0
+20 OAX,San Pedro Quiatoni,  San Pedro Quiatoni,2073.0,80.0,76.0,1.0,0.0
+20 OAX,San Pedro Sochiápam,  San Pedro Sochiápam,839.0,1.0,0.0,0.0,0.0
+20 OAX,San Pedro Tapanatepec,  San Pedro Tapanatepec,1785.0,232.0,209.0,27.0,21.0
+20 OAX,San Pedro Taviche,  San Pedro Taviche,212.0,3.0,3.0,0.0,0.0
+20 OAX,San Pedro Teozacoalco,  San Pedro Teozacoalco,244.0,2.0,2.0,0.0,0.0
+20 OAX,San Pedro Teutila,  San Pedro Teutila,779.0,78.0,78.0,0.0,0.0
+20 OAX,San Pedro Tidaá,  San Pedro Tidaá,241.0,1.0,1.0,0.0,0.0
+20 OAX,San Pedro Topiltepec,  San Pedro Topiltepec,137.0,6.0,6.0,0.0,0.0
+20 OAX,San Pedro Totolápam,  San Pedro Totolápam,334.0,35.0,35.0,0.0,0.0
+20 OAX,Villa de Tututepec,  Villa De Tututepec,3209.0,316.0,300.0,16.0,15.0
+20 OAX,San Pedro Yaneri,  San Pedro Yaneri,197.0,0.0,0.0,0.0,0.0
+20 OAX,San Pedro Yólox,  San Pedro Yólox,349.0,2.0,1.0,0.0,0.0
+20 OAX,San Pedro y San Pablo Ayutla,  San Pedro Y San Pablo Ayutla,678.0,0.0,0.0,0.0,0.0
+20 OAX,Villa de Etla,  Villa De Etla,211.0,4.0,4.0,1.0,1.0
+20 OAX,San Pedro y San Pablo Teposcolula,  San Pedro Y San Pablo Teposcolula,642.0,4.0,4.0,0.0,0.0
+20 OAX,San Pedro y San Pablo Tequixtepec,  San Pedro Y San Pablo Tequixtepec,351.0,4.0,4.0,0.0,0.0
+20 OAX,San Pedro Yucunama,  San Pedro Yucunama,64.0,5.0,5.0,0.0,0.0
+20 OAX,San Raymundo Jalpan,  San Raymundo Jalpan,349.0,5.0,5.0,1.0,1.0
+20 OAX,San Sebastián Abasolo,  San Sebastián Abasolo,684.0,16.0,15.0,0.0,0.0
+20 OAX,San Sebastián Coatlán,  San Sebastián Coatlán,662.0,39.0,39.0,0.0,0.0
+20 OAX,San Sebastián Ixcapa,  San Sebastián Ixcapa,847.0,44.0,44.0,3.0,3.0
+20 OAX,San Sebastián Nicananduta,  San Sebastián Nicananduta,368.0,12.0,12.0,0.0,0.0
+20 OAX,San Sebastián Río Hondo,  San Sebastián Río Hondo,608.0,6.0,5.0,0.0,0.0
+20 OAX,San Sebastián Tecomaxtlahuaca,  San Sebastián Tecomaxtlahuaca,747.0,11.0,10.0,1.0,1.0
+20 OAX,San Sebastián Teitipac,  San Sebastián Teitipac,270.0,21.0,21.0,0.0,0.0
+20 OAX,San Sebastián Tutla,  San Sebastián Tutla,87.0,1.0,1.0,0.0,0.0
+20 OAX,San Simón Almolongas,  San Simón Almolongas,688.0,9.0,9.0,0.0,0.0
+20 OAX,San Simón Zahuatlán,  San Simón Zahuatlán,272.0,7.0,7.0,0.0,0.0
+20 OAX,Santa Ana,  Santa Ana,487.0,32.0,31.0,0.0,0.0
+20 OAX,Santa Ana Ateixtlahuaca,  Santa Ana Ateixtlahuaca,116.0,0.0,0.0,0.0,0.0
+20 OAX,Santa Ana Cuauhtémoc,  Santa Ana Cuauhtémoc,193.0,2.0,2.0,0.0,0.0
+20 OAX,Santa Ana del Valle,  Santa Ana Del Valle,108.0,0.0,0.0,0.0,0.0
+20 OAX,Santa Ana Tavela,  Santa Ana Tavela,187.0,2.0,1.0,0.0,0.0
+20 OAX,Santa Ana Tlapacoyan,  Santa Ana Tlapacoyan,236.0,3.0,3.0,0.0,0.0
+20 OAX,Santa Ana Yareni,  Santa Ana Yareni,171.0,0.0,0.0,0.0,0.0
+20 OAX,Santa Ana Zegache,  Santa Ana Zegache,500.0,18.0,17.0,1.0,1.0
+20 OAX,Santa Catalina Quierí,  Santa Catalina Quierí,160.0,1.0,1.0,0.0,0.0
+20 OAX,Santa Catarina Cuixtla,  Santa Catarina Cuixtla,157.0,4.0,4.0,0.0,0.0
+20 OAX,Santa Catarina Ixtepeji,  Santa Catarina Ixtepeji,230.0,1.0,1.0,0.0,0.0
+20 OAX,Santa Catarina Juquila,  Santa Catarina Juquila,1659.0,37.0,37.0,0.0,0.0
+20 OAX,Santa Catarina Lachatao,  Santa Catarina Lachatao,271.0,0.0,0.0,1.0,1.0
+20 OAX,Santa Catarina Loxicha,  Santa Catarina Loxicha,283.0,8.0,8.0,0.0,0.0
+20 OAX,Santa Catarina Mechoacán,  Santa Catarina Mechoacán,880.0,76.0,73.0,0.0,0.0
+20 OAX,Santa Catarina Minas,  Santa Catarina Minas,297.0,1.0,1.0,0.0,0.0
+20 OAX,Santa Catarina Quiané,  Santa Catarina Quiané,325.0,4.0,4.0,0.0,0.0
+20 OAX,Santa Catarina Tayata,  Santa Catarina Tayata,252.0,9.0,9.0,0.0,0.0
+20 OAX,Santa Catarina Ticuá,  Santa Catarina Ticuá,289.0,1.0,1.0,0.0,0.0
+20 OAX,Santa Catarina Yosonotú,  Santa Catarina Yosonotú,301.0,4.0,4.0,0.0,0.0
+20 OAX,Santa Catarina Zapoquila,  Santa Catarina Zapoquila,115.0,0.0,0.0,0.0,0.0
+20 OAX,Santa Cruz Acatepec,  Santa Cruz Acatepec,143.0,0.0,0.0,0.0,0.0
+20 OAX,Santa Cruz Amilpas,  Santa Cruz Amilpas,22.0,1.0,1.0,0.0,0.0
+20 OAX,Santa Cruz de Bravo,  Santa Cruz De Bravo,20.0,0.0,0.0,0.0,0.0
+20 OAX,Santa Cruz Itundujia,  Santa Cruz Itundujia,2100.0,6.0,6.0,0.0,0.0
+20 OAX,Santa Cruz Mixtepec,  Santa Cruz Mixtepec,660.0,17.0,16.0,0.0,0.0
+20 OAX,Santa Cruz Nundaco,  Santa Cruz Nundaco,527.0,3.0,3.0,0.0,0.0
+20 OAX,Santa Cruz Papalutla,  Santa Cruz Papalutla,311.0,0.0,0.0,0.0,0.0
+20 OAX,Santa Cruz Tacache de Mina,  Santa Cruz Tacache De Mina,303.0,39.0,38.0,1.0,1.0
+20 OAX,Santa Cruz Tacahua,  Santa Cruz Tacahua,245.0,4.0,4.0,0.0,0.0
+20 OAX,Santa Cruz Tayata,  Santa Cruz Tayata,140.0,3.0,3.0,0.0,0.0
+20 OAX,Santa Cruz Xitla,  Santa Cruz Xitla,580.0,30.0,28.0,0.0,0.0
+20 OAX,Santa Cruz Xoxocotlán,  Santa Cruz Xoxocotlán,613.0,12.0,12.0,0.0,0.0
+20 OAX,Santa Cruz Zenzontepec,  Santa Cruz Zenzontepec,2665.0,125.0,112.0,0.0,0.0
+20 OAX,Santa Gertrudis,  Santa Gertrudis,1432.0,41.0,38.0,2.0,1.0
+20 OAX,Santa Inés del Monte,  Santa Inés Del Monte,256.0,9.0,9.0,1.0,0.0
+20 OAX,Santa Inés Yatzeche,  Santa Inés Yatzeche,102.0,1.0,1.0,0.0,0.0
+20 OAX,Santa Lucía del Camino,  Santa Lucía Del Camino,12.0,0.0,0.0,0.0,0.0
+20 OAX,Santa Lucía Miahuatlán,  Santa Lucía Miahuatlán,559.0,6.0,6.0,0.0,0.0
+20 OAX,Santa Lucía Monteverde,  Santa Lucía Monteverde,1471.0,2.0,1.0,0.0,0.0
+20 OAX,Santa Lucía Ocotlán,  Santa Lucía Ocotlán,618.0,33.0,33.0,0.0,0.0
+20 OAX,Santa María Alotepec,  Santa María Alotepec,471.0,37.0,37.0,0.0,0.0
+20 OAX,Santa María Apazco,  Santa María Apazco,621.0,1.0,1.0,0.0,0.0
+20 OAX,Santa María la Asunción,  Santa María La Asunción,438.0,14.0,14.0,0.0,0.0
+20 OAX,Heroica Ciudad de Tlaxiaco,  Heroica Ciudad De Tlaxiaco,2740.0,73.0,71.0,0.0,0.0
+20 OAX,Ayoquezco de Aldama,  Ayoquezco De Aldama,403.0,14.0,13.0,5.0,3.0
+20 OAX,Santa María Atzompa,  Santa María Atzompa,527.0,5.0,5.0,0.0,0.0
+20 OAX,Santa María Camotlán,  Santa María Camotlán,167.0,3.0,3.0,0.0,0.0
+20 OAX,Santa María Colotepec,  Santa María Colotepec,1313.0,51.0,50.0,1.0,1.0
+20 OAX,Santa María Cortijo,  Santa María Cortijo,283.0,8.0,7.0,2.0,2.0
+20 OAX,Santa María Coyotepec,  Santa María Coyotepec,137.0,0.0,0.0,0.0,0.0
+20 OAX,Santa María Chachoápam,  Santa María Chachoápam,318.0,8.0,8.0,0.0,0.0
+20 OAX,Villa de Chilapa de Díaz,  Villa De Chilapa De Díaz,111.0,0.0,0.0,0.0,0.0
+20 OAX,Santa María Chilchotla,  Santa María Chilchotla,3395.0,81.0,79.0,2.0,2.0
+20 OAX,Santa María Chimalapa,  Santa María Chimalapa,1655.0,11.0,11.0,0.0,0.0
+20 OAX,Santa María del Rosario,  Santa María Del Rosario,113.0,1.0,1.0,0.0,0.0
+20 OAX,Santa María del Tule,  Santa María Del Tule,237.0,2.0,2.0,0.0,0.0
+20 OAX,Santa María Ecatepec,  Santa María Ecatepec,930.0,71.0,68.0,0.0,0.0
+20 OAX,Santa María Guelacé,  Santa María Guelacé,232.0,8.0,8.0,0.0,0.0
+20 OAX,Santa María Guienagati,  Santa María Guienagati,458.0,21.0,19.0,1.0,1.0
+20 OAX,Santa María Huatulco,  Santa María Huatulco,1212.0,63.0,60.0,4.0,2.0
+20 OAX,Santa María Huazolotitlán,  Santa María Huazolotitlán,1934.0,94.0,90.0,23.0,21.0
+20 OAX,Santa María Ipalapa,  Santa María Ipalapa,898.0,22.0,21.0,0.0,0.0
+20 OAX,Santa María Ixcatlán,  Santa María Ixcatlán,128.0,1.0,1.0,0.0,0.0
+20 OAX,Santa María Jacatepec,  Santa María Jacatepec,1707.0,50.0,50.0,2.0,1.0
+20 OAX,Santa María Jalapa del Marqués,  Santa María Jalapa Del Marqués,928.0,25.0,24.0,0.0,0.0
+20 OAX,Santa María Jaltianguis,  Santa María Jaltianguis,124.0,1.0,1.0,0.0,0.0
+20 OAX,Santa María Lachixío,  Santa María Lachixío,188.0,1.0,1.0,0.0,0.0
+20 OAX,Santa María Mixtequilla,  Santa María Mixtequilla,594.0,47.0,45.0,0.0,0.0
+20 OAX,Santa María Nativitas,  Santa María Nativitas,182.0,6.0,5.0,0.0,0.0
+20 OAX,Santa María Nduayaco,  Santa María Nduayaco,171.0,3.0,3.0,0.0,0.0
+20 OAX,Santa María Ozolotepec,  Santa María Ozolotepec,578.0,2.0,1.0,0.0,0.0
+20 OAX,Santa María Pápalo,  Santa María Pápalo,686.0,36.0,35.0,0.0,0.0
+20 OAX,Santa María Peñoles,  Santa María Peñoles,1023.0,9.0,9.0,0.0,0.0
+20 OAX,Santa María Petapa,  Santa María Petapa,1004.0,44.0,43.0,0.0,0.0
+20 OAX,Santa María Quiegolani,  Santa María Quiegolani,488.0,8.0,8.0,0.0,0.0
+20 OAX,Santa María Sola,  Santa María Sola,238.0,4.0,4.0,0.0,0.0
+20 OAX,Santa María Tataltepec,  Santa María Tataltepec,62.0,4.0,4.0,0.0,0.0
+20 OAX,Santa María Tecomavaca,  Santa María Tecomavaca,406.0,15.0,15.0,0.0,0.0
+20 OAX,Santa María Temaxcalapa,  Santa María Temaxcalapa,187.0,1.0,1.0,0.0,0.0
+20 OAX,Santa María Temaxcaltepec,  Santa María Temaxcaltepec,191.0,2.0,2.0,0.0,0.0
+20 OAX,Santa María Teopoxco,  Santa María Teopoxco,1627.0,10.0,10.0,0.0,0.0
+20 OAX,Santa María Tepantlali,  Santa María Tepantlali,537.0,57.0,57.0,0.0,0.0
+20 OAX,Santa María Texcatitlán,  Santa María Texcatitlán,167.0,0.0,0.0,0.0,0.0
+20 OAX,Santa María Tlahuitoltepec,  Santa María Tlahuitoltepec,1272.0,70.0,70.0,0.0,0.0
+20 OAX,Santa María Tlalixtac,  Santa María Tlalixtac,377.0,26.0,26.0,0.0,0.0
+20 OAX,Santa María Tonameca,  Santa María Tonameca,2999.0,150.0,143.0,10.0,9.0
+20 OAX,Santa María Totolapilla,  Santa María Totolapilla,191.0,0.0,0.0,0.0,0.0
+20 OAX,Santa María Xadani,  Santa María Xadani,435.0,27.0,27.0,0.0,0.0
+20 OAX,Santa María Yalina,  Santa María Yalina,13.0,0.0,0.0,0.0,0.0
+20 OAX,Santa María Yavesía,  Santa María Yavesía,78.0,0.0,0.0,0.0,0.0
+20 OAX,Santa María Yolotepec,  Santa María Yolotepec,128.0,7.0,7.0,0.0,0.0
+20 OAX,Santa María Yosoyúa,  Santa María Yosoyúa,327.0,8.0,8.0,0.0,0.0
+20 OAX,Santa María Yucuhiti,  Santa María Yucuhiti,1228.0,23.0,22.0,0.0,0.0
+20 OAX,Santa María Zacatepec,  Santa María Zacatepec,2009.0,95.0,86.0,0.0,0.0
+20 OAX,Santa María Zaniza,  Santa María Zaniza,269.0,0.0,0.0,0.0,0.0
+20 OAX,Santa María Zoquitlán,  Santa María Zoquitlán,635.0,14.0,14.0,0.0,0.0
+20 OAX,Santiago Amoltepec,  Santiago Amoltepec,841.0,0.0,0.0,0.0,0.0
+20 OAX,Santiago Apoala,  Santiago Apoala,323.0,1.0,1.0,1.0,1.0
+20 OAX,Santiago Apóstol,  Santiago Apóstol,492.0,3.0,3.0,1.0,1.0
+20 OAX,Santiago Astata,  Santiago Astata,269.0,10.0,10.0,0.0,0.0
+20 OAX,Santiago Atitlán,  Santiago Atitlán,376.0,2.0,2.0,0.0,0.0
+20 OAX,Santiago Ayuquililla,  Santiago Ayuquililla,330.0,47.0,47.0,0.0,0.0
+20 OAX,Santiago Cacaloxtepec,  Santiago Cacaloxtepec,134.0,2.0,2.0,0.0,0.0
+20 OAX,Santiago Camotlán,  Santiago Camotlán,677.0,0.0,0.0,0.0,0.0
+20 OAX,Santiago Comaltepec,  Santiago Comaltepec,168.0,0.0,0.0,0.0,0.0
+20 OAX,Villa de Santiago Chazumba,  Villa De Santiago Chazumba,646.0,7.0,6.0,0.0,0.0
+20 OAX,Santiago Choápam,  Santiago Choápam,564.0,36.0,36.0,0.0,0.0
+20 OAX,Santiago del Río,  Santiago Del Río,153.0,4.0,3.0,0.0,0.0
+20 OAX,Santiago Huajolotitlán,  Santiago Huajolotitlán,716.0,21.0,19.0,1.0,1.0
+20 OAX,Santiago Huauclilla,  Santiago Huauclilla,168.0,0.0,0.0,0.0,0.0
+20 OAX,Santiago Ihuitlán Plumas,  Santiago Ihuitlán Plumas,161.0,6.0,6.0,0.0,0.0
+20 OAX,Santiago Ixcuintepec,  Santiago Ixcuintepec,366.0,0.0,0.0,0.0,0.0
+20 OAX,Santiago Ixtayutla,  Santiago Ixtayutla,2282.0,9.0,9.0,1.0,0.0
+20 OAX,Santiago Jamiltepec,  Santiago Jamiltepec,2439.0,154.0,148.0,16.0,15.0
+20 OAX,Santiago Jocotepec,  Santiago Jocotepec,2181.0,23.0,18.0,1.0,0.0
+20 OAX,Santiago Juxtlahuaca,  Santiago Juxtlahuaca,3046.0,40.0,39.0,0.0,0.0
+20 OAX,Santiago Lachiguiri,  Santiago Lachiguiri,1182.0,9.0,8.0,0.0,0.0
+20 OAX,Santiago Lalopa,  Santiago Lalopa,105.0,0.0,0.0,0.0,0.0
+20 OAX,Santiago Laollaga,  Santiago Laollaga,380.0,1.0,1.0,0.0,0.0
+20 OAX,Santiago Laxopa,  Santiago Laxopa,373.0,0.0,0.0,0.0,0.0
+20 OAX,Santiago Llano Grande,  Santiago Llano Grande,535.0,28.0,27.0,5.0,4.0
+20 OAX,Santiago Matatlán,  Santiago Matatlán,2724.0,123.0,121.0,3.0,3.0
+20 OAX,Santiago Miltepec,  Santiago Miltepec,54.0,9.0,9.0,0.0,0.0
+20 OAX,Santiago Minas,  Santiago Minas,240.0,1.0,1.0,0.0,0.0
+20 OAX,Santiago Nacaltepec,  Santiago Nacaltepec,523.0,4.0,4.0,0.0,0.0
+20 OAX,Santiago Nejapilla,  Santiago Nejapilla,62.0,0.0,0.0,0.0,0.0
+20 OAX,Santiago Nundiche,  Santiago Nundiche,332.0,4.0,4.0,0.0,0.0
+20 OAX,Santiago Nuyoó,  Santiago Nuyoó,520.0,1.0,1.0,0.0,0.0
+20 OAX,Santiago Pinotepa Nacional,  Santiago Pinotepa Nacional,4096.0,177.0,164.0,37.0,18.0
+20 OAX,Santiago Suchilquitongo,  Santiago Suchilquitongo,860.0,36.0,32.0,0.0,0.0
+20 OAX,Santiago Tamazola,  Santiago Tamazola,490.0,35.0,35.0,0.0,0.0
+20 OAX,Santiago Tapextla,  Santiago Tapextla,722.0,27.0,23.0,6.0,6.0
+20 OAX,Villa Tejúpam de la Unión,  Villa Tejúpam De La Unión,196.0,13.0,11.0,0.0,0.0
+20 OAX,Santiago Tenango,  Santiago Tenango,314.0,2.0,2.0,0.0,0.0
+20 OAX,Santiago Tepetlapa,  Santiago Tepetlapa,32.0,0.0,0.0,0.0,0.0
+20 OAX,Santiago Tetepec,  Santiago Tetepec,986.0,14.0,14.0,1.0,1.0
+20 OAX,Santiago Texcalcingo,  Santiago Texcalcingo,753.0,3.0,3.0,0.0,0.0
+20 OAX,Santiago Textitlán,  Santiago Textitlán,541.0,6.0,6.0,0.0,0.0
+20 OAX,Santiago Tilantongo,  Santiago Tilantongo,612.0,2.0,2.0,0.0,0.0
+20 OAX,Santiago Tillo,  Santiago Tillo,197.0,13.0,10.0,1.0,1.0
+20 OAX,Santiago Tlazoyaltepec,  Santiago Tlazoyaltepec,762.0,16.0,16.0,0.0,0.0
+20 OAX,Santiago Xanica,  Santiago Xanica,919.0,52.0,50.0,0.0,0.0
+20 OAX,Santiago Xiacuí,  Santiago Xiacuí,169.0,0.0,0.0,1.0,0.0
+20 OAX,Santiago Yaitepec,  Santiago Yaitepec,609.0,4.0,4.0,1.0,1.0
+20 OAX,Santiago Yaveo,  Santiago Yaveo,1667.0,58.0,46.0,7.0,7.0
+20 OAX,Santiago Yolomécatl,  Santiago Yolomécatl,186.0,2.0,1.0,0.0,0.0
+20 OAX,Santiago Yosondúa,  Santiago Yosondúa,2021.0,17.0,16.0,1.0,1.0
+20 OAX,Santiago Yucuyachi,  Santiago Yucuyachi,69.0,3.0,3.0,0.0,0.0
+20 OAX,Santiago Zacatepec,  Santiago Zacatepec,1014.0,9.0,9.0,0.0,0.0
+20 OAX,Santiago Zoochila,  Santiago Zoochila,82.0,4.0,4.0,0.0,0.0
+20 OAX,Nuevo Zoquiápam,  Nuevo Zoquiápam,235.0,5.0,5.0,0.0,0.0
+20 OAX,Santo Domingo Ingenio,  Santo Domingo Ingenio,1275.0,63.0,57.0,7.0,7.0
+20 OAX,Santo Domingo Albarradas,  Santo Domingo Albarradas,192.0,0.0,0.0,0.0,0.0
+20 OAX,Santo Domingo Armenta,  Santo Domingo Armenta,701.0,21.0,19.0,3.0,3.0
+20 OAX,Santo Domingo Chihuitán,  Santo Domingo Chihuitán,276.0,9.0,9.0,2.0,2.0
+20 OAX,Santo Domingo de Morelos,  Santo Domingo De Morelos,1655.0,188.0,182.0,2.0,1.0
+20 OAX,Santo Domingo Ixcatlán,  Santo Domingo Ixcatlán,234.0,3.0,3.0,0.0,0.0
+20 OAX,Santo Domingo Nuxaá,  Santo Domingo Nuxaá,703.0,25.0,25.0,0.0,0.0
+20 OAX,Santo Domingo Ozolotepec,  Santo Domingo Ozolotepec,128.0,0.0,0.0,0.0,0.0
+20 OAX,Santo Domingo Petapa,  Santo Domingo Petapa,1119.0,24.0,24.0,0.0,0.0
+20 OAX,Santo Domingo Roayaga,  Santo Domingo Roayaga,186.0,0.0,0.0,0.0,0.0
+20 OAX,Santo Domingo Tehuantepec,  Santo Domingo Tehuantepec,3197.0,156.0,153.0,4.0,4.0
+20 OAX,Santo Domingo Teojomulco,  Santo Domingo Teojomulco,668.0,3.0,3.0,0.0,0.0
+20 OAX,Santo Domingo Tepuxtepec,  Santo Domingo Tepuxtepec,923.0,83.0,77.0,1.0,0.0
+20 OAX,Santo Domingo Tlatayápam,  Santo Domingo Tlatayápam,42.0,0.0,0.0,0.0,0.0
+20 OAX,Santo Domingo Tomaltepec,  Santo Domingo Tomaltepec,260.0,8.0,7.0,0.0,0.0
+20 OAX,Santo Domingo Tonalá,  Santo Domingo Tonalá,952.0,190.0,178.0,2.0,0.0
+20 OAX,Santo Domingo Tonaltepec,  Santo Domingo Tonaltepec,78.0,1.0,1.0,0.0,0.0
+20 OAX,Santo Domingo Xagacía,  Santo Domingo Xagacía,114.0,0.0,0.0,0.0,0.0
+20 OAX,Santo Domingo Yanhuitlán,  Santo Domingo Yanhuitlán,306.0,11.0,11.0,1.0,1.0
+20 OAX,Santo Domingo Yodohino,  Santo Domingo Yodohino,55.0,0.0,0.0,0.0,0.0
+20 OAX,Santo Domingo Zanatepec,  Santo Domingo Zanatepec,1481.0,94.0,91.0,15.0,11.0
+20 OAX,Santos Reyes Nopala,  Santos Reyes Nopala,1710.0,32.0,31.0,0.0,0.0
+20 OAX,Santos Reyes Pápalo,  Santos Reyes Pápalo,280.0,1.0,1.0,0.0,0.0
+20 OAX,Santos Reyes Tepejillo,  Santos Reyes Tepejillo,181.0,2.0,2.0,0.0,0.0
+20 OAX,Santos Reyes Yucuná,  Santos Reyes Yucuná,81.0,7.0,7.0,1.0,1.0
+20 OAX,Santo Tomás Jalieza,  Santo Tomás Jalieza,497.0,4.0,4.0,0.0,0.0
+20 OAX,Santo Tomás Mazaltepec,  Santo Tomás Mazaltepec,305.0,25.0,24.0,0.0,0.0
+20 OAX,Santo Tomás Ocotepec,  Santo Tomás Ocotepec,1066.0,1.0,1.0,0.0,0.0
+20 OAX,Santo Tomás Tamazulapan,  Santo Tomás Tamazulapan,249.0,20.0,20.0,0.0,0.0
+20 OAX,San Vicente Coatlán,  San Vicente Coatlán,589.0,3.0,2.0,0.0,0.0
+20 OAX,San Vicente Lachixío,  San Vicente Lachixío,472.0,39.0,37.0,0.0,0.0
+20 OAX,San Vicente Nuñú,  San Vicente Nuñú,156.0,2.0,2.0,0.0,0.0
+20 OAX,Silacayoápam,  Silacayoápam,808.0,33.0,31.0,0.0,0.0
+20 OAX,Sitio de Xitlapehua,  Sitio De Xitlapehua,192.0,4.0,4.0,0.0,0.0
+20 OAX,Soledad Etla,  Soledad Etla,392.0,12.0,12.0,0.0,0.0
+20 OAX,Villa de Tamazulápam del Progreso,  Villa De Tamazulápam Del Progreso,457.0,23.0,23.0,0.0,0.0
+20 OAX,Tanetze de Zaragoza,  Tanetze De Zaragoza,368.0,4.0,3.0,0.0,0.0
+20 OAX,Taniche,  Taniche,269.0,0.0,0.0,0.0,0.0
+20 OAX,Tataltepec de Valdés,  Tataltepec De Valdés,858.0,27.0,26.0,0.0,0.0
+20 OAX,Teococuilco de Marcos Pérez,  Teococuilco De Marcos Pérez,126.0,0.0,0.0,0.0,0.0
+20 OAX,Teotitlán de Flores Magón,  Teotitlán De Flores Magón,429.0,34.0,33.0,1.0,1.0
+20 OAX,Teotitlán del Valle,  Teotitlán Del Valle,438.0,7.0,6.0,0.0,0.0
+20 OAX,Teotongo,  Teotongo,167.0,4.0,2.0,0.0,0.0
+20 OAX,Tepelmeme Villa de Morelos,  Tepelmeme Villa De Morelos,421.0,44.0,44.0,4.0,3.0
+20 OAX,"Heroica Villa Tezoatlán de Segura y Luna, Cuna de la Independencia de Oaxaca","  Heroica Villa Tezoatlán De Segura Y Luna, Cuna De La Independencia De Oaxaca",1759.0,64.0,62.0,2.0,2.0
+20 OAX,San Jerónimo Tlacochahuaya,  San Jerónimo Tlacochahuaya,374.0,9.0,9.0,0.0,0.0
+20 OAX,Tlacolula de Matamoros,  Tlacolula De Matamoros,1022.0,34.0,33.0,0.0,0.0
+20 OAX,Tlacotepec Plumas,  Tlacotepec Plumas,123.0,0.0,0.0,0.0,0.0
+20 OAX,Tlalixtac de Cabrera,  Tlalixtac De Cabrera,346.0,4.0,3.0,0.0,0.0
+20 OAX,Totontepec Villa de Morelos,  Totontepec Villa De Morelos,1123.0,60.0,58.0,0.0,0.0
+20 OAX,Trinidad Zaachila,  Trinidad Zaachila,867.0,18.0,17.0,0.0,0.0
+20 OAX,La Trinidad Vista Hermosa,  La Trinidad Vista Hermosa,119.0,5.0,5.0,0.0,0.0
+20 OAX,Unión Hidalgo,  Unión Hidalgo,428.0,28.0,23.0,7.0,5.0
+20 OAX,Valerio Trujano,  Valerio Trujano,266.0,15.0,14.0,1.0,0.0
+20 OAX,San Juan Bautista Valle Nacional,  San Juan Bautista Valle Nacional,3569.0,100.0,94.0,2.0,1.0
+20 OAX,Villa Díaz Ordaz,  Villa Díaz Ordaz,1049.0,7.0,7.0,0.0,0.0
+20 OAX,Yaxe,  Yaxe,334.0,5.0,4.0,0.0,0.0
+20 OAX,Magdalena Yodocono de Porfirio Díaz,  Magdalena Yodocono De Porfirio Díaz,234.0,5.0,5.0,0.0,0.0
+20 OAX,Yogana,  Yogana,336.0,1.0,1.0,0.0,0.0
+20 OAX,Yutanduchi de Guerrero,  Yutanduchi De Guerrero,311.0,5.0,5.0,0.0,0.0
+20 OAX,Villa de Zaachila,  Villa De Zaachila,1019.0,14.0,13.0,0.0,0.0
+20 OAX,San Mateo Yucutindoo,  San Mateo Yucutindoo,658.0,1.0,1.0,0.0,0.0
+20 OAX,Zapotitlán Lagunas,  Zapotitlán Lagunas,624.0,19.0,19.0,0.0,0.0
+20 OAX,Zapotitlán Palmas,  Zapotitlán Palmas,119.0,2.0,2.0,0.0,0.0
+20 OAX,Santa Inés de Zaragoza,  Santa Inés De Zaragoza,363.0,6.0,6.0,0.0,0.0
+20 OAX,Zimatlán de Álvarez,  Zimatlán De Álvarez,2913.0,65.0,64.0,2.0,2.0
+21 PUE,, Puebla,457612.0,16176.0,14995.0,835.0,648.0
+21 PUE,Acajete,  Acajete,5116.0,145.0,133.0,5.0,2.0
+21 PUE,Acateno,  Acateno,1116.0,49.0,47.0,5.0,3.0
+21 PUE,Acatlán,  Acatlán,2466.0,80.0,73.0,6.0,2.0
+21 PUE,Acatzingo,  Acatzingo,4153.0,204.0,185.0,8.0,5.0
+21 PUE,Acteopan,  Acteopan,1066.0,116.0,114.0,19.0,19.0
+21 PUE,Ahuacatlán,  Ahuacatlán,3211.0,12.0,11.0,0.0,0.0
+21 PUE,Ahuatlán,  Ahuatlán,427.0,4.0,4.0,1.0,1.0
+21 PUE,Ahuazotepec,  Ahuazotepec,1016.0,9.0,7.0,1.0,1.0
+21 PUE,Ahuehuetitla,  Ahuehuetitla,158.0,5.0,3.0,0.0,0.0
+21 PUE,Ajalpan,  Ajalpan,6016.0,94.0,88.0,0.0,0.0
+21 PUE,Albino Zertuche,  Albino Zertuche,140.0,2.0,2.0,0.0,0.0
+21 PUE,Aljojuca,  Aljojuca,1447.0,50.0,46.0,1.0,0.0
+21 PUE,Altepexi,  Altepexi,893.0,71.0,67.0,2.0,1.0
+21 PUE,Amixtlán,  Amixtlán,930.0,7.0,7.0,0.0,0.0
+21 PUE,Amozoc,  Amozoc,2295.0,72.0,59.0,4.0,2.0
+21 PUE,Aquixtla,  Aquixtla,1475.0,83.0,78.0,3.0,3.0
+21 PUE,Atempan,  Atempan,3576.0,23.0,20.0,2.0,1.0
+21 PUE,Atexcal,  Atexcal,737.0,21.0,20.0,0.0,0.0
+21 PUE,Atlixco,  Atlixco,7737.0,337.0,313.0,8.0,7.0
+21 PUE,Atoyatempan,  Atoyatempan,474.0,29.0,25.0,0.0,0.0
+21 PUE,Atzala,  Atzala,196.0,49.0,48.0,0.0,0.0
+21 PUE,Atzitzihuacán,  Atzitzihuacán,3699.0,171.0,162.0,24.0,22.0
+21 PUE,Atzitzintla,  Atzitzintla,1741.0,24.0,22.0,0.0,0.0
+21 PUE,Axutla,  Axutla,86.0,1.0,0.0,0.0,0.0
+21 PUE,Ayotoxco de Guerrero,  Ayotoxco De Guerrero,1408.0,87.0,84.0,14.0,14.0
+21 PUE,Calpan,  Calpan,2863.0,27.0,21.0,1.0,0.0
+21 PUE,Caltepec,  Caltepec,1820.0,40.0,32.0,0.0,0.0
+21 PUE,Camocuautla,  Camocuautla,565.0,2.0,2.0,2.0,2.0
+21 PUE,Caxhuacan,  Caxhuacan,627.0,22.0,22.0,0.0,0.0
+21 PUE,Coatepec,  Coatepec,151.0,2.0,2.0,0.0,0.0
+21 PUE,Coatzingo,  Coatzingo,393.0,43.0,42.0,1.0,1.0
+21 PUE,Cohetzala,  Cohetzala,362.0,19.0,18.0,1.0,0.0
+21 PUE,Cohuecan,  Cohuecan,966.0,86.0,84.0,14.0,13.0
+21 PUE,Coronango,  Coronango,1310.0,8.0,7.0,0.0,0.0
+21 PUE,Coxcatlán,  Coxcatlán,2204.0,197.0,189.0,3.0,2.0
+21 PUE,Coyomeapan,  Coyomeapan,3171.0,22.0,21.0,1.0,0.0
+21 PUE,Coyotepec,  Coyotepec,794.0,41.0,35.0,0.0,0.0
+21 PUE,Cuapiaxtla de Madero,  Cuapiaxtla De Madero,924.0,28.0,23.0,1.0,1.0
+21 PUE,Cuautempan,  Cuautempan,1758.0,10.0,9.0,0.0,0.0
+21 PUE,Cuautinchán,  Cuautinchán,1795.0,34.0,32.0,2.0,2.0
+21 PUE,Cuautlancingo,  Cuautlancingo,453.0,5.0,3.0,0.0,0.0
+21 PUE,Cuayuca de Andrade,  Cuayuca De Andrade,481.0,8.0,8.0,0.0,0.0
+21 PUE,Cuetzalan del Progreso,  Cuetzalan Del Progreso,8323.0,137.0,132.0,5.0,3.0
+21 PUE,Cuyoaco,  Cuyoaco,3653.0,246.0,235.0,49.0,45.0
+21 PUE,Chalchicomula de Sesma,  Chalchicomula De Sesma,7159.0,263.0,228.0,11.0,2.0
+21 PUE,Chapulco,  Chapulco,408.0,19.0,17.0,0.0,0.0
+21 PUE,Chiautla,  Chiautla,1401.0,87.0,81.0,1.0,1.0
+21 PUE,Chiautzingo,  Chiautzingo,3261.0,90.0,80.0,5.0,3.0
+21 PUE,Chiconcuautla,  Chiconcuautla,3639.0,36.0,34.0,1.0,0.0
+21 PUE,Chichiquila,  Chichiquila,4659.0,94.0,89.0,0.0,0.0
+21 PUE,Chietla,  Chietla,5080.0,798.0,788.0,18.0,14.0
+21 PUE,Chigmecatitlán,  Chigmecatitlán,142.0,4.0,4.0,0.0,0.0
+21 PUE,Chignahuapan,  Chignahuapan,7208.0,207.0,151.0,60.0,33.0
+21 PUE,Chignautla,  Chignautla,2741.0,44.0,40.0,1.0,1.0
+21 PUE,Chila,  Chila,697.0,16.0,14.0,0.0,0.0
+21 PUE,Chila de la Sal,  Chila De La Sal,136.0,2.0,2.0,0.0,0.0
+21 PUE,Honey,  Honey,1082.0,14.0,13.0,1.0,1.0
+21 PUE,Chilchotla,  Chilchotla,4095.0,49.0,42.0,4.0,3.0
+21 PUE,Chinantla,  Chinantla,385.0,13.0,13.0,2.0,1.0
+21 PUE,Domingo Arenas,  Domingo Arenas,1222.0,17.0,15.0,0.0,0.0
+21 PUE,Eloxochitlán,  Eloxochitlán,2703.0,150.0,146.0,2.0,1.0
+21 PUE,Epatlán,  Epatlán,358.0,53.0,50.0,3.0,3.0
+21 PUE,Esperanza,  Esperanza,2016.0,37.0,36.0,0.0,0.0
+21 PUE,Francisco Z. Mena,  Francisco Z. Mena,3610.0,229.0,217.0,11.0,6.0
+21 PUE,General Felipe Ángeles,  General Felipe Ángeles,2918.0,117.0,104.0,3.0,2.0
+21 PUE,Guadalupe,  Guadalupe,908.0,44.0,43.0,2.0,1.0
+21 PUE,Guadalupe Victoria,  Guadalupe Victoria,2630.0,72.0,66.0,6.0,5.0
+21 PUE,Hermenegildo Galeana,  Hermenegildo Galeana,1660.0,30.0,27.0,1.0,1.0
+21 PUE,Huaquechula,  Huaquechula,4622.0,451.0,434.0,39.0,35.0
+21 PUE,Huatlatlauca,  Huatlatlauca,1569.0,59.0,58.0,3.0,2.0
+21 PUE,Huauchinango,  Huauchinango,4698.0,35.0,25.0,0.0,0.0
+21 PUE,Huehuetla,  Huehuetla,2489.0,40.0,40.0,3.0,2.0
+21 PUE,Huehuetlán el Chico,  Huehuetlán El Chico,802.0,64.0,62.0,2.0,1.0
+21 PUE,Huejotzingo,  Huejotzingo,7961.0,147.0,125.0,5.0,3.0
+21 PUE,Hueyapan,  Hueyapan,1340.0,37.0,36.0,0.0,0.0
+21 PUE,Hueytamalco,  Hueytamalco,4559.0,140.0,128.0,22.0,20.0
+21 PUE,Hueytlalpan,  Hueytlalpan,1744.0,71.0,67.0,0.0,0.0
+21 PUE,Huitzilan de Serdán,  Huitzilan De Serdán,3428.0,66.0,65.0,4.0,4.0
+21 PUE,Huitziltepec,  Huitziltepec,837.0,46.0,44.0,3.0,2.0
+21 PUE,Atlequizayan,  Atlequizayan,648.0,18.0,17.0,0.0,0.0
+21 PUE,Ixcamilpa de Guerrero,  Ixcamilpa De Guerrero,769.0,15.0,15.0,1.0,1.0
+21 PUE,Ixcaquixtla,  Ixcaquixtla,1261.0,122.0,117.0,3.0,3.0
+21 PUE,Ixtacamaxtitlán,  Ixtacamaxtitlán,6386.0,133.0,111.0,3.0,3.0
+21 PUE,Ixtepec,  Ixtepec,1216.0,23.0,22.0,3.0,3.0
+21 PUE,Izúcar de Matamoros,  Izúcar De Matamoros,4460.0,559.0,543.0,39.0,31.0
+21 PUE,Jalpan,  Jalpan,2115.0,58.0,53.0,3.0,2.0
+21 PUE,Jolalpan,  Jolalpan,1834.0,97.0,90.0,0.0,0.0
+21 PUE,Jonotla,  Jonotla,1108.0,30.0,30.0,0.0,0.0
+21 PUE,Jopala,  Jopala,2197.0,34.0,27.0,2.0,1.0
+21 PUE,Juan C. Bonilla,  Juan C. Bonilla,887.0,12.0,9.0,0.0,0.0
+21 PUE,Juan Galindo,  Juan Galindo,138.0,1.0,1.0,0.0,0.0
+21 PUE,Juan N. Méndez,  Juan N. Méndez,895.0,43.0,43.0,0.0,0.0
+21 PUE,Lafragua,  Lafragua,2068.0,51.0,39.0,8.0,5.0
+21 PUE,Libres,  Libres,3960.0,110.0,92.0,4.0,3.0
+21 PUE,La Magdalena Tlatlauquitepec,  La Magdalena Tlatlauquitepec,141.0,5.0,5.0,0.0,0.0
+21 PUE,Mazapiltepec de Juárez,  Mazapiltepec De Juárez,1538.0,33.0,30.0,7.0,6.0
+21 PUE,Mixtla,  Mixtla,276.0,6.0,6.0,0.0,0.0
+21 PUE,Molcaxac,  Molcaxac,1242.0,28.0,27.0,1.0,0.0
+21 PUE,Cañada Morelos,  Cañada Morelos,3728.0,101.0,89.0,3.0,3.0
+21 PUE,Naupan,  Naupan,1475.0,10.0,8.0,0.0,0.0
+21 PUE,Nauzontla,  Nauzontla,469.0,6.0,3.0,1.0,1.0
+21 PUE,Nealtican,  Nealtican,1168.0,9.0,7.0,0.0,0.0
+21 PUE,Nicolás Bravo,  Nicolás Bravo,348.0,6.0,5.0,0.0,0.0
+21 PUE,Nopalucan,  Nopalucan,4217.0,163.0,140.0,13.0,8.0
+21 PUE,Ocotepec,  Ocotepec,1220.0,29.0,25.0,2.0,2.0
+21 PUE,Ocoyucan,  Ocoyucan,2180.0,56.0,51.0,0.0,0.0
+21 PUE,Olintla,  Olintla,2033.0,70.0,70.0,4.0,3.0
+21 PUE,Oriental,  Oriental,2532.0,148.0,141.0,6.0,6.0
+21 PUE,Pahuatlán,  Pahuatlán,1564.0,51.0,47.0,3.0,3.0
+21 PUE,Palmar de Bravo,  Palmar De Bravo,7055.0,261.0,233.0,14.0,9.0
+21 PUE,Pantepec,  Pantepec,3174.0,65.0,61.0,1.0,0.0
+21 PUE,Petlalcingo,  Petlalcingo,979.0,18.0,18.0,1.0,1.0
+21 PUE,Piaxtla,  Piaxtla,571.0,19.0,19.0,0.0,0.0
+21 PUE,Puebla,  Puebla,6274.0,152.0,142.0,4.0,1.0
+21 PUE,Quecholac,  Quecholac,6498.0,265.0,242.0,6.0,4.0
+21 PUE,Quimixtlán,  Quimixtlán,4311.0,117.0,107.0,0.0,0.0
+21 PUE,Rafael Lara Grajales,  Rafael Lara Grajales,55.0,3.0,3.0,0.0,0.0
+21 PUE,Los Reyes de Juárez,  Los Reyes De Juárez,1309.0,61.0,59.0,0.0,0.0
+21 PUE,San Andrés Cholula,  San Andrés Cholula,1067.0,37.0,35.0,2.0,0.0
+21 PUE,San Antonio Cañada,  San Antonio Cañada,250.0,10.0,7.0,0.0,0.0
+21 PUE,San Diego la Mesa Tochimiltzingo,  San Diego La Mesa Tochimiltzingo,206.0,3.0,3.0,0.0,0.0
+21 PUE,San Felipe Teotlalcingo,  San Felipe Teotlalcingo,2231.0,42.0,35.0,2.0,1.0
+21 PUE,San Felipe Tepatlán,  San Felipe Tepatlán,938.0,23.0,23.0,13.0,9.0
+21 PUE,San Gabriel Chilac,  San Gabriel Chilac,725.0,77.0,72.0,3.0,2.0
+21 PUE,San Gregorio Atzompa,  San Gregorio Atzompa,340.0,8.0,8.0,1.0,1.0
+21 PUE,San Jerónimo Tecuanipan,  San Jerónimo Tecuanipan,2193.0,31.0,30.0,1.0,1.0
+21 PUE,San Jerónimo Xayacatlán,  San Jerónimo Xayacatlán,512.0,1.0,1.0,0.0,0.0
+21 PUE,San José Chiapa,  San José Chiapa,2450.0,159.0,147.0,5.0,4.0
+21 PUE,San José Miahuatlán,  San José Miahuatlán,1767.0,97.0,89.0,3.0,3.0
+21 PUE,San Juan Atenco,  San Juan Atenco,3113.0,113.0,98.0,8.0,7.0
+21 PUE,San Juan Atzompa,  San Juan Atzompa,139.0,0.0,0.0,0.0,0.0
+21 PUE,San Martín Texmelucan,  San Martín Texmelucan,4631.0,70.0,54.0,3.0,3.0
+21 PUE,San Martín Totoltepec,  San Martín Totoltepec,42.0,4.0,4.0,0.0,0.0
+21 PUE,San Matías Tlalancaleca,  San Matías Tlalancaleca,2508.0,46.0,40.0,6.0,4.0
+21 PUE,San Miguel Ixitlán,  San Miguel Ixitlán,102.0,1.0,1.0,0.0,0.0
+21 PUE,San Miguel Xoxtla,  San Miguel Xoxtla,550.0,10.0,9.0,2.0,1.0
+21 PUE,San Nicolás Buenos Aires,  San Nicolás Buenos Aires,3286.0,79.0,74.0,3.0,0.0
+21 PUE,San Nicolás de los Ranchos,  San Nicolás De Los Ranchos,1521.0,27.0,23.0,0.0,0.0
+21 PUE,San Pablo Anicano,  San Pablo Anicano,477.0,7.0,6.0,0.0,0.0
+21 PUE,San Pedro Cholula,  San Pedro Cholula,2060.0,43.0,39.0,1.0,0.0
+21 PUE,San Pedro Yeloixtlahuaca,  San Pedro Yeloixtlahuaca,588.0,14.0,14.0,0.0,0.0
+21 PUE,San Salvador el Seco,  San Salvador El Seco,4493.0,237.0,222.0,13.0,11.0
+21 PUE,San Salvador el Verde,  San Salvador El Verde,3042.0,107.0,90.0,3.0,1.0
+21 PUE,San Salvador Huixcolotla,  San Salvador Huixcolotla,795.0,63.0,60.0,0.0,0.0
+21 PUE,San Sebastián Tlacotepec,  San Sebastián Tlacotepec,2448.0,133.0,130.0,1.0,1.0
+21 PUE,Santa Catarina Tlaltempan,  Santa Catarina Tlaltempan,82.0,0.0,0.0,0.0,0.0
+21 PUE,Santa Inés Ahuatempan,  Santa Inés Ahuatempan,1052.0,10.0,9.0,0.0,0.0
+21 PUE,Santa Isabel Cholula,  Santa Isabel Cholula,841.0,36.0,34.0,2.0,2.0
+21 PUE,Santiago Miahuatlán,  Santiago Miahuatlán,640.0,45.0,42.0,0.0,0.0
+21 PUE,Huehuetlán el Grande,  Huehuetlán El Grande,1391.0,22.0,21.0,0.0,0.0
+21 PUE,Santo Tomás Hueyotlipan,  Santo Tomás Hueyotlipan,603.0,35.0,28.0,0.0,0.0
+21 PUE,Soltepec,  Soltepec,2695.0,75.0,67.0,9.0,9.0
+21 PUE,Tecali de Herrera,  Tecali De Herrera,1930.0,65.0,59.0,1.0,0.0
+21 PUE,Tecamachalco,  Tecamachalco,4440.0,352.0,325.0,5.0,3.0
+21 PUE,Tecomatlán,  Tecomatlán,495.0,40.0,40.0,0.0,0.0
+21 PUE,Tehuacán,  Tehuacán,2790.0,177.0,160.0,2.0,2.0
+21 PUE,Tehuitzingo,  Tehuitzingo,1208.0,41.0,38.0,0.0,0.0
+21 PUE,Tenampulco,  Tenampulco,1763.0,36.0,34.0,12.0,11.0
+21 PUE,Teopantlán,  Teopantlán,692.0,37.0,37.0,1.0,1.0
+21 PUE,Teotlalco,  Teotlalco,615.0,85.0,85.0,1.0,1.0
+21 PUE,Tepanco de López,  Tepanco De López,2365.0,208.0,198.0,19.0,17.0
+21 PUE,Tepango de Rodríguez,  Tepango De Rodríguez,417.0,9.0,9.0,14.0,12.0
+21 PUE,Tepatlaxco de Hidalgo,  Tepatlaxco De Hidalgo,1413.0,37.0,37.0,1.0,0.0
+21 PUE,Tepeaca,  Tepeaca,5807.0,183.0,169.0,5.0,4.0
+21 PUE,Tepemaxalco,  Tepemaxalco,329.0,4.0,4.0,0.0,0.0
+21 PUE,Tepeojuma,  Tepeojuma,1843.0,198.0,191.0,8.0,8.0
+21 PUE,Tepetzintla,  Tepetzintla,2016.0,10.0,9.0,0.0,0.0
+21 PUE,Tepexco,  Tepexco,1075.0,156.0,151.0,15.0,15.0
+21 PUE,Tepexi de Rodríguez,  Tepexi De Rodríguez,2640.0,143.0,132.0,0.0,0.0
+21 PUE,Tepeyahualco,  Tepeyahualco,3400.0,266.0,245.0,19.0,16.0
+21 PUE,Tepeyahualco de Cuauhtémoc,  Tepeyahualco De Cuauhtémoc,424.0,12.0,12.0,0.0,0.0
+21 PUE,Tetela de Ocampo,  Tetela De Ocampo,4092.0,39.0,34.0,0.0,0.0
+21 PUE,Teteles de Ávila Castillo,  Teteles De Ávila Castillo,441.0,1.0,1.0,0.0,0.0
+21 PUE,Teziutlán,  Teziutlán,1233.0,12.0,7.0,2.0,2.0
+21 PUE,Tianguismanalco,  Tianguismanalco,1679.0,26.0,24.0,0.0,0.0
+21 PUE,Tilapa,  Tilapa,1518.0,263.0,256.0,10.0,9.0
+21 PUE,Tlacotepec de Benito Juárez,  Tlacotepec De Benito Juárez,5264.0,393.0,380.0,7.0,7.0
+21 PUE,Tlacuilotepec,  Tlacuilotepec,2748.0,49.0,49.0,4.0,4.0
+21 PUE,Tlachichuca,  Tlachichuca,5316.0,225.0,203.0,9.0,5.0
+21 PUE,Tlahuapan,  Tlahuapan,5869.0,122.0,113.0,6.0,5.0
+21 PUE,Tlaltenango,  Tlaltenango,1019.0,22.0,19.0,0.0,0.0
+21 PUE,Tlanepantla,  Tlanepantla,449.0,14.0,10.0,0.0,0.0
+21 PUE,Tlaola,  Tlaola,3498.0,23.0,18.0,0.0,0.0
+21 PUE,Tlapacoya,  Tlapacoya,1484.0,15.0,11.0,1.0,1.0
+21 PUE,Tlapanalá,  Tlapanalá,1631.0,142.0,139.0,5.0,5.0
+21 PUE,Tlatlauquitepec,  Tlatlauquitepec,7599.0,98.0,90.0,4.0,2.0
+21 PUE,Tlaxco,  Tlaxco,916.0,15.0,11.0,2.0,1.0
+21 PUE,Tochimilco,  Tochimilco,4109.0,82.0,70.0,1.0,1.0
+21 PUE,Tochtepec,  Tochtepec,2661.0,192.0,170.0,5.0,3.0
+21 PUE,Totoltepec de Guerrero,  Totoltepec De Guerrero,169.0,2.0,1.0,0.0,0.0
+21 PUE,Tulcingo,  Tulcingo,529.0,16.0,13.0,3.0,3.0
+21 PUE,Tuzamapan de Galeana,  Tuzamapan De Galeana,1618.0,60.0,55.0,1.0,1.0
+21 PUE,Tzicatlacoyan,  Tzicatlacoyan,1114.0,4.0,3.0,0.0,0.0
+21 PUE,Venustiano Carranza,  Venustiano Carranza,1525.0,62.0,57.0,7.0,7.0
+21 PUE,Vicente Guerrero,  Vicente Guerrero,4915.0,87.0,84.0,0.0,0.0
+21 PUE,Xayacatlán de Bravo,  Xayacatlán De Bravo,82.0,1.0,1.0,0.0,0.0
+21 PUE,Xicotepec,  Xicotepec,3520.0,110.0,101.0,10.0,10.0
+21 PUE,Xicotlán,  Xicotlán,264.0,16.0,15.0,0.0,0.0
+21 PUE,Xiutetelco,  Xiutetelco,3127.0,32.0,28.0,3.0,3.0
+21 PUE,Xochiapulco,  Xochiapulco,922.0,10.0,10.0,2.0,1.0
+21 PUE,Xochiltepec,  Xochiltepec,400.0,28.0,28.0,4.0,4.0
+21 PUE,Xochitlán de Vicente Suárez,  Xochitlán De Vicente Suárez,2393.0,53.0,53.0,2.0,2.0
+21 PUE,Xochitlán Todos Santos,  Xochitlán Todos Santos,1396.0,97.0,91.0,1.0,0.0
+21 PUE,Yaonáhuac,  Yaonáhuac,892.0,3.0,2.0,1.0,0.0
+21 PUE,Yehualtepec,  Yehualtepec,2680.0,146.0,140.0,5.0,4.0
+21 PUE,Zacapala,  Zacapala,788.0,42.0,41.0,0.0,0.0
+21 PUE,Zacapoaxtla,  Zacapoaxtla,6089.0,76.0,71.0,3.0,2.0
+21 PUE,Zacatlán,  Zacatlán,9835.0,148.0,122.0,7.0,3.0
+21 PUE,Zapotitlán,  Zapotitlán,1751.0,46.0,42.0,2.0,2.0
+21 PUE,Zapotitlán de Méndez,  Zapotitlán De Méndez,1065.0,13.0,13.0,1.0,1.0
+21 PUE,Zaragoza,  Zaragoza,935.0,41.0,39.0,4.0,3.0
+21 PUE,Zautla,  Zautla,3603.0,137.0,135.0,2.0,2.0
+21 PUE,Zihuateutla,  Zihuateutla,2185.0,44.0,41.0,5.0,5.0
+21 PUE,Zinacatepec,  Zinacatepec,573.0,39.0,34.0,3.0,1.0
+21 PUE,Zongozotla,  Zongozotla,1061.0,10.0,10.0,1.0,1.0
+21 PUE,Zoquiapan,  Zoquiapan,588.0,9.0,8.0,0.0,0.0
+21 PUE,Zoquitlán,  Zoquitlán,3969.0,36.0,36.0,0.0,0.0
+22 QRO,, Querétaro,42471.0,1765.0,1670.0,707.0,650.0
+22 QRO,Amealco de Bonfil,  Amealco De Bonfil,8419.0,262.0,245.0,25.0,22.0
+22 QRO,Pinal de Amoles,  Pinal De Amoles,1696.0,7.0,7.0,1.0,1.0
+22 QRO,Arroyo Seco,  Arroyo Seco,929.0,13.0,12.0,6.0,3.0
+22 QRO,Cadereyta de Montes,  Cadereyta De Montes,3333.0,61.0,59.0,10.0,9.0
+22 QRO,Colón,  Colón,2598.0,132.0,125.0,48.0,47.0
+22 QRO,Corregidora,  Corregidora,846.0,37.0,33.0,6.0,3.0
+22 QRO,Ezequiel Montes,  Ezequiel Montes,848.0,39.0,38.0,12.0,12.0
+22 QRO,Huimilpan,  Huimilpan,2147.0,75.0,61.0,25.0,23.0
+22 QRO,Jalpan de Serra,  Jalpan De Serra,1031.0,20.0,18.0,3.0,3.0
+22 QRO,Landa de Matamoros,  Landa De Matamoros,1498.0,13.0,11.0,5.0,5.0
+22 QRO,El Marqués,  El Marqués,2697.0,109.0,101.0,43.0,38.0
+22 QRO,Pedro Escobedo,  Pedro Escobedo,2355.0,441.0,432.0,356.0,328.0
+22 QRO,Peñamiller,  Peñamiller,1201.0,5.0,5.0,1.0,1.0
+22 QRO,Querétaro,  Querétaro,3030.0,85.0,81.0,6.0,6.0
+22 QRO,San Joaquín,  San Joaquín,540.0,6.0,6.0,0.0,0.0
+22 QRO,San Juan del Río,  San Juan Del Río,6398.0,318.0,304.0,121.0,112.0
+22 QRO,Tequisquiapan,  Tequisquiapan,1445.0,123.0,116.0,35.0,33.0
+22 QRO,Tolimán,  Tolimán,1460.0,19.0,16.0,4.0,4.0
+23 QTR,, Quintana Roo,27295.0,2837.0,2719.0,3100.0,2922.0
+23 QTR,Cozumel,  Cozumel,12.0,1.0,0.0,0.0,0.0
+23 QTR,Felipe Carrillo Puerto,  Felipe Carrillo Puerto,7186.0,78.0,63.0,46.0,45.0
+23 QTR,Isla Mujeres,  Isla Mujeres,88.0,2.0,2.0,1.0,1.0
+23 QTR,Othón P. Blanco,  Othón P. Blanco,6934.0,2180.0,2131.0,2610.0,2446.0
+23 QTR,Benito Juárez,  Benito Juárez,33.0,8.0,8.0,8.0,8.0
+23 QTR,José María Morelos,  José María Morelos,5763.0,110.0,98.0,51.0,48.0
+23 QTR,Lázaro Cárdenas,  Lázaro Cárdenas,1575.0,24.0,14.0,8.0,5.0
+23 QTR,Solidaridad,  Solidaridad,118.0,2.0,2.0,4.0,4.0
+23 QTR,Tulum,  Tulum,682.0,2.0,2.0,1.0,1.0
+23 QTR,Bacalar,  Bacalar,4747.0,420.0,396.0,370.0,363.0
+23 QTR,Puerto Morelos,  Puerto Morelos,157.0,10.0,3.0,1.0,1.0
+24 SLP,, San Luis Potosí,138109.0,8387.0,7980.0,3492.0,2914.0
+24 SLP,Ahualulco del Sonido 13,  Ahualulco Del Sonido 13,1993.0,15.0,13.0,1.0,1.0
+24 SLP,Alaquines,  Alaquines,1247.0,41.0,40.0,2.0,2.0
+24 SLP,Aquismón,  Aquismón,4446.0,318.0,311.0,101.0,95.0
+24 SLP,Armadillo de los Infante,  Armadillo De Los Infante,436.0,3.0,1.0,2.0,1.0
+24 SLP,Cárdenas,  Cárdenas,924.0,32.0,27.0,2.0,1.0
+24 SLP,Catorce,  Catorce,1240.0,16.0,15.0,1.0,1.0
+24 SLP,Cedral,  Cedral,1353.0,55.0,50.0,10.0,9.0
+24 SLP,Cerritos,  Cerritos,1112.0,6.0,6.0,0.0,0.0
+24 SLP,Cerro de San Pedro,  Cerro De San Pedro,123.0,3.0,3.0,2.0,2.0
+24 SLP,Ciudad del Maíz,  Ciudad Del Maíz,2375.0,49.0,41.0,10.0,9.0
+24 SLP,Ciudad Fernández,  Ciudad Fernández,2387.0,131.0,123.0,14.0,12.0
+24 SLP,Tancanhuitz,  Tancanhuitz,2040.0,130.0,128.0,8.0,7.0
+24 SLP,Ciudad Valles,  Ciudad Valles,6571.0,2109.0,2016.0,1255.0,1028.0
+24 SLP,Coxcatlán,  Coxcatlán,2876.0,183.0,180.0,3.0,3.0
+24 SLP,Charcas,  Charcas,1816.0,25.0,24.0,8.0,6.0
+24 SLP,Ebano,  Ebano,2471.0,303.0,291.0,91.0,85.0
+24 SLP,Guadalcázar,  Guadalcázar,2640.0,25.0,22.0,1.0,1.0
+24 SLP,Huehuetlán,  Huehuetlán,2178.0,150.0,150.0,4.0,3.0
+24 SLP,Lagunillas,  Lagunillas,905.0,3.0,3.0,2.0,1.0
+24 SLP,Matehuala,  Matehuala,2712.0,46.0,41.0,25.0,23.0
+24 SLP,Mexquitic de Carmona,  Mexquitic De Carmona,3069.0,35.0,26.0,6.0,4.0
+24 SLP,Moctezuma,  Moctezuma,2628.0,101.0,98.0,8.0,6.0
+24 SLP,Rayón,  Rayón,1372.0,36.0,33.0,7.0,2.0
+24 SLP,Rioverde,  Rioverde,5297.0,139.0,133.0,15.0,8.0
+24 SLP,Salinas,  Salinas,2470.0,187.0,179.0,17.0,15.0
+24 SLP,San Antonio,  San Antonio,1366.0,16.0,16.0,5.0,3.0
+24 SLP,San Ciro de Acosta,  San Ciro De Acosta,900.0,18.0,16.0,3.0,1.0
+24 SLP,San Luis Potosí,  San Luis Potosí,2531.0,138.0,125.0,19.0,17.0
+24 SLP,San Martín Chalchicuautla,  San Martín Chalchicuautla,3717.0,37.0,34.0,11.0,9.0
+24 SLP,San Nicolás Tolentino,  San Nicolás Tolentino,529.0,5.0,5.0,0.0,0.0
+24 SLP,Santa Catarina,  Santa Catarina,721.0,5.0,5.0,2.0,2.0
+24 SLP,Santa María del Río,  Santa María Del Río,1367.0,8.0,5.0,6.0,3.0
+24 SLP,Santo Domingo,  Santo Domingo,2878.0,77.0,73.0,6.0,3.0
+24 SLP,San Vicente Tancuayalab,  San Vicente Tancuayalab,1435.0,176.0,169.0,92.0,82.0
+24 SLP,Soledad de Graciano Sánchez,  Soledad De Graciano Sánchez,951.0,41.0,31.0,9.0,7.0
+24 SLP,Tamasopo,  Tamasopo,3950.0,759.0,741.0,357.0,339.0
+24 SLP,Tamazunchale,  Tamazunchale,11943.0,230.0,211.0,5.0,3.0
+24 SLP,Tampacán,  Tampacán,2798.0,75.0,74.0,8.0,7.0
+24 SLP,Tampamolón Corona,  Tampamolón Corona,1662.0,29.0,26.0,4.0,4.0
+24 SLP,Tamuín,  Tamuín,3120.0,417.0,403.0,139.0,117.0
+24 SLP,Tanlajás,  Tanlajás,3276.0,271.0,261.0,84.0,80.0
+24 SLP,Tanquián de Escobedo,  Tanquián De Escobedo,911.0,35.0,31.0,2.0,1.0
+24 SLP,Tierra Nueva,  Tierra Nueva,290.0,1.0,1.0,6.0,5.0
+24 SLP,Vanegas,  Vanegas,1066.0,9.0,9.0,0.0,0.0
+24 SLP,Venado,  Venado,1923.0,21.0,20.0,4.0,3.0
+24 SLP,Villa de Arriaga,  Villa De Arriaga,1706.0,154.0,145.0,5.0,2.0
+24 SLP,Villa de Guadalupe,  Villa De Guadalupe,1852.0,60.0,58.0,6.0,5.0
+24 SLP,Villa de la Paz,  Villa De La Paz,276.0,3.0,3.0,0.0,0.0
+24 SLP,Villa de Ramos,  Villa De Ramos,5838.0,501.0,472.0,23.0,17.0
+24 SLP,Villa de Reyes,  Villa De Reyes,2893.0,75.0,66.0,11.0,9.0
+24 SLP,Villa Hidalgo,  Villa Hidalgo,1745.0,52.0,48.0,7.0,6.0
+24 SLP,Villa Juárez,  Villa Juárez,1287.0,31.0,30.0,2.0,2.0
+24 SLP,Axtla de Terrazas,  Axtla De Terrazas,4373.0,176.0,173.0,9.0,9.0
+24 SLP,Xilitla,  Xilitla,6148.0,102.0,102.0,3.0,3.0
+24 SLP,Zaragoza,  Zaragoza,573.0,4.0,4.0,1.0,1.0
+24 SLP,Villa de Arista,  Villa De Arista,980.0,64.0,57.0,5.0,4.0
+24 SLP,Matlapa,  Matlapa,3876.0,41.0,40.0,0.0,0.0
+24 SLP,El Naranjo,  El Naranjo,2547.0,615.0,572.0,1063.0,845.0
+25 SIN,, Sinaloa,95201.0,33225.0,32820.0,31397.0,30704.0
+25 SIN,Ahome,  Ahome,10566.0,4619.0,4573.0,4545.0,4440.0
+25 SIN,Angostura,  Angostura,5029.0,2673.0,2662.0,2763.0,2682.0
+25 SIN,Badiraguato,  Badiraguato,2478.0,5.0,5.0,0.0,0.0
+25 SIN,Concordia,  Concordia,2287.0,152.0,143.0,43.0,43.0
+25 SIN,Cosalá,  Cosalá,1451.0,22.0,19.0,1.0,1.0
+25 SIN,Culiacán,  Culiacán,11374.0,5019.0,4951.0,5010.0,4943.0
+25 SIN,Choix,  Choix,3086.0,157.0,154.0,3.0,3.0
+25 SIN,Elota,  Elota,2887.0,1007.0,993.0,941.0,927.0
+25 SIN,Escuinapa,  Escuinapa,2871.0,553.0,535.0,80.0,77.0
+25 SIN,El Fuerte,  El Fuerte,6264.0,1736.0,1697.0,1607.0,1478.0
+25 SIN,Guasave,  Guasave,13842.0,7061.0,7002.0,7338.0,7222.0
+25 SIN,Mazatlán,  Mazatlán,3306.0,457.0,436.0,181.0,175.0
+25 SIN,Mocorito,  Mocorito,5225.0,1333.0,1313.0,1079.0,1059.0
+25 SIN,Rosario,  Rosario,3775.0,698.0,680.0,126.0,121.0
+25 SIN,Salvador Alvarado,  Salvador Alvarado,2320.0,897.0,889.0,829.0,808.0
+25 SIN,San Ignacio,  San Ignacio,2093.0,291.0,284.0,240.0,239.0
+25 SIN,Sinaloa,  Sinaloa,9956.0,2705.0,2664.0,2609.0,2558.0
+25 SIN,Navolato,  Navolato,6391.0,3840.0,3820.0,4002.0,3928.0
+26 SON,, Sonora,38039.0,7423.0,7214.0,6636.0,6404.0
+26 SON,Aconchi,  Aconchi,210.0,7.0,6.0,2.0,2.0
+26 SON,Agua Prieta,  Agua Prieta,309.0,11.0,9.0,8.0,7.0
+26 SON,Álamos,  Álamos,2689.0,119.0,116.0,76.0,75.0
+26 SON,Altar,  Altar,219.0,22.0,20.0,21.0,20.0
+26 SON,Arivechi,  Arivechi,283.0,5.0,5.0,1.0,1.0
+26 SON,Arizpe,  Arizpe,603.0,42.0,42.0,9.0,8.0
+26 SON,Atil,  Atil,67.0,3.0,2.0,2.0,1.0
+26 SON,Bacadéhuachi,  Bacadéhuachi,222.0,8.0,7.0,0.0,0.0
+26 SON,Bacanora,  Bacanora,233.0,3.0,3.0,1.0,1.0
+26 SON,Bacerac,  Bacerac,265.0,6.0,6.0,2.0,2.0
+26 SON,Bacoachi,  Bacoachi,254.0,13.0,10.0,8.0,8.0
+26 SON,Bácum,  Bácum,1379.0,598.0,593.0,597.0,584.0
+26 SON,Banámichi,  Banámichi,231.0,4.0,4.0,3.0,3.0
+26 SON,Baviácora,  Baviácora,409.0,7.0,7.0,1.0,1.0
+26 SON,Bavispe,  Bavispe,261.0,14.0,14.0,4.0,4.0
+26 SON,Benjamín Hill,  Benjamín Hill,87.0,3.0,3.0,4.0,3.0
+26 SON,Caborca,  Caborca,640.0,177.0,166.0,49.0,49.0
+26 SON,Cajeme,  Cajeme,3493.0,1427.0,1390.0,1443.0,1414.0
+26 SON,Cananea,  Cananea,255.0,10.0,8.0,7.0,6.0
+26 SON,Carbó,  Carbó,176.0,15.0,14.0,12.0,12.0
+26 SON,La Colorada,  La Colorada,434.0,27.0,26.0,12.0,12.0
+26 SON,Cucurpe,  Cucurpe,281.0,10.0,9.0,10.0,8.0
+26 SON,Cumpas,  Cumpas,897.0,19.0,18.0,11.0,10.0
+26 SON,Divisaderos,  Divisaderos,155.0,11.0,10.0,3.0,3.0
+26 SON,Empalme,  Empalme,255.0,63.0,63.0,60.0,58.0
+26 SON,Etchojoa,  Etchojoa,2578.0,1014.0,996.0,1040.0,1005.0
+26 SON,Fronteras,  Fronteras,501.0,43.0,39.0,22.0,20.0
+26 SON,Granados,  Granados,100.0,1.0,1.0,0.0,0.0
+26 SON,Guaymas,  Guaymas,1126.0,265.0,255.0,220.0,207.0
+26 SON,Hermosillo,  Hermosillo,1613.0,204.0,187.0,168.0,163.0
+26 SON,Huachinera,  Huachinera,179.0,9.0,8.0,4.0,4.0
+26 SON,Huásabas,  Huásabas,136.0,4.0,4.0,2.0,1.0
+26 SON,Huatabampo,  Huatabampo,2397.0,838.0,827.0,780.0,733.0
+26 SON,Huépac,  Huépac,205.0,5.0,5.0,4.0,4.0
+26 SON,Imuris,  Imuris,371.0,14.0,14.0,7.0,6.0
+26 SON,Magdalena,  Magdalena,315.0,19.0,17.0,11.0,10.0
+26 SON,Mazatán,  Mazatán,189.0,10.0,10.0,0.0,0.0
+26 SON,Moctezuma,  Moctezuma,401.0,21.0,19.0,3.0,2.0
+26 SON,Naco,  Naco,87.0,6.0,6.0,4.0,4.0
+26 SON,Nácori Chico,  Nácori Chico,426.0,11.0,11.0,2.0,2.0
+26 SON,Nacozari de García,  Nacozari De García,195.0,4.0,4.0,0.0,0.0
+26 SON,Navojoa,  Navojoa,2268.0,593.0,575.0,590.0,570.0
+26 SON,Nogales,  Nogales,341.0,7.0,6.0,4.0,3.0
+26 SON,Ónavas,  Ónavas,92.0,3.0,3.0,1.0,1.0
+26 SON,Opodepe,  Opodepe,235.0,12.0,12.0,6.0,6.0
+26 SON,Oquitoa,  Oquitoa,90.0,3.0,3.0,2.0,2.0
+26 SON,Pitiquito,  Pitiquito,241.0,14.0,13.0,10.0,10.0
+26 SON,Puerto Peñasco,  Puerto Peñasco,29.0,1.0,1.0,1.0,1.0
+26 SON,Quiriego,  Quiriego,521.0,22.0,22.0,16.0,15.0
+26 SON,Rayón,  Rayón,189.0,12.0,10.0,8.0,7.0
+26 SON,Rosario,  Rosario,522.0,27.0,25.0,19.0,19.0
+26 SON,Sahuaripa,  Sahuaripa,916.0,22.0,20.0,7.0,7.0
+26 SON,San Felipe de Jesús,  San Felipe De Jesús,56.0,2.0,2.0,0.0,0.0
+26 SON,San Javier,  San Javier,47.0,0.0,0.0,1.0,1.0
+26 SON,San Luis Río Colorado,  San Luis Río Colorado,869.0,355.0,344.0,328.0,316.0
+26 SON,San Miguel de Horcasitas,  San Miguel De Horcasitas,232.0,27.0,26.0,14.0,14.0
+26 SON,San Pedro de la Cueva,  San Pedro De La Cueva,456.0,48.0,47.0,1.0,1.0
+26 SON,Santa Ana,  Santa Ana,428.0,29.0,24.0,7.0,7.0
+26 SON,Santa Cruz,  Santa Cruz,168.0,18.0,18.0,3.0,3.0
+26 SON,Sáric,  Sáric,129.0,4.0,4.0,1.0,1.0
+26 SON,Soyopa,  Soyopa,203.0,16.0,15.0,2.0,2.0
+26 SON,Suaqui Grande,  Suaqui Grande,112.0,5.0,5.0,1.0,1.0
+26 SON,Tepache,  Tepache,219.0,3.0,3.0,2.0,2.0
+26 SON,Trincheras,  Trincheras,205.0,15.0,15.0,12.0,11.0
+26 SON,Tubutama,  Tubutama,178.0,7.0,7.0,3.0,3.0
+26 SON,Ures,  Ures,916.0,74.0,70.0,24.0,20.0
+26 SON,Villa Hidalgo,  Villa Hidalgo,292.0,8.0,7.0,2.0,2.0
+26 SON,Villa Pesqueira,  Villa Pesqueira,289.0,36.0,35.0,7.0,6.0
+26 SON,Yécora,  Yécora,564.0,23.0,23.0,4.0,4.0
+26 SON,General Plutarco Elías Calles,  General Plutarco Elías Calles,244.0,17.0,16.0,12.0,11.0
+26 SON,Benito Juárez,  Benito Juárez,719.0,420.0,411.0,422.0,406.0
+26 SON,San Ignacio Río Muerto,  San Ignacio Río Muerto,1143.0,508.0,498.0,513.0,499.0
+27 TAB,, Tabasco,125011.0,3879.0,2928.0,1068.0,832.0
+27 TAB,Balancán,  Balancán,8070.0,152.0,122.0,52.0,42.0
+27 TAB,Cárdenas,  Cárdenas,17452.0,1603.0,1405.0,384.0,357.0
+27 TAB,Centla,  Centla,5994.0,136.0,75.0,89.0,38.0
+27 TAB,Centro,  Centro,9338.0,206.0,132.0,64.0,38.0
+27 TAB,Comalcalco,  Comalcalco,14617.0,177.0,103.0,40.0,31.0
+27 TAB,Cunduacán,  Cunduacán,10303.0,317.0,209.0,116.0,100.0
+27 TAB,Emiliano Zapata,  Emiliano Zapata,1317.0,15.0,11.0,5.0,4.0
+27 TAB,Huimanguillo,  Huimanguillo,18758.0,593.0,489.0,119.0,90.0
+27 TAB,Jalapa,  Jalapa,3021.0,39.0,30.0,11.0,10.0
+27 TAB,Jalpa de Méndez,  Jalpa De Méndez,4276.0,53.0,27.0,13.0,9.0
+27 TAB,Jonuta,  Jonuta,5336.0,61.0,45.0,20.0,12.0
+27 TAB,Macuspana,  Macuspana,7105.0,104.0,60.0,38.0,30.0
+27 TAB,Nacajuca,  Nacajuca,3540.0,103.0,35.0,24.0,16.0
+27 TAB,Paraíso,  Paraíso,2871.0,52.0,33.0,13.0,5.0
+27 TAB,Tacotalpa,  Tacotalpa,5266.0,40.0,33.0,16.0,13.0
+27 TAB,Teapa,  Teapa,1766.0,43.0,18.0,17.0,10.0
+27 TAB,Tenosique,  Tenosique,5981.0,185.0,101.0,47.0,27.0
+28 TAM,, Tamaulipas,65328.0,8481.0,7723.0,6681.0,5845.0
+28 TAM,Abasolo,  Abasolo,1398.0,317.0,296.0,254.0,251.0
+28 TAM,Aldama,  Aldama,2376.0,63.0,57.0,29.0,24.0
+28 TAM,Altamira,  Altamira,1377.0,104.0,92.0,44.0,36.0
+28 TAM,Antiguo Morelos,  Antiguo Morelos,1030.0,132.0,115.0,179.0,114.0
+28 TAM,Burgos,  Burgos,699.0,5.0,3.0,2.0,2.0
+28 TAM,Bustamante,  Bustamante,1352.0,10.0,8.0,1.0,1.0
+28 TAM,Camargo,  Camargo,604.0,159.0,157.0,287.0,287.0
+28 TAM,Casas,  Casas,942.0,28.0,21.0,11.0,9.0
+28 TAM,Cruillas,  Cruillas,305.0,13.0,11.0,6.0,6.0
+28 TAM,Gómez Farías,  Gómez Farías,854.0,216.0,209.0,186.0,178.0
+28 TAM,González,  González,2945.0,345.0,316.0,175.0,161.0
+28 TAM,Güémez,  Güémez,2072.0,58.0,49.0,38.0,33.0
+28 TAM,Guerrero,  Guerrero,167.0,1.0,1.0,1.0,1.0
+28 TAM,Gustavo Díaz Ordaz,  Gustavo Díaz Ordaz,471.0,308.0,308.0,366.0,366.0
+28 TAM,Hidalgo,  Hidalgo,2625.0,61.0,49.0,28.0,26.0
+28 TAM,Jaumave,  Jaumave,1347.0,20.0,16.0,10.0,8.0
+28 TAM,Jiménez,  Jiménez,581.0,42.0,38.0,25.0,23.0
+28 TAM,Llera,  Llera,1670.0,39.0,33.0,14.0,11.0
+28 TAM,Mainero,  Mainero,270.0,9.0,4.0,2.0,2.0
+28 TAM,El Mante,  El Mante,5492.0,1481.0,1406.0,1048.0,945.0
+28 TAM,Matamoros,  Matamoros,4050.0,637.0,555.0,393.0,348.0
+28 TAM,Méndez,  Méndez,1440.0,214.0,175.0,73.0,44.0
+28 TAM,Mier,  Mier,127.0,1.0,1.0,1.0,1.0
+28 TAM,Miguel Alemán,  Miguel Alemán,227.0,14.0,12.0,14.0,14.0
+28 TAM,Miquihuana,  Miquihuana,363.0,3.0,3.0,0.0,0.0
+28 TAM,Nuevo Laredo,  Nuevo Laredo,115.0,4.0,4.0,0.0,0.0
+28 TAM,Nuevo Morelos,  Nuevo Morelos,655.0,126.0,96.0,184.0,106.0
+28 TAM,Ocampo,  Ocampo,2081.0,390.0,365.0,1112.0,901.0
+28 TAM,Padilla,  Padilla,1569.0,97.0,95.0,49.0,44.0
+28 TAM,Palmillas,  Palmillas,180.0,1.0,1.0,0.0,0.0
+28 TAM,Reynosa,  Reynosa,2910.0,461.0,401.0,265.0,222.0
+28 TAM,Río Bravo,  Río Bravo,3613.0,863.0,723.0,562.0,447.0
+28 TAM,San Carlos,  San Carlos,1223.0,10.0,7.0,2.0,2.0
+28 TAM,San Fernando,  San Fernando,6842.0,840.0,769.0,239.0,214.0
+28 TAM,San Nicolás,  San Nicolás,134.0,0.0,0.0,0.0,0.0
+28 TAM,Soto la Marina,  Soto La Marina,1845.0,69.0,62.0,43.0,40.0
+28 TAM,Tampico,  Tampico,20.0,0.0,0.0,1.0,1.0
+28 TAM,Tula,  Tula,3143.0,26.0,26.0,6.0,6.0
+28 TAM,Valle Hermoso,  Valle Hermoso,2321.0,492.0,455.0,317.0,302.0
+28 TAM,Victoria,  Victoria,931.0,47.0,34.0,17.0,17.0
+28 TAM,Villagrán,  Villagrán,825.0,15.0,15.0,11.0,6.0
+28 TAM,Xicoténcatl,  Xicoténcatl,2137.0,760.0,735.0,686.0,646.0
+29 TLA,, Tlaxcala,88466.0,2010.0,1667.0,488.0,384.0
+29 TLA,Amaxac de Guerrero,  Amaxac De Guerrero,317.0,2.0,2.0,0.0,0.0
+29 TLA,Apetatitlán de Antonio Carvajal,  Apetatitlán De Antonio Carvajal,222.0,3.0,2.0,1.0,1.0
+29 TLA,Atlangatepec,  Atlangatepec,1225.0,43.0,32.0,13.0,11.0
+29 TLA,Atltzayanca,  Atltzayanca,3036.0,91.0,64.0,13.0,5.0
+29 TLA,Apizaco,  Apizaco,1004.0,22.0,20.0,0.0,0.0
+29 TLA,Calpulalpan,  Calpulalpan,2812.0,201.0,181.0,92.0,85.0
+29 TLA,El Carmen Tequexquitla,  El Carmen Tequexquitla,1676.0,23.0,18.0,5.0,3.0
+29 TLA,Cuapiaxtla,  Cuapiaxtla,1808.0,87.0,76.0,10.0,6.0
+29 TLA,Cuaxomulco,  Cuaxomulco,558.0,5.0,5.0,2.0,0.0
+29 TLA,Chiautempan,  Chiautempan,2723.0,27.0,18.0,2.0,0.0
+29 TLA,Muñoz de Domingo Arenas,  Muñoz De Domingo Arenas,565.0,35.0,32.0,13.0,11.0
+29 TLA,Españita,  Españita,2408.0,46.0,38.0,3.0,2.0
+29 TLA,Huamantla,  Huamantla,5994.0,220.0,179.0,66.0,59.0
+29 TLA,Hueyotlipan,  Hueyotlipan,2885.0,93.0,79.0,42.0,28.0
+29 TLA,Ixtacuixtla de Mariano Matamoros,  Ixtacuixtla De Mariano Matamoros,3053.0,39.0,35.0,12.0,10.0
+29 TLA,Ixtenco,  Ixtenco,1477.0,22.0,21.0,5.0,5.0
+29 TLA,Mazatecochco de José María Morelos,  Mazatecochco De José María Morelos,1018.0,8.0,8.0,0.0,0.0
+29 TLA,Contla de Juan Cuamatzi,  Contla De Juan Cuamatzi,1681.0,7.0,7.0,0.0,0.0
+29 TLA,Tepetitla de Lardizábal,  Tepetitla De Lardizábal,1952.0,26.0,20.0,3.0,3.0
+29 TLA,Sanctórum de Lázaro Cárdenas,  Sanctórum De Lázaro Cárdenas,1558.0,100.0,89.0,35.0,28.0
+29 TLA,Nanacamilpa de Mariano Arista,  Nanacamilpa De Mariano Arista,1338.0,70.0,59.0,20.0,15.0
+29 TLA,Acuamanala de Miguel Hidalgo,  Acuamanala De Miguel Hidalgo,733.0,6.0,5.0,0.0,0.0
+29 TLA,Natívitas,  Natívitas,4734.0,43.0,37.0,4.0,1.0
+29 TLA,Panotla,  Panotla,3482.0,18.0,13.0,1.0,0.0
+29 TLA,San Pablo del Monte,  San Pablo Del Monte,2646.0,39.0,35.0,1.0,0.0
+29 TLA,Santa Cruz Tlaxcala,  Santa Cruz Tlaxcala,1046.0,12.0,8.0,0.0,0.0
+29 TLA,Tenancingo,  Tenancingo,900.0,7.0,5.0,0.0,0.0
+29 TLA,Teolocholco,  Teolocholco,1337.0,13.0,11.0,0.0,0.0
+29 TLA,Tepeyanco,  Tepeyanco,1155.0,5.0,3.0,1.0,0.0
+29 TLA,Terrenate,  Terrenate,2098.0,68.0,53.0,11.0,6.0
+29 TLA,Tetla de la Solidaridad,  Tetla De La Solidaridad,2909.0,58.0,45.0,4.0,3.0
+29 TLA,Tetlatlahuca,  Tetlatlahuca,2044.0,21.0,17.0,2.0,2.0
+29 TLA,Tlaxcala,  Tlaxcala,568.0,6.0,3.0,0.0,0.0
+29 TLA,Tlaxco,  Tlaxco,5117.0,239.0,193.0,82.0,67.0
+29 TLA,Tocatlán,  Tocatlán,315.0,7.0,7.0,0.0,0.0
+29 TLA,Totolac,  Totolac,244.0,1.0,1.0,0.0,0.0
+29 TLA,Ziltlaltépec de Trinidad Sánchez Santos,  Ziltlaltépec De Trinidad Sánchez Santos,2363.0,52.0,44.0,6.0,3.0
+29 TLA,Tzompantepec,  Tzompantepec,825.0,8.0,8.0,0.0,0.0
+29 TLA,Xaloztoc,  Xaloztoc,1349.0,27.0,23.0,5.0,4.0
+29 TLA,Xaltocan,  Xaltocan,2010.0,43.0,35.0,9.0,7.0
+29 TLA,Papalotla de Xicohténcatl,  Papalotla De Xicohténcatl,848.0,7.0,7.0,2.0,1.0
+29 TLA,Xicohtzinco,  Xicohtzinco,349.0,4.0,3.0,1.0,0.0
+29 TLA,Yauhquemehcan,  Yauhquemehcan,668.0,11.0,7.0,2.0,1.0
+29 TLA,Zacatelco,  Zacatelco,2325.0,21.0,16.0,0.0,0.0
+29 TLA,Benito Juárez,  Benito Juárez,474.0,36.0,32.0,11.0,9.0
+29 TLA,Emiliano Zapata,  Emiliano Zapata,735.0,3.0,3.0,0.0,0.0
+29 TLA,Lázaro Cárdenas,  Lázaro Cárdenas,506.0,9.0,7.0,1.0,1.0
+29 TLA,La Magdalena Tlaltelulco,  La Magdalena Tlaltelulco,68.0,0.0,0.0,0.0,0.0
+29 TLA,San Damián Texóloc,  San Damián Texóloc,873.0,11.0,8.0,0.0,0.0
+29 TLA,San Francisco Tetlanohcan,  San Francisco Tetlanohcan,977.0,8.0,8.0,0.0,0.0
+29 TLA,San Jerónimo Zacualpan,  San Jerónimo Zacualpan,566.0,5.0,5.0,0.0,0.0
+29 TLA,San José Teacalco,  San José Teacalco,773.0,26.0,20.0,2.0,2.0
+29 TLA,San Juan Huactzinco,  San Juan Huactzinco,283.0,4.0,3.0,0.0,0.0
+29 TLA,San Lorenzo Axocomanitla,  San Lorenzo Axocomanitla,575.0,5.0,5.0,0.0,0.0
+29 TLA,San Lucas Tecopilco,  San Lucas Tecopilco,408.0,10.0,9.0,5.0,5.0
+29 TLA,Santa Ana Nopalucan,  Santa Ana Nopalucan,766.0,1.0,0.0,1.0,0.0
+29 TLA,Santa Apolonia Teacalco,  Santa Apolonia Teacalco,736.0,2.0,1.0,0.0,0.0
+29 TLA,Santa Catarina Ayometla,  Santa Catarina Ayometla,746.0,2.0,2.0,0.0,0.0
+29 TLA,Santa Cruz Quilehtla,  Santa Cruz Quilehtla,429.0,1.0,0.0,0.0,0.0
+29 TLA,Santa Isabel Xiloxoxtla,  Santa Isabel Xiloxoxtla,176.0,1.0,0.0,0.0,0.0
+30 VER,, Veracruz De Ignacio De La Llave,521503.0,32822.0,30967.0,6046.0,5109.0
+30 VER,Acajete,  Acajete,558.0,7.0,6.0,0.0,0.0
+30 VER,Acatlán,  Acatlán,187.0,3.0,3.0,0.0,0.0
+30 VER,Acayucan,  Acayucan,4203.0,482.0,465.0,37.0,32.0
+30 VER,Actopan,  Actopan,5645.0,692.0,672.0,73.0,66.0
+30 VER,Acula,  Acula,793.0,84.0,80.0,6.0,5.0
+30 VER,Acultzingo,  Acultzingo,2375.0,61.0,57.0,1.0,1.0
+30 VER,Camarón de Tejeda,  Camarón De Tejeda,1143.0,223.0,212.0,23.0,11.0
+30 VER,Alpatláhuac,  Alpatláhuac,1809.0,38.0,35.0,0.0,0.0
+30 VER,Alto Lucero de Gutiérrez Barrios,  Alto Lucero De Gutiérrez Barrios,3477.0,53.0,44.0,6.0,5.0
+30 VER,Altotonga,  Altotonga,6700.0,44.0,37.0,4.0,4.0
+30 VER,Alvarado,  Alvarado,1230.0,23.0,17.0,9.0,7.0
+30 VER,Amatitlán,  Amatitlán,997.0,109.0,104.0,11.0,10.0
+30 VER,Naranjos Amatlán,  Naranjos Amatlán,494.0,12.0,11.0,4.0,4.0
+30 VER,Amatlán de los Reyes,  Amatlán De Los Reyes,3143.0,293.0,281.0,36.0,27.0
+30 VER,Angel R. Cabada,  Angel R. Cabada,2569.0,411.0,409.0,30.0,27.0
+30 VER,La Antigua,  La Antigua,842.0,206.0,199.0,40.0,35.0
+30 VER,Apazapan,  Apazapan,450.0,13.0,11.0,2.0,1.0
+30 VER,Aquila,  Aquila,367.0,7.0,7.0,1.0,1.0
+30 VER,Astacinga,  Astacinga,1094.0,42.0,42.0,1.0,1.0
+30 VER,Atlahuilco,  Atlahuilco,1650.0,127.0,127.0,0.0,0.0
+30 VER,Atoyac,  Atoyac,2510.0,197.0,187.0,6.0,5.0
+30 VER,Atzacan,  Atzacan,2514.0,110.0,95.0,16.0,15.0
+30 VER,Atzalan,  Atzalan,7766.0,94.0,68.0,8.0,6.0
+30 VER,Tlaltetela,  Tlaltetela,3839.0,247.0,238.0,17.0,15.0
+30 VER,Ayahualulco,  Ayahualulco,3791.0,105.0,94.0,0.0,0.0
+30 VER,Banderilla,  Banderilla,121.0,2.0,2.0,0.0,0.0
+30 VER,Benito Juárez,  Benito Juárez,2859.0,37.0,36.0,5.0,5.0
+30 VER,Boca del Río,  Boca Del Río,9.0,1.0,1.0,0.0,0.0
+30 VER,Calcahualco,  Calcahualco,2146.0,27.0,23.0,0.0,0.0
+30 VER,Camerino Z. Mendoza,  Camerino Z. Mendoza,235.0,1.0,0.0,0.0,0.0
+30 VER,Carrillo Puerto,  Carrillo Puerto,3752.0,350.0,337.0,11.0,9.0
+30 VER,Catemaco,  Catemaco,2034.0,48.0,41.0,10.0,8.0
+30 VER,Cazones de Herrera,  Cazones De Herrera,3142.0,230.0,222.0,3.0,3.0
+30 VER,Cerro Azul,  Cerro Azul,438.0,6.0,6.0,2.0,2.0
+30 VER,Citlaltépetl,  Citlaltépetl,434.0,17.0,15.0,0.0,0.0
+30 VER,Coacoatzintla,  Coacoatzintla,607.0,6.0,3.0,3.0,0.0
+30 VER,Coahuitlán,  Coahuitlán,891.0,42.0,42.0,0.0,0.0
+30 VER,Coatepec,  Coatepec,3405.0,217.0,213.0,62.0,49.0
+30 VER,Coatzacoalcos,  Coatzacoalcos,437.0,12.0,9.0,3.0,3.0
+30 VER,Coatzintla,  Coatzintla,2413.0,155.0,150.0,12.0,10.0
+30 VER,Coetzala,  Coetzala,420.0,28.0,26.0,0.0,0.0
+30 VER,Colipa,  Colipa,777.0,28.0,25.0,5.0,5.0
+30 VER,Comapa,  Comapa,3355.0,447.0,438.0,32.0,24.0
+30 VER,Córdoba,  Córdoba,3560.0,143.0,126.0,15.0,11.0
+30 VER,Cosamaloapan de Carpio,  Cosamaloapan De Carpio,4762.0,353.0,267.0,35.0,26.0
+30 VER,Cosautlán de Carvajal,  Cosautlán De Carvajal,3217.0,214.0,205.0,3.0,3.0
+30 VER,Coscomatepec,  Coscomatepec,5206.0,158.0,148.0,6.0,6.0
+30 VER,Cosoleacaque,  Cosoleacaque,1869.0,44.0,34.0,5.0,3.0
+30 VER,Cotaxtla,  Cotaxtla,2831.0,310.0,294.0,26.0,24.0
+30 VER,Coxquihui,  Coxquihui,2003.0,34.0,32.0,1.0,1.0
+30 VER,Coyutla,  Coyutla,2527.0,86.0,84.0,6.0,5.0
+30 VER,Cuichapa,  Cuichapa,784.0,123.0,121.0,9.0,8.0
+30 VER,Cuitláhuac,  Cuitláhuac,2033.0,305.0,296.0,18.0,15.0
+30 VER,Chacaltianguis,  Chacaltianguis,2697.0,248.0,238.0,18.0,15.0
+30 VER,Chalma,  Chalma,1091.0,15.0,15.0,2.0,1.0
+30 VER,Chiconamel,  Chiconamel,862.0,18.0,17.0,2.0,1.0
+30 VER,Chiconquiaco,  Chiconquiaco,2321.0,22.0,11.0,1.0,1.0
+30 VER,Chicontepec,  Chicontepec,10387.0,271.0,261.0,7.0,6.0
+30 VER,Chinameca,  Chinameca,1148.0,55.0,50.0,2.0,2.0
+30 VER,Chinampa de Gorostiza,  Chinampa De Gorostiza,689.0,23.0,20.0,6.0,4.0
+30 VER,Las Choapas,  Las Choapas,6640.0,156.0,126.0,51.0,38.0
+30 VER,Chocamán,  Chocamán,1687.0,70.0,63.0,11.0,9.0
+30 VER,Chontla,  Chontla,2167.0,68.0,62.0,18.0,16.0
+30 VER,Chumatlán,  Chumatlán,569.0,7.0,7.0,0.0,0.0
+30 VER,Emiliano Zapata,  Emiliano Zapata,4046.0,142.0,125.0,12.0,10.0
+30 VER,Espinal,  Espinal,3984.0,268.0,264.0,13.0,11.0
+30 VER,Filomeno Mata,  Filomeno Mata,641.0,45.0,42.0,3.0,3.0
+30 VER,Fortín,  Fortín,1866.0,110.0,98.0,10.0,9.0
+30 VER,Gutiérrez Zamora,  Gutiérrez Zamora,1784.0,66.0,60.0,7.0,4.0
+30 VER,Hidalgotitlán,  Hidalgotitlán,4064.0,265.0,250.0,44.0,40.0
+30 VER,Huatusco,  Huatusco,4379.0,183.0,173.0,12.0,7.0
+30 VER,Huayacocotla,  Huayacocotla,2726.0,17.0,15.0,1.0,1.0
+30 VER,Hueyapan de Ocampo,  Hueyapan De Ocampo,5702.0,471.0,407.0,210.0,151.0
+30 VER,Huiloapan de Cuauhtémoc,  Huiloapan De Cuauhtémoc,58.0,2.0,2.0,0.0,0.0
+30 VER,Ignacio de la Llave,  Ignacio De La Llave,1540.0,74.0,66.0,18.0,15.0
+30 VER,Ilamatlán,  Ilamatlán,1805.0,10.0,10.0,1.0,1.0
+30 VER,Isla,  Isla,3467.0,692.0,675.0,361.0,341.0
+30 VER,Ixcatepec,  Ixcatepec,1242.0,39.0,38.0,1.0,1.0
+30 VER,Ixhuacán de los Reyes,  Ixhuacán De Los Reyes,1560.0,28.0,23.0,2.0,2.0
+30 VER,Ixhuatlán del Café,  Ixhuatlán Del Café,4596.0,285.0,274.0,4.0,3.0
+30 VER,Ixhuatlancillo,  Ixhuatlancillo,751.0,27.0,27.0,1.0,1.0
+30 VER,Ixhuatlán del Sureste,  Ixhuatlán Del Sureste,497.0,9.0,5.0,0.0,0.0
+30 VER,Ixhuatlán de Madero,  Ixhuatlán De Madero,9651.0,195.0,185.0,12.0,11.0
+30 VER,Ixmatlahuacan,  Ixmatlahuacan,1146.0,76.0,69.0,5.0,3.0
+30 VER,Ixtaczoquitlán,  Ixtaczoquitlán,5447.0,422.0,409.0,26.0,24.0
+30 VER,Jalacingo,  Jalacingo,3732.0,101.0,85.0,1.0,1.0
+30 VER,Xalapa,  Xalapa,1272.0,85.0,79.0,41.0,41.0
+30 VER,Jalcomulco,  Jalcomulco,1210.0,35.0,33.0,3.0,2.0
+30 VER,Jáltipan,  Jáltipan,1885.0,198.0,185.0,28.0,27.0
+30 VER,Jamapa,  Jamapa,729.0,29.0,29.0,5.0,5.0
+30 VER,Jesús Carranza,  Jesús Carranza,4019.0,116.0,101.0,27.0,23.0
+30 VER,Xico,  Xico,2251.0,46.0,40.0,3.0,3.0
+30 VER,Jilotepec,  Jilotepec,1357.0,36.0,30.0,11.0,7.0
+30 VER,Juan Rodríguez Clara,  Juan Rodríguez Clara,3998.0,265.0,251.0,37.0,35.0
+30 VER,Juchique de Ferrer,  Juchique De Ferrer,2129.0,22.0,18.0,2.0,2.0
+30 VER,Landero y Coss,  Landero Y Coss,171.0,2.0,1.0,0.0,0.0
+30 VER,Lerdo de Tejada,  Lerdo De Tejada,400.0,30.0,29.0,15.0,9.0
+30 VER,Magdalena,  Magdalena,355.0,6.0,6.0,1.0,1.0
+30 VER,Maltrata,  Maltrata,1385.0,34.0,33.0,1.0,1.0
+30 VER,Manlio Fabio Altamirano,  Manlio Fabio Altamirano,1964.0,94.0,86.0,15.0,13.0
+30 VER,Mariano Escobedo,  Mariano Escobedo,2170.0,71.0,67.0,4.0,4.0
+30 VER,Martínez de la Torre,  Martínez De La Torre,3122.0,105.0,85.0,16.0,13.0
+30 VER,Mecatlán,  Mecatlán,1287.0,22.0,20.0,0.0,0.0
+30 VER,Mecayapan,  Mecayapan,2254.0,83.0,81.0,9.0,5.0
+30 VER,Medellín de Bravo,  Medellín De Bravo,1251.0,69.0,60.0,8.0,6.0
+30 VER,Miahuatlán,  Miahuatlán,335.0,4.0,3.0,0.0,0.0
+30 VER,Las Minas,  Las Minas,579.0,22.0,19.0,0.0,0.0
+30 VER,Minatitlán,  Minatitlán,7353.0,210.0,191.0,36.0,34.0
+30 VER,Misantla,  Misantla,5592.0,127.0,105.0,15.0,11.0
+30 VER,Mixtla de Altamirano,  Mixtla De Altamirano,1840.0,88.0,76.0,2.0,2.0
+30 VER,Moloacán,  Moloacán,816.0,26.0,15.0,13.0,10.0
+30 VER,Naolinco,  Naolinco,2319.0,253.0,247.0,205.0,202.0
+30 VER,Naranjal,  Naranjal,763.0,32.0,32.0,1.0,1.0
+30 VER,Nautla,  Nautla,1480.0,53.0,36.0,16.0,5.0
+30 VER,Nogales,  Nogales,1008.0,24.0,24.0,0.0,0.0
+30 VER,Oluta,  Oluta,394.0,23.0,19.0,1.0,1.0
+30 VER,Omealca,  Omealca,3879.0,952.0,925.0,84.0,58.0
+30 VER,Orizaba,  Orizaba,30.0,1.0,1.0,0.0,0.0
+30 VER,Otatitlán,  Otatitlán,510.0,22.0,16.0,3.0,1.0
+30 VER,Oteapan,  Oteapan,38.0,0.0,0.0,0.0,0.0
+30 VER,Ozuluama de Mascareñas,  Ozuluama De Mascareñas,4092.0,346.0,322.0,141.0,131.0
+30 VER,Pajapan,  Pajapan,2300.0,109.0,104.0,5.0,5.0
+30 VER,Pánuco,  Pánuco,7428.0,1499.0,1453.0,1104.0,828.0
+30 VER,Papantla,  Papantla,13517.0,993.0,950.0,32.0,27.0
+30 VER,Paso del Macho,  Paso Del Macho,3940.0,1109.0,1089.0,354.0,304.0
+30 VER,Paso de Ovejas,  Paso De Ovejas,2340.0,412.0,399.0,33.0,31.0
+30 VER,La Perla,  La Perla,3747.0,108.0,98.0,2.0,0.0
+30 VER,Perote,  Perote,3277.0,141.0,129.0,10.0,7.0
+30 VER,Platón Sánchez,  Platón Sánchez,1406.0,43.0,39.0,9.0,7.0
+30 VER,Playa Vicente,  Playa Vicente,4858.0,298.0,256.0,70.0,53.0
+30 VER,Poza Rica de Hidalgo,  Poza Rica De Hidalgo,68.0,2.0,2.0,1.0,1.0
+30 VER,Las Vigas de Ramírez,  Las Vigas De Ramírez,1357.0,33.0,29.0,1.0,1.0
+30 VER,Pueblo Viejo,  Pueblo Viejo,692.0,74.0,71.0,59.0,59.0
+30 VER,Puente Nacional,  Puente Nacional,2711.0,351.0,345.0,33.0,27.0
+30 VER,Rafael Delgado,  Rafael Delgado,819.0,52.0,50.0,1.0,1.0
+30 VER,Rafael Lucio,  Rafael Lucio,183.0,1.0,1.0,0.0,0.0
+30 VER,Los Reyes,  Los Reyes,970.0,22.0,22.0,0.0,0.0
+30 VER,Río Blanco,  Río Blanco,23.0,1.0,0.0,0.0,0.0
+30 VER,Saltabarranca,  Saltabarranca,635.0,38.0,38.0,4.0,4.0
+30 VER,San Andrés Tenejapan,  San Andrés Tenejapan,153.0,5.0,5.0,0.0,0.0
+30 VER,San Andrés Tuxtla,  San Andrés Tuxtla,8108.0,274.0,242.0,93.0,79.0
+30 VER,San Juan Evangelista,  San Juan Evangelista,4215.0,168.0,149.0,13.0,12.0
+30 VER,Santiago Tuxtla,  Santiago Tuxtla,4910.0,227.0,218.0,28.0,26.0
+30 VER,Sayula de Alemán,  Sayula De Alemán,2085.0,70.0,60.0,8.0,8.0
+30 VER,Soconusco,  Soconusco,663.0,42.0,34.0,1.0,1.0
+30 VER,Sochiapa,  Sochiapa,455.0,11.0,11.0,1.0,1.0
+30 VER,Soledad Atzompa,  Soledad Atzompa,2787.0,214.0,211.0,1.0,1.0
+30 VER,Soledad de Doblado,  Soledad De Doblado,2372.0,94.0,92.0,7.0,6.0
+30 VER,Soteapan,  Soteapan,5427.0,569.0,558.0,12.0,12.0
+30 VER,Tamalín,  Tamalín,920.0,39.0,38.0,4.0,4.0
+30 VER,Tamiahua,  Tamiahua,2517.0,58.0,50.0,16.0,16.0
+30 VER,Tampico Alto,  Tampico Alto,1676.0,62.0,58.0,8.0,7.0
+30 VER,Tancoco,  Tancoco,593.0,20.0,18.0,4.0,4.0
+30 VER,Tantima,  Tantima,1631.0,45.0,45.0,14.0,12.0
+30 VER,Tantoyuca,  Tantoyuca,11479.0,292.0,277.0,22.0,18.0
+30 VER,Tatatila,  Tatatila,1045.0,4.0,3.0,0.0,0.0
+30 VER,Castillo de Teayo,  Castillo De Teayo,3708.0,198.0,173.0,4.0,4.0
+30 VER,Tecolutla,  Tecolutla,2844.0,135.0,126.0,8.0,7.0
+30 VER,Tehuipango,  Tehuipango,3592.0,149.0,146.0,0.0,0.0
+30 VER,Álamo Temapache,  Álamo Temapache,13151.0,632.0,606.0,15.0,12.0
+30 VER,Tempoal,  Tempoal,3459.0,192.0,185.0,100.0,88.0
+30 VER,Tenampa,  Tenampa,1375.0,17.0,16.0,0.0,0.0
+30 VER,Tenochtitlán,  Tenochtitlán,905.0,7.0,7.0,2.0,2.0
+30 VER,Teocelo,  Teocelo,2051.0,74.0,63.0,27.0,26.0
+30 VER,Tepatlaxco,  Tepatlaxco,2020.0,86.0,81.0,0.0,0.0
+30 VER,Tepetlán,  Tepetlán,2045.0,68.0,63.0,31.0,30.0
+30 VER,Tepetzintla,  Tepetzintla,1259.0,47.0,44.0,4.0,4.0
+30 VER,Tequila,  Tequila,2638.0,134.0,131.0,0.0,0.0
+30 VER,José Azueta,  José Azueta,4098.0,915.0,894.0,313.0,296.0
+30 VER,Texcatepec,  Texcatepec,1957.0,71.0,70.0,1.0,0.0
+30 VER,Texhuacán,  Texhuacán,724.0,12.0,12.0,1.0,1.0
+30 VER,Texistepec,  Texistepec,2794.0,131.0,122.0,10.0,10.0
+30 VER,Tezonapa,  Tezonapa,10661.0,597.0,535.0,73.0,60.0
+30 VER,Tierra Blanca,  Tierra Blanca,10183.0,1894.0,1847.0,187.0,156.0
+30 VER,Tihuatlán,  Tihuatlán,6356.0,436.0,403.0,13.0,8.0
+30 VER,Tlacojalpan,  Tlacojalpan,1071.0,102.0,94.0,21.0,19.0
+30 VER,Tlacolulan,  Tlacolulan,1227.0,12.0,10.0,1.0,1.0
+30 VER,Tlacotalpan,  Tlacotalpan,1537.0,78.0,74.0,9.0,7.0
+30 VER,Tlacotepec de Mejía,  Tlacotepec De Mejía,776.0,23.0,21.0,3.0,1.0
+30 VER,Tlachichilco,  Tlachichilco,1845.0,25.0,22.0,6.0,4.0
+30 VER,Tlalixcoyan,  Tlalixcoyan,2684.0,273.0,254.0,51.0,45.0
+30 VER,Tlalnelhuayocan,  Tlalnelhuayocan,380.0,5.0,5.0,0.0,0.0
+30 VER,Tlapacoyan,  Tlapacoyan,1914.0,70.0,47.0,3.0,3.0
+30 VER,Tlaquilpa,  Tlaquilpa,1230.0,44.0,44.0,1.0,0.0
+30 VER,Tlilapan,  Tlilapan,140.0,8.0,8.0,0.0,0.0
+30 VER,Tomatlán,  Tomatlán,1217.0,63.0,62.0,5.0,5.0
+30 VER,Tonayán,  Tonayán,894.0,15.0,13.0,0.0,0.0
+30 VER,Totutla,  Totutla,2681.0,82.0,77.0,3.0,3.0
+30 VER,Tuxpan,  Tuxpan,5505.0,320.0,283.0,10.0,8.0
+30 VER,Tuxtilla,  Tuxtilla,694.0,39.0,36.0,10.0,9.0
+30 VER,Ursulo Galván,  Ursulo Galván,1950.0,691.0,684.0,205.0,198.0
+30 VER,Vega de Alatorre,  Vega De Alatorre,937.0,23.0,21.0,6.0,5.0
+30 VER,Veracruz,  Veracruz,542.0,26.0,23.0,6.0,2.0
+30 VER,Villa Aldama,  Villa Aldama,1132.0,22.0,12.0,1.0,0.0
+30 VER,Xoxocotla,  Xoxocotla,837.0,23.0,23.0,0.0,0.0
+30 VER,Yanga,  Yanga,2097.0,359.0,342.0,18.0,16.0
+30 VER,Yecuatla,  Yecuatla,1253.0,19.0,12.0,0.0,0.0
+30 VER,Zacualpan,  Zacualpan,1090.0,16.0,13.0,6.0,5.0
+30 VER,Zaragoza,  Zaragoza,264.0,5.0,4.0,1.0,1.0
+30 VER,Zentla,  Zentla,1828.0,175.0,169.0,14.0,11.0
+30 VER,Zongolica,  Zongolica,9064.0,216.0,211.0,5.0,4.0
+30 VER,Zontecomatlán de López y Fuentes,  Zontecomatlán De López Y Fuentes,2278.0,33.0,32.0,7.0,7.0
+30 VER,Zozocolco de Hidalgo,  Zozocolco De Hidalgo,1443.0,57.0,55.0,2.0,2.0
+30 VER,Agua Dulce,  Agua Dulce,793.0,23.0,20.0,8.0,8.0
+30 VER,El Higo,  El Higo,1964.0,755.0,744.0,596.0,517.0
+30 VER,Nanchital de Lázaro Cárdenas del Río,  Nanchital De Lázaro Cárdenas Del Río,40.0,0.0,0.0,1.0,1.0
+30 VER,Tres Valles,  Tres Valles,4616.0,363.0,344.0,38.0,29.0
+30 VER,Carlos A. Carrillo,  Carlos A. Carrillo,1452.0,173.0,161.0,29.0,28.0
+30 VER,Tatahuicapan de Juárez,  Tatahuicapan De Juárez,1599.0,42.0,37.0,3.0,3.0
+30 VER,Uxpanapa,  Uxpanapa,5310.0,97.0,76.0,8.0,5.0
+30 VER,San Rafael,  San Rafael,2435.0,110.0,100.0,19.0,11.0
+30 VER,Santiago Sochiapan,  Santiago Sochiapan,2065.0,42.0,32.0,3.0,2.0
+31 YUC,, Yucatán,58036.0,1305.0,1150.0,432.0,354.0
+31 YUC,Abalá,  Abalá,316.0,0.0,0.0,2.0,2.0
+31 YUC,Acanceh,  Acanceh,414.0,15.0,11.0,4.0,4.0
+31 YUC,Akil,  Akil,1581.0,45.0,44.0,1.0,0.0
+31 YUC,Baca,  Baca,215.0,4.0,4.0,5.0,4.0
+31 YUC,Bokobá,  Bokobá,140.0,4.0,3.0,0.0,0.0
+31 YUC,Buctzotz,  Buctzotz,511.0,15.0,13.0,19.0,17.0
+31 YUC,Cacalchén,  Cacalchén,316.0,13.0,10.0,3.0,2.0
+31 YUC,Calotmul,  Calotmul,591.0,17.0,17.0,3.0,2.0
+31 YUC,Cansahcab,  Cansahcab,256.0,6.0,6.0,0.0,0.0
+31 YUC,Cantamayec,  Cantamayec,387.0,8.0,3.0,1.0,1.0
+31 YUC,Celestún,  Celestún,15.0,2.0,1.0,0.0,0.0
+31 YUC,Cenotillo,  Cenotillo,357.0,18.0,16.0,7.0,7.0
+31 YUC,Conkal,  Conkal,92.0,8.0,5.0,2.0,2.0
+31 YUC,Cuncunul,  Cuncunul,177.0,0.0,0.0,0.0,0.0
+31 YUC,Cuzamá,  Cuzamá,213.0,3.0,3.0,1.0,1.0
+31 YUC,Chacsinkín,  Chacsinkín,512.0,4.0,4.0,3.0,2.0
+31 YUC,Chankom,  Chankom,703.0,0.0,0.0,0.0,0.0
+31 YUC,Chapab,  Chapab,458.0,2.0,2.0,0.0,0.0
+31 YUC,Chemax,  Chemax,2289.0,54.0,50.0,3.0,1.0
+31 YUC,Chicxulub Pueblo,  Chicxulub Pueblo,42.0,1.0,1.0,0.0,0.0
+31 YUC,Chichimilá,  Chichimilá,546.0,10.0,10.0,4.0,3.0
+31 YUC,Chikindzonot,  Chikindzonot,1071.0,21.0,18.0,0.0,0.0
+31 YUC,Chocholá,  Chocholá,220.0,2.0,1.0,2.0,1.0
+31 YUC,Chumayel,  Chumayel,328.0,2.0,2.0,0.0,0.0
+31 YUC,Dzan,  Dzan,1110.0,52.0,51.0,1.0,0.0
+31 YUC,Dzemul,  Dzemul,115.0,3.0,2.0,2.0,1.0
+31 YUC,Dzidzantún,  Dzidzantún,373.0,27.0,25.0,3.0,0.0
+31 YUC,Dzilam de Bravo,  Dzilam De Bravo,58.0,3.0,2.0,0.0,0.0
+31 YUC,Dzilam González,  Dzilam González,527.0,7.0,6.0,12.0,11.0
+31 YUC,Dzitás,  Dzitás,360.0,9.0,9.0,11.0,7.0
+31 YUC,Dzoncauich,  Dzoncauich,257.0,2.0,0.0,9.0,7.0
+31 YUC,Espita,  Espita,1198.0,36.0,31.0,9.0,6.0
+31 YUC,Halachó,  Halachó,1003.0,31.0,29.0,0.0,0.0
+31 YUC,Hocabá,  Hocabá,240.0,0.0,0.0,1.0,0.0
+31 YUC,Hoctún,  Hoctún,367.0,1.0,1.0,1.0,1.0
+31 YUC,Homún,  Homún,320.0,4.0,3.0,2.0,2.0
+31 YUC,Huhí,  Huhí,293.0,11.0,11.0,2.0,2.0
+31 YUC,Hunucmá,  Hunucmá,154.0,3.0,2.0,1.0,1.0
+31 YUC,Ixil,  Ixil,150.0,6.0,3.0,2.0,1.0
+31 YUC,Izamal,  Izamal,881.0,3.0,3.0,8.0,2.0
+31 YUC,Kanasín,  Kanasín,67.0,2.0,2.0,0.0,0.0
+31 YUC,Kantunil,  Kantunil,286.0,6.0,4.0,8.0,7.0
+31 YUC,Kaua,  Kaua,350.0,7.0,6.0,0.0,0.0
+31 YUC,Kinchil,  Kinchil,260.0,3.0,3.0,2.0,2.0
+31 YUC,Kopomá,  Kopomá,196.0,2.0,2.0,3.0,2.0
+31 YUC,Mama,  Mama,450.0,5.0,4.0,3.0,3.0
+31 YUC,Maní,  Maní,1048.0,17.0,16.0,2.0,1.0
+31 YUC,Maxcanú,  Maxcanú,817.0,15.0,15.0,13.0,12.0
+31 YUC,Mayapán,  Mayapán,403.0,6.0,4.0,1.0,1.0
+31 YUC,Mérida,  Mérida,444.0,13.0,8.0,8.0,7.0
+31 YUC,Mocochá,  Mocochá,47.0,2.0,2.0,2.0,2.0
+31 YUC,Motul,  Motul,659.0,4.0,3.0,6.0,6.0
+31 YUC,Muna,  Muna,650.0,17.0,14.0,7.0,6.0
+31 YUC,Muxupip,  Muxupip,125.0,2.0,2.0,1.0,1.0
+31 YUC,Opichén,  Opichén,764.0,16.0,15.0,6.0,6.0
+31 YUC,Oxkutzcab,  Oxkutzcab,2329.0,88.0,82.0,1.0,0.0
+31 YUC,Panabá,  Panabá,576.0,16.0,15.0,14.0,14.0
+31 YUC,Peto,  Peto,1335.0,27.0,22.0,4.0,2.0
+31 YUC,Progreso,  Progreso,17.0,2.0,2.0,0.0,0.0
+31 YUC,Quintana Roo,  Quintana Roo,169.0,3.0,3.0,1.0,1.0
+31 YUC,Río Lagartos,  Río Lagartos,122.0,1.0,1.0,0.0,0.0
+31 YUC,Sacalum,  Sacalum,683.0,29.0,29.0,0.0,0.0
+31 YUC,Samahil,  Samahil,368.0,9.0,3.0,0.0,0.0
+31 YUC,Sanahcat,  Sanahcat,48.0,3.0,2.0,1.0,1.0
+31 YUC,San Felipe,  San Felipe,152.0,2.0,2.0,1.0,1.0
+31 YUC,Santa Elena,  Santa Elena,632.0,14.0,13.0,4.0,4.0
+31 YUC,Seyé,  Seyé,382.0,9.0,7.0,4.0,4.0
+31 YUC,Sinanché,  Sinanché,176.0,9.0,9.0,1.0,1.0
+31 YUC,Sotuta,  Sotuta,704.0,14.0,12.0,2.0,1.0
+31 YUC,Sucilá,  Sucilá,255.0,4.0,3.0,2.0,2.0
+31 YUC,Sudzal,  Sudzal,228.0,0.0,0.0,1.0,1.0
+31 YUC,Suma,  Suma,130.0,1.0,1.0,0.0,0.0
+31 YUC,Tahdziú,  Tahdziú,671.0,6.0,5.0,0.0,0.0
+31 YUC,Tahmek,  Tahmek,191.0,1.0,1.0,0.0,0.0
+31 YUC,Teabo,  Teabo,627.0,41.0,41.0,0.0,0.0
+31 YUC,Tecoh,  Tecoh,674.0,3.0,1.0,2.0,2.0
+31 YUC,Tekal de Venegas,  Tekal De Venegas,108.0,0.0,0.0,0.0,0.0
+31 YUC,Tekantó,  Tekantó,202.0,6.0,5.0,3.0,1.0
+31 YUC,Tekax,  Tekax,3581.0,154.0,141.0,77.0,77.0
+31 YUC,Tekit,  Tekit,352.0,0.0,0.0,2.0,0.0
+31 YUC,Tekom,  Tekom,287.0,1.0,1.0,0.0,0.0
+31 YUC,Telchac Pueblo,  Telchac Pueblo,99.0,2.0,2.0,0.0,0.0
+31 YUC,Telchac Puerto,  Telchac Puerto,10.0,0.0,0.0,0.0,0.0
+31 YUC,Temax,  Temax,337.0,4.0,4.0,4.0,4.0
+31 YUC,Temozón,  Temozón,1349.0,8.0,6.0,2.0,1.0
+31 YUC,Tepakán,  Tepakán,109.0,3.0,3.0,18.0,16.0
+31 YUC,Tetiz,  Tetiz,82.0,2.0,2.0,0.0,0.0
+31 YUC,Teya,  Teya,96.0,1.0,0.0,0.0,0.0
+31 YUC,Ticul,  Ticul,1229.0,33.0,29.0,4.0,2.0
+31 YUC,Timucuy,  Timucuy,214.0,3.0,1.0,2.0,1.0
+31 YUC,Tinum,  Tinum,705.0,2.0,2.0,0.0,0.0
+31 YUC,Tixcacalcupul,  Tixcacalcupul,616.0,4.0,3.0,2.0,2.0
+31 YUC,Tixkokob,  Tixkokob,341.0,15.0,10.0,11.0,8.0
+31 YUC,Tixmehuac,  Tixmehuac,952.0,8.0,6.0,1.0,0.0
+31 YUC,Tixpéhual,  Tixpéhual,53.0,5.0,0.0,0.0,0.0
+31 YUC,Tizimín,  Tizimín,3949.0,78.0,72.0,47.0,42.0
+31 YUC,Tunkás,  Tunkás,459.0,2.0,2.0,0.0,0.0
+31 YUC,Tzucacab,  Tzucacab,1607.0,27.0,24.0,4.0,3.0
+31 YUC,Uayma,  Uayma,329.0,2.0,2.0,0.0,0.0
+31 YUC,Ucú,  Ucú,50.0,3.0,3.0,1.0,1.0
+31 YUC,Umán,  Umán,236.0,7.0,5.0,0.0,0.0
+31 YUC,Valladolid,  Valladolid,2021.0,28.0,26.0,9.0,8.0
+31 YUC,Xocchel,  Xocchel,141.0,3.0,3.0,1.0,1.0
+31 YUC,Yaxcabá,  Yaxcabá,2155.0,44.0,36.0,18.0,5.0
+31 YUC,Yaxkukul,  Yaxkukul,53.0,1.0,0.0,1.0,1.0
+31 YUC,Yobaín,  Yobaín,123.0,8.0,6.0,1.0,1.0
+32 ZAC,, Zacatecas,137818.0,8484.0,7997.0,1337.0,1207.0
+32 ZAC,Apozol,  Apozol,621.0,12.0,12.0,3.0,3.0
+32 ZAC,Apulco,  Apulco,435.0,12.0,12.0,6.0,6.0
+32 ZAC,Atolinga,  Atolinga,734.0,21.0,20.0,6.0,6.0
+32 ZAC,Benito Juárez,  Benito Juárez,582.0,15.0,14.0,2.0,2.0
+32 ZAC,Calera,  Calera,1174.0,102.0,94.0,27.0,25.0
+32 ZAC,Cañitas de Felipe Pescador,  Cañitas De Felipe Pescador,1608.0,70.0,68.0,9.0,8.0
+32 ZAC,Concepción del Oro,  Concepción Del Oro,1090.0,45.0,42.0,15.0,15.0
+32 ZAC,Cuauhtémoc,  Cuauhtémoc,1140.0,73.0,69.0,7.0,7.0
+32 ZAC,Chalchihuites,  Chalchihuites,1819.0,158.0,147.0,11.0,11.0
+32 ZAC,Fresnillo,  Fresnillo,15381.0,1025.0,955.0,137.0,125.0
+32 ZAC,Trinidad García de la Cadena,  Trinidad García De La Cadena,546.0,66.0,66.0,4.0,4.0
+32 ZAC,Genaro Codina,  Genaro Codina,1176.0,39.0,35.0,5.0,5.0
+32 ZAC,General Enrique Estrada,  General Enrique Estrada,610.0,60.0,58.0,14.0,13.0
+32 ZAC,General Francisco R. Murguía,  General Francisco R. Murguía,5654.0,284.0,271.0,46.0,38.0
+32 ZAC,El Plateado de Joaquín Amaro,  El Plateado De Joaquín Amaro,433.0,8.0,5.0,1.0,1.0
+32 ZAC,General Pánfilo Natera,  General Pánfilo Natera,2054.0,110.0,105.0,14.0,13.0
+32 ZAC,Guadalupe,  Guadalupe,4251.0,292.0,255.0,28.0,24.0
+32 ZAC,Huanusco,  Huanusco,805.0,23.0,23.0,4.0,3.0
+32 ZAC,Jalpa,  Jalpa,1156.0,62.0,54.0,8.0,7.0
+32 ZAC,Jerez,  Jerez,4349.0,206.0,183.0,41.0,39.0
+32 ZAC,Jiménez del Teul,  Jiménez Del Teul,758.0,28.0,28.0,2.0,2.0
+32 ZAC,Juan Aldama,  Juan Aldama,1961.0,165.0,163.0,50.0,50.0
+32 ZAC,Juchipila,  Juchipila,499.0,8.0,7.0,0.0,0.0
+32 ZAC,Loreto,  Loreto,1872.0,159.0,144.0,41.0,39.0
+32 ZAC,Luis Moya,  Luis Moya,1128.0,143.0,139.0,17.0,17.0
+32 ZAC,Mazapil,  Mazapil,3431.0,61.0,51.0,6.0,6.0
+32 ZAC,Melchor Ocampo,  Melchor Ocampo,416.0,6.0,6.0,3.0,3.0
+32 ZAC,Mezquital del Oro,  Mezquital Del Oro,439.0,9.0,9.0,5.0,4.0
+32 ZAC,Miguel Auza,  Miguel Auza,4584.0,633.0,610.0,172.0,154.0
+32 ZAC,Momax,  Momax,314.0,9.0,9.0,2.0,2.0
+32 ZAC,Monte Escobedo,  Monte Escobedo,1275.0,46.0,41.0,6.0,6.0
+32 ZAC,Morelos,  Morelos,781.0,67.0,65.0,13.0,10.0
+32 ZAC,Moyahua de Estrada,  Moyahua De Estrada,373.0,7.0,7.0,2.0,2.0
+32 ZAC,Nochistlán de Mejía,  Nochistlán De Mejía,1811.0,58.0,57.0,5.0,5.0
+32 ZAC,Noria de Ángeles,  Noria De Ángeles,2255.0,167.0,159.0,15.0,10.0
+32 ZAC,Ojocaliente,  Ojocaliente,3008.0,176.0,168.0,29.0,28.0
+32 ZAC,Pánuco,  Pánuco,3750.0,302.0,290.0,47.0,43.0
+32 ZAC,Pinos,  Pinos,12248.0,467.0,439.0,68.0,64.0
+32 ZAC,Río Grande,  Río Grande,6342.0,418.0,405.0,74.0,66.0
+32 ZAC,Sain Alto,  Sain Alto,3666.0,275.0,269.0,17.0,14.0
+32 ZAC,El Salvador,  El Salvador,724.0,26.0,26.0,12.0,12.0
+32 ZAC,Sombrerete,  Sombrerete,9874.0,1186.0,1139.0,163.0,143.0
+32 ZAC,Susticacán,  Susticacán,153.0,1.0,1.0,0.0,0.0
+32 ZAC,Tabasco,  Tabasco,1238.0,63.0,60.0,7.0,4.0
+32 ZAC,Tepechitlán,  Tepechitlán,853.0,12.0,12.0,4.0,3.0
+32 ZAC,Tepetongo,  Tepetongo,1640.0,58.0,53.0,16.0,12.0
+32 ZAC,Teúl de González Ortega,  Teúl De González Ortega,591.0,38.0,33.0,2.0,0.0
+32 ZAC,Tlaltenango de Sánchez Román,  Tlaltenango De Sánchez Román,1567.0,66.0,59.0,3.0,3.0
+32 ZAC,Valparaíso,  Valparaíso,4748.0,134.0,125.0,31.0,30.0
+32 ZAC,Vetagrande,  Vetagrande,797.0,63.0,63.0,4.0,3.0
+32 ZAC,Villa de Cos,  Villa De Cos,6767.0,457.0,416.0,58.0,50.0
+32 ZAC,Villa García,  Villa García,1555.0,32.0,27.0,11.0,9.0
+32 ZAC,Villa González Ortega,  Villa González Ortega,1854.0,72.0,68.0,16.0,14.0
+32 ZAC,Villa Hidalgo,  Villa Hidalgo,1836.0,102.0,101.0,16.0,15.0
+32 ZAC,Villanueva,  Villanueva,3924.0,141.0,128.0,23.0,21.0
+32 ZAC,Zacatecas,  Zacatecas,1589.0,86.0,82.0,5.0,5.0
+32 ZAC,Trancoso,  Trancoso,1024.0,45.0,39.0,3.0,2.0
+32 ZAC,Santa María de la Paz,  Santa María De La Paz,555.0,15.0,11.0,1.0,1.0
