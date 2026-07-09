@@ -39,6 +39,18 @@ def _cafe_exacto(serie):
 # SIAP — serie completa
 # --------------------------------------------------------------------------- #
 def cargar_siap_serie():
+    # Preferir parquet (café ya filtrado, mucho más liviano); si no, leer los CSV.
+    pq_cafe = os.path.join(DATA, "siap_cafe.parquet")
+    pq_tot = os.path.join(DATA, "siap_totales.parquet")
+    if os.path.exists(pq_cafe) and os.path.exists(pq_tot):
+        cafe = pd.read_parquet(pq_cafe)
+        tot = pd.read_parquet(pq_tot)
+        # Reconstruir estructura mínima: el resto del código espera un df con café
+        # y necesita los totales de volumen por estado-año para el LQ.
+        # Guardamos los totales como atributo accesible.
+        cafe.attrs["totales_estado"] = tot
+        return cafe
+    # Fallback: CSV originales
     frames = []
     for r in sorted(glob.glob(os.path.join(DATA, "20[0-9][0-9].csv"))):
         frames.append(pd.read_csv(r, encoding="latin-1", low_memory=False))
@@ -82,16 +94,30 @@ def indices_grupo1(siap, inpc, anio_base=2024):
     es_cafe = _es_cafe(siap["Nomcultivo"])
     cafe = siap[es_cafe]
     I_base = inpc.get(anio_base, np.nan)
+    # Totales de volumen agrícola por estado-año (para el denominador del LQ).
+    # Con parquet vienen en attrs; con CSV se calculan del propio siap.
+    totales = siap.attrs.get("totales_estado")
+
+    def vol_total(anio, estado=None):
+        if totales is not None:
+            t = totales[totales["Anio"] == anio]
+            if estado:
+                t = t[t["Nomestado"] == estado]
+            return t["Vol_total_agricola"].sum()
+        s = siap[siap["Anio"] == anio]
+        if estado:
+            s = s[s["Nomestado"] == estado]
+        return s["Volumenproduccion"].sum()
+
     filas = []
-    for anio in sorted(siap["Anio"].dropna().unique().astype(int)):
-        sy = siap[siap["Anio"] == anio]
+    for anio in sorted(cafe["Anio"].dropna().unique().astype(int)):
         cy = cafe[cafe["Anio"] == anio]
         oax = cy[cy["Nomestado"] == ENT_NOMBRE]
 
         vol_cafe_oax = oax["Volumenproduccion"].sum()
-        vol_total_oax = sy[sy["Nomestado"] == ENT_NOMBRE]["Volumenproduccion"].sum()
+        vol_total_oax = vol_total(anio, ENT_NOMBRE)
         vol_cafe_nac = cy["Volumenproduccion"].sum()
-        vol_total_nac = sy["Volumenproduccion"].sum()
+        vol_total_nac = vol_total(anio)
         lq = np.nan
         if vol_total_oax and vol_cafe_nac and vol_total_nac:
             lq = (vol_cafe_oax / vol_total_oax) / (vol_cafe_nac / vol_total_nac)
