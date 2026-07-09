@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Dashboard — Modelo competitivo de comercialización de café · Oaxaca
-Proyecto General de Protocolo y Bases.
+
 
 Fuentes:
   · SIAP (SIAP-SADER), Cierre de la producción agrícola, 2010-2024.
@@ -132,7 +132,7 @@ INEGI. Marco Geoestadístico.
 # --------------------------------------------------------------------------- #
 st.title("Diagnóstico de producción y comercialización de café en Oaxaca")
 st.caption(f"Serie 2010-2024 · Precios reales en pesos de {anio_base} · "
-           "Proyecto General de Protocolo y Bases")
+           )
 
 # =========================================================================== #
 # RESUMEN
@@ -208,7 +208,7 @@ if pagina == "Precio justo":
     st.plotly_chart(figb, use_container_width=True)
     explica("cada barra es un año. Todas caen por debajo de cero: el productor oaxaqueño recibió "
             "menos que el promedio nacional en los 15 años. Entre más roja y baja la barra, mayor "
-            "la desventaja (el peor año fue 2012, durante la crisis de la roya).")
+            "la desventaja (el peor año fue 2012).")
 
 # =========================================================================== #
 # ESPECIALIZACIÓN
@@ -241,7 +241,7 @@ if pagina == "Especialización":
     explica("el LQ (izquierda) mide si Oaxaca se especializa en café más que el país: arriba de 1 "
             "sí. Cae con los años, señal de que el café pesa cada vez menos en su economía agrícola. "
             "El Gini y HHI (derecha) miden si la producción se concentra en pocos municipios: se "
-            "mantienen altos, lo que justifica enfocar el proyecto en municipios específicos.")
+            "mantienen altos, lo que justifica enfocar el proyecto en municipios específicos. Para el índice Gini un valor de 0 indica igualdad perfecta, mientras que la unidad representa desiguadad máxima ")
 
 # =========================================================================== #
 # VULNERABILIDAD
@@ -262,7 +262,7 @@ if pagina == "Vulnerabilidad":
            "sembrada y cosechada (el SIAP no registra 'siniestrada' en cultivos perennes).")
     explica("las barras marrones son el % de superficie sembrada que NO se llegó a cosechar (pérdida). "
             "La línea verde es el rendimiento. Cuando las barras suben y la línea baja (2015-2019), es "
-            "la huella de la epidemia de roya que golpeó a la cafeticultura oaxaqueña.")
+            "la huella de algún evento que golpeó la producción de Café en Oaxaca.")
 
 # =========================================================================== #
 # COMERCIALIZACIÓN
@@ -350,7 +350,7 @@ if pagina == "Estructura × Desempeño":
     if len(d) > 10:
         r = np.corrcoef(d[eje_x], d[eje_y])[0, 1]
         explica(f"cada punto es un municipio; el tamaño es su volumen de café. La línea roja marca la "
-                f"tendencia. Correlación de Pearson: r = {r:+.3f} (n={len(d)}). Recuerda: indica "
+                f"tendencia. Correlación de Pearson: r = {r:+.3f} (n={len(d)}). Indica "
                 "asociación estadística, NO causa. Magnitudes débiles a moderadas.")
 
 # =========================================================================== #
